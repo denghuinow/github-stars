@@ -2,9 +2,10 @@
 
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
-**总计 455 个项目** · 🔥 Active 208 · ⚠️ Stale 47 · 📦 Archived 16
+**总计 455 个项目** · 🤖 AI 0 · 📌 Manual 6 · ⚙️ Rule 449
+🔥 Active 208 · ⚠️ Stale 47 · 📦 Archived 16
 
-最后同步：`2026-08-10 07:46 UTC`
+最后同步：`2026-08-10 07:51 UTC`
 
 ## 分类
 
@@ -17,12 +18,18 @@
 | AI / NL2SQL | 4 | [查看](categories/ai-nl2sql.md) |
 | Quant / Finance | 5 | [查看](categories/quant-finance.md) |
 | Data / Visualization | 15 | [查看](categories/data-visualization.md) |
-| Dev Tools | 32 | [查看](categories/dev-tools.md) |
+| Dev Tools | 31 | [查看](categories/dev-tools.md) |
 | DevOps / Cloud | 12 | [查看](categories/devops-cloud.md) |
 | Embedded / Hardware | 1 | [查看](categories/embedded-hardware.md) |
 | Networking / Security | 31 | [查看](categories/networking-security.md) |
 | Learning / Resources | 38 | [查看](categories/learning-resources.md) |
-| Other | 137 | [查看](categories/other.md) |
+| Other | 138 | [查看](categories/other.md) |
+
+## 分类优先级
+
+`overrides.json` 人工指定 > AI 缓存分类 > 关键词规则兜底。
+
+AI 分类结果保存在 `data/ai_categories.json`，已有项目不会每天重复调用 AI；新增 Star 才需要新的 AI 分类。
 
 ## 状态说明
 
@@ -32,9 +39,13 @@
 - ⚠️ **Stale**：超过 3 年未 push
 - 📦 **Archived**：GitHub 已归档
 
+## AI 配置
+
+GitHub Actions 使用 `AI_API_KEY` Secret，以及 `AI_BASE_URL`、`AI_MODEL` Repository Variables。接口需兼容 OpenAI `/v1/chat/completions`。
+
 ## 人工修正
 
-编辑 `overrides.json` 可指定分类或忽略项目。自动同步不会覆盖人工规则。
+编辑 `overrides.json` 可锁定分类或忽略项目。人工规则始终优先。
 
 ## 自动更新
 
