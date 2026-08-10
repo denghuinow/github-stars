@@ -5,11 +5,11 @@
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "description_zh": "包含多种专业化AI代理的完整AI代理机构，每个代理具有独特人格和交付能力",
     "language": "Shell",
-    "stargazers_count": 141217,
-    "forks_count": 23040,
+    "stargazers_count": 141252,
+    "forks_count": 23044,
     "topics": [],
     "pushed_at": "2026-08-06T13:29:47Z",
-    "updated_at": "2026-08-10T08:36:10Z",
+    "updated_at": "2026-08-10T09:18:00Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "override"
@@ -20,8 +20,8 @@
     "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
     "description_zh": "LLM驱动的多市场股票智能分析系统，支持多源行情、实时新闻、决策看板与自动推送",
     "language": "Python",
-    "stargazers_count": 61557,
-    "forks_count": 52125,
+    "stargazers_count": 61589,
+    "forks_count": 52135,
     "topics": [
       "a-stock",
       "ai-agent",
@@ -32,7 +32,7 @@
       "quantitative-trading"
     ],
     "pushed_at": "2026-08-10T06:44:33Z",
-    "updated_at": "2026-08-10T08:39:09Z",
+    "updated_at": "2026-08-10T09:18:56Z",
     "archived": false,
     "category": "Quant / Finance",
     "classifier": "override"
@@ -43,7 +43,7 @@
     "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
     "description_zh": "动画图解数据结构与算法教程，支持多种编程语言实现，提供简中繁中等多语言版本",
     "language": "Java",
-    "stargazers_count": 129323,
+    "stargazers_count": 129325,
     "forks_count": 15504,
     "topics": [
       "algo",
@@ -59,7 +59,7 @@
       "programming"
     ],
     "pushed_at": "2026-07-24T07:32:34Z",
-    "updated_at": "2026-08-10T08:24:54Z",
+    "updated_at": "2026-08-10T09:15:41Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -70,7 +70,7 @@
     "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
     "description_zh": "企业级AI低代码平台，支持一键生成前后端代码，内置AI聊天、知识库、流程编排等功能",
     "language": "Java",
-    "stargazers_count": 47353,
+    "stargazers_count": 47354,
     "forks_count": 16148,
     "topics": [
       "activiti",
@@ -95,7 +95,7 @@
       "vue3"
     ],
     "pushed_at": "2026-08-10T04:02:41Z",
-    "updated_at": "2026-08-10T08:01:45Z",
+    "updated_at": "2026-08-10T09:06:49Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -106,8 +106,8 @@
     "description": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
     "description_zh": "高性能异步抖音快手TikTok Bilibili数据爬取工具，支持API调用和在线批量解析下载",
     "language": "Python",
-    "stargazers_count": 19264,
-    "forks_count": 2726,
+    "stargazers_count": 19266,
+    "forks_count": 2727,
     "topics": [
       "api",
       "async",
@@ -131,7 +131,7 @@
       "web-scraping"
     ],
     "pushed_at": "2025-10-12T15:30:32Z",
-    "updated_at": "2026-08-10T08:35:05Z",
+    "updated_at": "2026-08-10T09:07:44Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -173,7 +173,7 @@
     "description_zh": "Claude Code的Web和移动端GUI界面，支持远程管理Claude Code会话和项目",
     "language": "TypeScript",
     "stargazers_count": 13208,
-    "forks_count": 1820,
+    "forks_count": 1821,
     "topics": [
       "anthropic",
       "anthropic-ai",
@@ -200,7 +200,7 @@
     "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "description_zh": "基于多智能体LLM的金融交易框架，用于自动化交易决策",
     "language": "Python",
-    "stargazers_count": 96915,
+    "stargazers_count": 96918,
     "forks_count": 18712,
     "topics": [
       "agent",
@@ -210,7 +210,7 @@
       "trading"
     ],
     "pushed_at": "2026-07-18T15:55:05Z",
-    "updated_at": "2026-08-10T08:32:01Z",
+    "updated_at": "2026-08-10T09:06:16Z",
     "archived": false,
     "category": "Quant / Finance",
     "classifier": "ai"
@@ -221,7 +221,7 @@
     "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
     "description_zh": "端到端开发者平台，包含源码管理、CI/CD流水线、托管开发环境和制品仓库",
     "language": "Go",
-    "stargazers_count": 37740,
+    "stargazers_count": 37741,
     "forks_count": 3308,
     "topics": [
       "build-automation",
@@ -238,7 +238,7 @@
       "scm"
     ],
     "pushed_at": "2026-08-06T14:58:05Z",
-    "updated_at": "2026-08-10T08:21:40Z",
+    "updated_at": "2026-08-10T09:12:17Z",
     "archived": false,
     "category": "DevOps / Cloud",
     "classifier": "ai"
@@ -291,7 +291,7 @@
       "quant"
     ],
     "pushed_at": "2026-02-28T02:59:12Z",
-    "updated_at": "2026-08-10T06:21:28Z",
+    "updated_at": "2026-08-10T09:16:42Z",
     "archived": false,
     "category": "Quant / Finance",
     "classifier": "ai"
@@ -302,11 +302,11 @@
     "description": "美股指南",
     "description_zh": "面向中文用户的美股投资指南",
     "language": null,
-    "stargazers_count": 6246,
+    "stargazers_count": 6247,
     "forks_count": 924,
     "topics": [],
     "pushed_at": "2026-07-22T03:03:26Z",
-    "updated_at": "2026-08-10T06:13:21Z",
+    "updated_at": "2026-08-10T09:06:24Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -317,7 +317,7 @@
     "description": "Community maintained hardware plugin for vLLM on Ascend",
     "description_zh": "vLLM在昇腾硬件上的社区维护插件，支持昇腾推理加速",
     "language": "C++",
-    "stargazers_count": 2592,
+    "stargazers_count": 2593,
     "forks_count": 2010,
     "topics": [
       "ascend",
@@ -330,8 +330,8 @@
       "transformer",
       "vllm"
     ],
-    "pushed_at": "2026-08-10T08:16:21Z",
-    "updated_at": "2026-08-10T08:16:49Z",
+    "pushed_at": "2026-08-10T09:11:26Z",
+    "updated_at": "2026-08-10T09:12:03Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -358,7 +358,7 @@
     "description_zh": "关于编码智能体的研究项目",
     "language": null,
     "stargazers_count": 12203,
-    "forks_count": 19613,
+    "forks_count": 19612,
     "topics": [],
     "pushed_at": "2026-04-01T10:55:06Z",
     "updated_at": "2026-08-09T21:11:17Z",
@@ -387,11 +387,11 @@
     "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
     "description_zh": "由AI代理自主构建和维护的Rust博物馆展览项目，无人工干预",
     "language": "Rust",
-    "stargazers_count": 195018,
-    "forks_count": 109226,
+    "stargazers_count": 195021,
+    "forks_count": 109225,
     "topics": [],
     "pushed_at": "2026-08-06T11:18:35Z",
-    "updated_at": "2026-08-10T08:35:14Z",
+    "updated_at": "2026-08-10T08:47:49Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -481,11 +481,11 @@
     "description": "PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。",
     "description_zh": "PC端离线语音输入工具，支持高准确率低延迟识别、热词和LLM润色",
     "language": "Python",
-    "stargazers_count": 6568,
+    "stargazers_count": 6569,
     "forks_count": 606,
     "topics": [],
     "pushed_at": "2026-06-10T16:03:39Z",
-    "updated_at": "2026-08-10T08:18:58Z",
+    "updated_at": "2026-08-10T09:04:40Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -496,7 +496,7 @@
     "description": "A simple, decentralized mesh VPN with WireGuard support.",
     "description_zh": "简单去中心化的Mesh VPN，支持WireGuard协议和NAT穿透",
     "language": "Rust",
-    "stargazers_count": 13042,
+    "stargazers_count": 13043,
     "forks_count": 1312,
     "topics": [
       "nat-traversal",
@@ -507,7 +507,7 @@
       "zerotier"
     ],
     "pushed_at": "2026-08-10T06:15:12Z",
-    "updated_at": "2026-08-10T07:37:19Z",
+    "updated_at": "2026-08-10T09:10:11Z",
     "archived": false,
     "category": "Networking / Security",
     "classifier": "ai"
@@ -518,8 +518,8 @@
     "description": "Display and control your Android device",
     "description_zh": "Android设备屏幕显示和控制工具，支持录制和镜像功能",
     "language": "C",
-    "stargazers_count": 147332,
-    "forks_count": 13563,
+    "stargazers_count": 147337,
+    "forks_count": 13564,
     "topics": [
       "android",
       "c",
@@ -531,7 +531,7 @@
       "sdl2"
     ],
     "pushed_at": "2026-07-12T18:16:07Z",
-    "updated_at": "2026-08-10T08:31:17Z",
+    "updated_at": "2026-08-10T09:04:20Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -542,7 +542,7 @@
     "description": "Modern Xposed Framework",
     "description_zh": "现代Xposed框架，支持Arthook和Zygisk等特性",
     "language": "Kotlin",
-    "stargazers_count": 12058,
+    "stargazers_count": 12060,
     "forks_count": 809,
     "topics": [
       "android",
@@ -552,7 +552,7 @@
       "zygisk"
     ],
     "pushed_at": "2026-08-10T01:45:05Z",
-    "updated_at": "2026-08-10T08:35:18Z",
+    "updated_at": "2026-08-10T09:12:14Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -586,7 +586,7 @@
     "description": "Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南",
     "description_zh": "Vibe Coding从入门到精通教程，涵盖AI结对编程工作流和Prompt Skill实战指南",
     "language": "Python",
-    "stargazers_count": 15816,
+    "stargazers_count": 15818,
     "forks_count": 1590,
     "topics": [
       "ai",
@@ -609,7 +609,7 @@
       "workflow"
     ],
     "pushed_at": "2026-08-04T07:42:07Z",
-    "updated_at": "2026-08-10T07:10:24Z",
+    "updated_at": "2026-08-10T09:05:06Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -620,7 +620,7 @@
     "description": "2026年8月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器",
     "description_zh": "国内可用Docker镜像源汇总和DockerHub镜像加速器列表",
     "language": null,
-    "stargazers_count": 9442,
+    "stargazers_count": 9444,
     "forks_count": 427,
     "topics": [
       "cloudflare",
@@ -631,7 +631,7 @@
       "proxy"
     ],
     "pushed_at": "2026-06-13T12:44:49Z",
-    "updated_at": "2026-08-10T07:32:35Z",
+    "updated_at": "2026-08-10T08:51:58Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -760,7 +760,7 @@
     "description": "拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架| Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledge graph construction and search. Combine DeepSearch for private RAG reasoning. Create a custom evaluation framework for GraphRAG.",
     "description_zh": "融合GraphRAG LightRAG和Neo4j的知识图谱构建搜索工具，整合DeepSearch实现私域RAG推理",
     "language": "Python",
-    "stargazers_count": 2308,
+    "stargazers_count": 2307,
     "forks_count": 321,
     "topics": [
       "agentic-rag",
@@ -776,7 +776,7 @@
       "think-on-graph"
     ],
     "pushed_at": "2025-11-05T08:15:51Z",
-    "updated_at": "2026-08-09T06:12:23Z",
+    "updated_at": "2026-08-10T08:55:20Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -941,7 +941,7 @@
     "forks_count": 1216,
     "topics": [],
     "pushed_at": "2026-08-08T03:01:10Z",
-    "updated_at": "2026-08-10T08:28:41Z",
+    "updated_at": "2026-08-10T08:57:46Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -952,16 +952,16 @@
     "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
     "description_zh": "从零开始构建智能体的原理与实践教程，涵盖Agent LLM和RAG",
     "language": "Python",
-    "stargazers_count": 71948,
-    "forks_count": 8962,
+    "stargazers_count": 71965,
+    "forks_count": 8965,
     "topics": [
       "agent",
       "llm",
       "rag",
       "tutorial"
     ],
-    "pushed_at": "2026-08-07T09:09:57Z",
-    "updated_at": "2026-08-10T08:39:00Z",
+    "pushed_at": "2026-08-10T08:58:48Z",
+    "updated_at": "2026-08-10T09:15:36Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -999,7 +999,7 @@
     "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.",
     "description_zh": "AI驱动的深度研究助手，结合搜索引擎网页抓取和LLM进行迭代式深度研究",
     "language": "TypeScript",
-    "stargazers_count": 19519,
+    "stargazers_count": 19520,
     "forks_count": 1992,
     "topics": [
       "agent",
@@ -1009,7 +1009,7 @@
       "research"
     ],
     "pushed_at": "2026-04-11T23:58:25Z",
-    "updated_at": "2026-08-10T08:21:18Z",
+    "updated_at": "2026-08-10T09:04:22Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -1020,7 +1020,7 @@
     "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
     "description_zh": "股票数据获取指标计算筹码分布形态识别选股策略回测和自动交易工具",
     "language": "Python",
-    "stargazers_count": 13744,
+    "stargazers_count": 13745,
     "forks_count": 2848,
     "topics": [
       "backtest",
@@ -1037,7 +1037,7 @@
       "strategy"
     ],
     "pushed_at": "2026-04-02T02:26:35Z",
-    "updated_at": "2026-08-10T08:29:58Z",
+    "updated_at": "2026-08-10T09:02:20Z",
     "archived": false,
     "category": "Quant / Finance",
     "classifier": "ai"
@@ -1067,11 +1067,11 @@
     "description": "Lightweight coding agent that runs in your terminal",
     "description_zh": "OpenAI推出的轻量级终端编码智能体，支持命令行编程辅助",
     "language": "Rust",
-    "stargazers_count": 105061,
+    "stargazers_count": 105066,
     "forks_count": 15899,
     "topics": [],
     "pushed_at": "2026-08-10T08:31:28Z",
-    "updated_at": "2026-08-10T08:32:39Z",
+    "updated_at": "2026-08-10T09:17:00Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -1132,7 +1132,7 @@
     "description": "An Open-Source Asynchronous Coding Agent",
     "description_zh": "开源异步编码智能体框架，用于内部代码开发自动化",
     "language": "Python",
-    "stargazers_count": 10522,
+    "stargazers_count": 10524,
     "forks_count": 1224,
     "topics": [
       "agent",
@@ -1145,7 +1145,7 @@
       "openai"
     ],
     "pushed_at": "2026-08-09T08:17:55Z",
-    "updated_at": "2026-08-10T06:01:27Z",
+    "updated_at": "2026-08-10T09:05:13Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -1156,11 +1156,11 @@
     "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
     "description_zh": "简单强大的代理工具，支持clash和sing-box路由规则",
     "language": "Dart",
-    "stargazers_count": 14174,
+    "stargazers_count": 14176,
     "forks_count": 1196,
     "topics": [],
     "pushed_at": "2026-08-07T01:41:36Z",
-    "updated_at": "2026-08-10T08:04:54Z",
+    "updated_at": "2026-08-10T09:03:43Z",
     "archived": false,
     "category": "Networking / Security",
     "classifier": "ai"
@@ -1171,8 +1171,8 @@
     "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
     "description_zh": "AI提示词优化工具，帮助编写更好的提示词获得更好的AI结果",
     "language": "TypeScript",
-    "stargazers_count": 33043,
-    "forks_count": 3877,
+    "stargazers_count": 33046,
+    "forks_count": 3876,
     "topics": [
       "ai-prompts",
       "ai-tools",
@@ -1186,7 +1186,7 @@
       "prompt-tuning"
     ],
     "pushed_at": "2026-07-27T06:15:15Z",
-    "updated_at": "2026-08-10T08:13:43Z",
+    "updated_at": "2026-08-10T09:07:47Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -1244,7 +1244,7 @@
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "description_zh": "分享GitHub上高质量有趣实用的开源技术教程开发者工具和技术资讯",
     "language": null,
-    "stargazers_count": 47438,
+    "stargazers_count": 47439,
     "forks_count": 4666,
     "topics": [
       "ai",
@@ -1265,7 +1265,7 @@
       "web"
     ],
     "pushed_at": "2025-12-31T18:59:20Z",
-    "updated_at": "2026-08-10T08:32:01Z",
+    "updated_at": "2026-08-10T08:48:47Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -1291,15 +1291,15 @@
     "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
     "description_zh": "中国独立开发者项目列表，分享大家都在做什么项目",
     "language": "Python",
-    "stargazers_count": 60665,
-    "forks_count": 5280,
+    "stargazers_count": 60667,
+    "forks_count": 5281,
     "topics": [
       "china",
       "indie",
       "indie-developer"
     ],
     "pushed_at": "2026-08-10T02:16:05Z",
-    "updated_at": "2026-08-10T08:13:08Z",
+    "updated_at": "2026-08-10T08:59:10Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -1332,7 +1332,7 @@
       "video-generation"
     ],
     "pushed_at": "2026-03-17T10:48:41Z",
-    "updated_at": "2026-08-10T08:04:03Z",
+    "updated_at": "2026-08-10T09:07:44Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -1354,7 +1354,7 @@
       "voice-clone",
       "zero-shot-tts"
     ],
-    "pushed_at": "2026-08-10T08:12:07Z",
+    "pushed_at": "2026-08-10T08:54:34Z",
     "updated_at": "2026-08-10T08:28:54Z",
     "archived": false,
     "category": "AI / LLM",
@@ -1381,11 +1381,11 @@
     "description": "Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).",
     "description_zh": "Claude Code的自动化工作流，支持规范驱动开发和快速缺陷修复流程",
     "language": "TypeScript",
-    "stargazers_count": 3826,
+    "stargazers_count": 3827,
     "forks_count": 272,
     "topics": [],
     "pushed_at": "2025-09-07T14:14:52Z",
-    "updated_at": "2026-08-10T07:25:02Z",
+    "updated_at": "2026-08-10T08:57:01Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -1396,7 +1396,7 @@
     "description": "An open-source AI coding agent that lives in your terminal.",
     "description_zh": "开源AI编码智能体，运行在终端中，支持MCP协议和多种开发任务",
     "language": "TypeScript",
-    "stargazers_count": 26890,
+    "stargazers_count": 26893,
     "forks_count": 2834,
     "topics": [
       "agentic",
@@ -1412,8 +1412,8 @@
       "terminal",
       "typescript"
     ],
-    "pushed_at": "2026-08-10T08:36:21Z",
-    "updated_at": "2026-08-10T07:59:01Z",
+    "pushed_at": "2026-08-10T09:14:58Z",
+    "updated_at": "2026-08-10T09:07:55Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -1464,7 +1464,7 @@
     "description": "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.",
     "description_zh": "开源深度研究工具，在私有数据上进行推理和搜索，替代商业深度研究服务",
     "language": "Python",
-    "stargazers_count": 8028,
+    "stargazers_count": 8029,
     "forks_count": 772,
     "topics": [
       "agent",
@@ -1486,7 +1486,7 @@
       "zilliz"
     ],
     "pushed_at": "2025-11-19T06:04:16Z",
-    "updated_at": "2026-08-10T01:40:40Z",
+    "updated_at": "2026-08-10T09:13:47Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -1497,7 +1497,7 @@
     "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
     "description_zh": "AI智能体开发平台，提供可视化工具简化智能体创建调试和部署",
     "language": "TypeScript",
-    "stargazers_count": 21417,
+    "stargazers_count": 21416,
     "forks_count": 3112,
     "topics": [
       "agent",
@@ -1519,7 +1519,7 @@
       "workflow"
     ],
     "pushed_at": "2026-07-29T03:18:43Z",
-    "updated_at": "2026-08-10T06:34:48Z",
+    "updated_at": "2026-08-10T08:41:27Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -1624,7 +1624,7 @@
     "description": "📚 从零开始构建大模型",
     "description_zh": "从零开始构建大模型的教程项目，涵盖LLM原理与实践",
     "language": "Jupyter Notebook",
-    "stargazers_count": 32814,
+    "stargazers_count": 32816,
     "forks_count": 3108,
     "topics": [
       "agent",
@@ -1632,7 +1632,7 @@
       "rag"
     ],
     "pushed_at": "2026-08-08T17:18:48Z",
-    "updated_at": "2026-08-10T08:03:10Z",
+    "updated_at": "2026-08-10T09:03:53Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -1658,8 +1658,8 @@
     "description": "18 Lessons to Get Started Building AI Agents",
     "description_zh": "微软出品的18课AI智能体入门教程，涵盖智能体框架和构建实践",
     "language": "Jupyter Notebook",
-    "stargazers_count": 71773,
-    "forks_count": 23770,
+    "stargazers_count": 71784,
+    "forks_count": 23772,
     "topics": [
       "agentic-ai",
       "agentic-framework",
@@ -1674,7 +1674,7 @@
       "semantic-kernel"
     ],
     "pushed_at": "2026-07-29T19:47:29Z",
-    "updated_at": "2026-08-10T08:28:46Z",
+    "updated_at": "2026-08-10T09:19:40Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -1700,7 +1700,7 @@
     "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
     "description_zh": "智能体用户交互协议，将AI代理集成到前端应用程序中",
     "language": "Python",
-    "stargazers_count": 15208,
+    "stargazers_count": 15209,
     "forks_count": 1378,
     "topics": [
       "ag-ui-protocol",
@@ -1709,8 +1709,8 @@
       "agentic-workflow",
       "ai-agents"
     ],
-    "pushed_at": "2026-08-10T08:01:25Z",
-    "updated_at": "2026-08-10T08:13:51Z",
+    "pushed_at": "2026-08-10T08:56:36Z",
+    "updated_at": "2026-08-10T09:04:28Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -1753,7 +1753,7 @@
     "description": "Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.",
     "description_zh": "基于iPXE的网络启动操作系统安装器，支持多种操作系统裸机部署",
     "language": "Jinja",
-    "stargazers_count": 12123,
+    "stargazers_count": 12124,
     "forks_count": 841,
     "topics": [
       "ansible",
@@ -1778,7 +1778,7 @@
       "tftp"
     ],
     "pushed_at": "2026-08-10T06:15:05Z",
-    "updated_at": "2026-08-10T06:15:09Z",
+    "updated_at": "2026-08-10T08:51:23Z",
     "archived": false,
     "category": "DevOps / Cloud",
     "classifier": "ai"
@@ -1814,7 +1814,7 @@
       "windsurf-ai"
     ],
     "pushed_at": "2026-08-06T22:48:55Z",
-    "updated_at": "2026-08-10T08:25:16Z",
+    "updated_at": "2026-08-10T09:09:31Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -1825,7 +1825,7 @@
     "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
     "description_zh": "从文本生成流程图时序图等图表的可视化工具，类似Markdown语法",
     "language": "TypeScript",
-    "stargazers_count": 89658,
+    "stargazers_count": 89660,
     "forks_count": 9162,
     "topics": [
       "diagrams",
@@ -1837,8 +1837,8 @@
       "typescript",
       "uml-diagrams"
     ],
-    "pushed_at": "2026-08-10T05:31:20Z",
-    "updated_at": "2026-08-10T06:42:22Z",
+    "pushed_at": "2026-08-10T09:06:40Z",
+    "updated_at": "2026-08-10T09:15:59Z",
     "archived": false,
     "category": "Data / Visualization",
     "classifier": "ai"
@@ -1849,7 +1849,7 @@
     "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
     "description_zh": "100多个AI智能体智能技能和RAG应用的开源项目集合",
     "language": "Python",
-    "stargazers_count": 131839,
+    "stargazers_count": 131849,
     "forks_count": 19415,
     "topics": [
       "agents",
@@ -1858,7 +1858,7 @@
       "rag"
     ],
     "pushed_at": "2026-08-10T07:26:18Z",
-    "updated_at": "2026-08-10T08:33:21Z",
+    "updated_at": "2026-08-10T09:17:31Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -1952,7 +1952,7 @@
     "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
     "description_zh": "面向任何GitHub项目的远程MCP服务器，消除代码幻觉问题",
     "language": "TypeScript",
-    "stargazers_count": 8320,
+    "stargazers_count": 8321,
     "forks_count": 745,
     "topics": [
       "agentic-ai",
@@ -1966,7 +1966,7 @@
       "mcp"
     ],
     "pushed_at": "2026-05-08T14:21:24Z",
-    "updated_at": "2026-08-10T01:28:41Z",
+    "updated_at": "2026-08-10T09:10:07Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -1988,8 +1988,8 @@
       "generative-ai",
       "linux-foundation"
     ],
-    "pushed_at": "2026-08-08T09:48:45Z",
-    "updated_at": "2026-08-10T08:09:55Z",
+    "pushed_at": "2026-08-10T08:49:51Z",
+    "updated_at": "2026-08-10T08:48:51Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -2065,14 +2065,14 @@
     "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
     "description_zh": "2小时从零训练64M参数小模型LLM的教程项目",
     "language": "Python",
-    "stargazers_count": 54514,
+    "stargazers_count": 54519,
     "forks_count": 7100,
     "topics": [
       "artificial-intelligence",
       "large-language-model"
     ],
     "pushed_at": "2026-08-06T14:08:38Z",
-    "updated_at": "2026-08-10T08:33:37Z",
+    "updated_at": "2026-08-10T09:06:15Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -2242,7 +2242,7 @@
     "description_zh": "Python Echarts绘图库，支持丰富的交互式图表可视化",
     "language": "Python",
     "stargazers_count": 15772,
-    "forks_count": 2848,
+    "forks_count": 2847,
     "topics": [
       "echarts",
       "python"
@@ -2276,7 +2276,7 @@
       "sql",
       "web-app"
     ],
-    "pushed_at": "2026-08-07T22:18:24Z",
+    "pushed_at": "2026-08-10T09:00:27Z",
     "updated_at": "2026-08-10T06:45:03Z",
     "archived": false,
     "category": "Dev Tools",
@@ -2322,7 +2322,7 @@
       "superset",
       "tableau"
     ],
-    "pushed_at": "2026-08-10T08:38:56Z",
+    "pushed_at": "2026-08-10T09:02:23Z",
     "updated_at": "2026-08-10T03:04:11Z",
     "archived": false,
     "category": "Data / Visualization",
@@ -2349,7 +2349,7 @@
     "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
     "description_zh": "大规模搜索抓取和交互网页的上下文API，支持HTML转Markdown",
     "language": "TypeScript",
-    "stargazers_count": 164448,
+    "stargazers_count": 164467,
     "forks_count": 9253,
     "topics": [
       "ai",
@@ -2373,7 +2373,7 @@
       "webscraping"
     ],
     "pushed_at": "2026-08-10T06:35:33Z",
-    "updated_at": "2026-08-10T08:37:27Z",
+    "updated_at": "2026-08-10T09:19:25Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -2402,7 +2402,7 @@
       "text-to-sql"
     ],
     "pushed_at": "2025-10-28T10:02:13Z",
-    "updated_at": "2026-08-10T01:28:05Z",
+    "updated_at": "2026-08-10T08:56:02Z",
     "archived": false,
     "category": "AI / NL2SQL",
     "classifier": "ai"
@@ -2502,13 +2502,13 @@
     "description_zh": "MCP服务器的awesome列表集合",
     "language": null,
     "stargazers_count": 92033,
-    "forks_count": 14253,
+    "forks_count": 14254,
     "topics": [
       "ai",
       "mcp"
     ],
     "pushed_at": "2026-08-03T03:09:55Z",
-    "updated_at": "2026-08-10T08:17:35Z",
+    "updated_at": "2026-08-10T09:19:38Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -2519,7 +2519,7 @@
     "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .",
     "description_zh": "跨平台桌面AI助手和MCP客户端，支持本地知识库和多种模型服务",
     "language": "TypeScript",
-    "stargazers_count": 5335,
+    "stargazers_count": 5336,
     "forks_count": 425,
     "topics": [
       "knowledge-base",
@@ -2529,7 +2529,7 @@
       "model-context-protocol"
     ],
     "pushed_at": "2026-07-15T10:23:01Z",
-    "updated_at": "2026-08-09T02:24:14Z",
+    "updated_at": "2026-08-10T09:17:12Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -2591,7 +2591,7 @@
     "description": "User Profile-Based Long-Term Memory for AI Chatbot Applications. ",
     "description_zh": "基于用户画像的AI聊天机器人长期记忆系统，支持检索增强",
     "language": "Python",
-    "stargazers_count": 2836,
+    "stargazers_count": 2835,
     "forks_count": 226,
     "topics": [
       "ai-companion",
@@ -2606,7 +2606,7 @@
       "user-memory"
     ],
     "pushed_at": "2026-01-11T03:51:40Z",
-    "updated_at": "2026-08-10T08:17:37Z",
+    "updated_at": "2026-08-10T09:00:26Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -2632,7 +2632,7 @@
     "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
     "description_zh": "高吞吐内存高效的LLM推理和服务引擎，支持多种硬件和模型",
     "language": "Python",
-    "stargazers_count": 88635,
+    "stargazers_count": 88640,
     "forks_count": 20496,
     "topics": [
       "amd",
@@ -2656,8 +2656,8 @@
       "tpu",
       "transformer"
     ],
-    "pushed_at": "2026-08-10T08:37:17Z",
-    "updated_at": "2026-08-10T08:38:19Z",
+    "pushed_at": "2026-08-10T08:51:47Z",
+    "updated_at": "2026-08-10T09:14:18Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -2688,7 +2688,7 @@
     "description": "Get your documents ready for gen AI",
     "description_zh": "将文档转换为生成式AI就绪格式的工具，支持PDF Word PPT等格式",
     "language": "Python",
-    "stargazers_count": 64514,
+    "stargazers_count": 64517,
     "forks_count": 4586,
     "topics": [
       "ai",
@@ -2707,8 +2707,8 @@
       "tables",
       "xlsx"
     ],
-    "pushed_at": "2026-08-10T08:39:14Z",
-    "updated_at": "2026-08-10T08:35:21Z",
+    "pushed_at": "2026-08-10T08:40:21Z",
+    "updated_at": "2026-08-10T09:16:09Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -2719,8 +2719,8 @@
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "description_zh": "用户友好的AI界面，支持Ollama和OpenAI API等多种模型后端",
     "language": "Python",
-    "stargazers_count": 148355,
-    "forks_count": 21598,
+    "stargazers_count": 148362,
+    "forks_count": 21601,
     "topics": [
       "ai",
       "llm",
@@ -2739,7 +2739,7 @@
       "webui"
     ],
     "pushed_at": "2026-08-10T07:38:34Z",
-    "updated_at": "2026-08-10T08:36:36Z",
+    "updated_at": "2026-08-10T09:19:07Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -2765,7 +2765,7 @@
     "description": "Build AI Agents, Visually",
     "description_zh": "可视化构建AI智能体的低代码平台，支持多智能体系统和RAG",
     "language": "TypeScript",
-    "stargazers_count": 55291,
+    "stargazers_count": 55292,
     "forks_count": 24870,
     "topics": [
       "agentic-ai",
@@ -2787,7 +2787,7 @@
       "workflow-automation"
     ],
     "pushed_at": "2026-08-10T08:04:19Z",
-    "updated_at": "2026-08-10T08:21:22Z",
+    "updated_at": "2026-08-10T08:48:40Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -2836,7 +2836,7 @@
       "tutorial"
     ],
     "pushed_at": "2023-12-29T07:57:53Z",
-    "updated_at": "2026-08-10T07:47:24Z",
+    "updated_at": "2026-08-10T08:53:29Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -2847,11 +2847,11 @@
     "description": null,
     "description_zh": "深度求索推出的推理大模型，支持复杂推理任务",
     "language": null,
-    "stargazers_count": 91976,
+    "stargazers_count": 91975,
     "forks_count": 11704,
     "topics": [],
     "pushed_at": "2025-06-27T08:35:54Z",
-    "updated_at": "2026-08-10T07:31:18Z",
+    "updated_at": "2026-08-10T08:41:26Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -2896,7 +2896,7 @@
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
     "description_zh": "最轻量的AI网关，支持100多种LLM API的统一调用和成本追踪",
     "language": "Python",
-    "stargazers_count": 56005,
+    "stargazers_count": 56007,
     "forks_count": 10458,
     "topics": [
       "ai-gateway",
@@ -2916,8 +2916,8 @@
       "rust-ai",
       "vertex-ai"
     ],
-    "pushed_at": "2026-08-10T08:24:42Z",
-    "updated_at": "2026-08-10T08:22:31Z",
+    "pushed_at": "2026-08-10T09:13:26Z",
+    "updated_at": "2026-08-10T09:19:10Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -2928,7 +2928,7 @@
     "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
     "description_zh": "一键重装VPS操作系统的Shell脚本，支持多种Linux发行版和Windows",
     "language": "Shell",
-    "stargazers_count": 12713,
+    "stargazers_count": 12714,
     "forks_count": 2055,
     "topics": [
       "alpine",
@@ -2949,7 +2949,7 @@
       "windows"
     ],
     "pushed_at": "2026-08-06T14:13:21Z",
-    "updated_at": "2026-08-10T08:12:34Z",
+    "updated_at": "2026-08-10T09:15:53Z",
     "archived": false,
     "category": "DevOps / Cloud",
     "classifier": "ai"
@@ -3033,8 +3033,8 @@
     "description": "利用 AI 大模型，一键解说并剪辑视频",
     "description_zh": "利用AI大模型一键解说并剪辑视频的工具",
     "language": "Python",
-    "stargazers_count": 10645,
-    "forks_count": 1463,
+    "stargazers_count": 10647,
+    "forks_count": 1464,
     "topics": [
       "aiagent",
       "aiops",
@@ -3044,7 +3044,7 @@
       "python"
     ],
     "pushed_at": "2026-07-23T03:57:43Z",
-    "updated_at": "2026-08-10T08:28:16Z",
+    "updated_at": "2026-08-10T09:08:54Z",
     "archived": false,
     "category": "Other",
     "classifier": "ai"
@@ -3055,7 +3055,7 @@
     "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
     "description_zh": "基于WireGuard的安全覆盖网络，支持SSO MFA和细粒度访问控制",
     "language": "Go",
-    "stargazers_count": 28212,
+    "stargazers_count": 28213,
     "forks_count": 1587,
     "topics": [
       "golang",
@@ -3069,8 +3069,8 @@
       "wiretrustee",
       "zero-trust-network-access"
     ],
-    "pushed_at": "2026-08-10T08:28:04Z",
-    "updated_at": "2026-08-10T08:15:24Z",
+    "pushed_at": "2026-08-10T09:07:18Z",
+    "updated_at": "2026-08-10T09:10:34Z",
     "archived": false,
     "category": "Networking / Security",
     "classifier": "ai"
@@ -3189,7 +3189,7 @@
     "description": "An open source, self-hosted implementation of the Tailscale control server",
     "description_zh": "开源自托管的Tailscale控制服务器实现，支持WireGuard",
     "language": "Go",
-    "stargazers_count": 42677,
+    "stargazers_count": 42678,
     "forks_count": 2494,
     "topics": [
       "tailscale",
@@ -3198,7 +3198,7 @@
       "wireguard"
     ],
     "pushed_at": "2026-07-30T10:20:13Z",
-    "updated_at": "2026-08-10T08:35:20Z",
+    "updated_at": "2026-08-10T08:56:59Z",
     "archived": false,
     "category": "Networking / Security",
     "classifier": "ai"
@@ -3209,8 +3209,8 @@
     "description": "Python tool for converting files and office documents to Markdown.",
     "description_zh": "将文件和Office文档转换为Markdown格式的Python工具",
     "language": "Python",
-    "stargazers_count": 172772,
-    "forks_count": 12599,
+    "stargazers_count": 172787,
+    "forks_count": 12601,
     "topics": [
       "autogen",
       "autogen-extension",
@@ -3221,7 +3221,7 @@
       "pdf"
     ],
     "pushed_at": "2026-07-29T18:18:09Z",
-    "updated_at": "2026-08-10T08:39:08Z",
+    "updated_at": "2026-08-10T09:14:40Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -3256,11 +3256,11 @@
     "description": "A simple screen parsing tool towards pure vision based GUI agent",
     "description_zh": "面向纯视觉GUI智能体的屏幕解析工具",
     "language": "Jupyter Notebook",
-    "stargazers_count": 25238,
+    "stargazers_count": 25239,
     "forks_count": 2222,
     "topics": [],
     "pushed_at": "2026-07-20T01:09:31Z",
-    "updated_at": "2026-08-09T19:28:27Z",
+    "updated_at": "2026-08-10T09:18:15Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -3310,7 +3310,7 @@
     "description": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
     "description_zh": "开源语音识别工具包，支持训练推理流式ASR VAD标点说话人分离等",
     "language": "Python",
-    "stargazers_count": 19745,
+    "stargazers_count": 19746,
     "forks_count": 1980,
     "topics": [
       "asr",
@@ -3335,7 +3335,7 @@
       "whisper-alternative"
     ],
     "pushed_at": "2026-08-05T08:23:20Z",
-    "updated_at": "2026-08-10T08:11:38Z",
+    "updated_at": "2026-08-10T09:17:03Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -3456,8 +3456,8 @@
     "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
     "description_zh": "统一AI模型聚合分发平台，支持多种LLM转换为OpenAI兼容格式",
     "language": "Go",
-    "stargazers_count": 44798,
-    "forks_count": 10580,
+    "stargazers_count": 44801,
+    "forks_count": 10583,
     "topics": [
       "ai-gateway",
       "claude",
@@ -3468,7 +3468,7 @@
       "rerank"
     ],
     "pushed_at": "2026-08-10T05:13:00Z",
-    "updated_at": "2026-08-10T08:23:49Z",
+    "updated_at": "2026-08-10T09:14:27Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -3589,7 +3589,7 @@
     "description": "🤖 AI Gateway | AI Native API Gateway",
     "description_zh": "AI原生API网关，基于Envoy的云原生AI网关",
     "language": "Go",
-    "stargazers_count": 9062,
+    "stargazers_count": 9063,
     "forks_count": 1221,
     "topics": [
       "ai-gateway",
@@ -3598,8 +3598,8 @@
       "cloud-native",
       "envoy"
     ],
-    "pushed_at": "2026-08-10T07:10:58Z",
-    "updated_at": "2026-08-10T08:23:05Z",
+    "pushed_at": "2026-08-10T08:48:23Z",
+    "updated_at": "2026-08-10T08:51:50Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -3640,7 +3640,7 @@
     "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
     "description_zh": "将PDF和Office文档转换为LLM就绪的Markdown和JSON格式的工具",
     "language": "Python",
-    "stargazers_count": 77251,
+    "stargazers_count": 77259,
     "forks_count": 6502,
     "topics": [
       "ai4science",
@@ -3661,7 +3661,7 @@
       "xlsx"
     ],
     "pushed_at": "2026-08-08T09:05:30Z",
-    "updated_at": "2026-08-10T08:34:21Z",
+    "updated_at": "2026-08-10T09:06:16Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -3719,8 +3719,8 @@
     "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
     "description_zh": "AI生产力工作室，支持智能聊天自主智能体和300多个助手，统一访问前沿LLM",
     "language": "TypeScript",
-    "stargazers_count": 50207,
-    "forks_count": 4749,
+    "stargazers_count": 50210,
+    "forks_count": 4751,
     "topics": [
       "agent-skills",
       "ai-agent",
@@ -3733,8 +3733,8 @@
       "skills",
       "vibe-coding"
     ],
-    "pushed_at": "2026-08-10T08:27:30Z",
-    "updated_at": "2026-08-10T08:39:10Z",
+    "pushed_at": "2026-08-10T09:19:11Z",
+    "updated_at": "2026-08-10T09:16:37Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -3745,7 +3745,7 @@
     "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
     "description_zh": "开源PR代码审查工具，自动审查Pull Request并提供改进建议",
     "language": "Python",
-    "stargazers_count": 12446,
+    "stargazers_count": 12447,
     "forks_count": 1683,
     "topics": [
       "code-review",
@@ -3758,7 +3758,7 @@
       "pull-requests"
     ],
     "pushed_at": "2026-08-10T05:31:09Z",
-    "updated_at": "2026-08-10T08:06:53Z",
+    "updated_at": "2026-08-10T08:46:57Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -3790,8 +3790,8 @@
     "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
     "description_zh": "最强大模块化的扩散模型GUI和后端，支持图节点界面",
     "language": "Python",
-    "stargazers_count": 125881,
-    "forks_count": 14872,
+    "stargazers_count": 125912,
+    "forks_count": 14874,
     "topics": [
       "ai",
       "comfy",
@@ -3800,8 +3800,8 @@
       "pytorch",
       "stable-diffusion"
     ],
-    "pushed_at": "2026-08-10T07:13:59Z",
-    "updated_at": "2026-08-10T08:38:47Z",
+    "pushed_at": "2026-08-10T09:10:28Z",
+    "updated_at": "2026-08-10T09:18:51Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -3846,8 +3846,8 @@
     "description": "🙌 OpenHands: AI-Driven Development",
     "description_zh": "AI驱动的开发平台，支持智能体自主完成软件开发任务",
     "language": "TypeScript",
-    "stargazers_count": 83595,
-    "forks_count": 10819,
+    "stargazers_count": 83597,
+    "forks_count": 10818,
     "topics": [
       "agent",
       "artificial-intelligence",
@@ -3859,8 +3859,8 @@
       "llm",
       "openai"
     ],
-    "pushed_at": "2026-08-10T08:02:46Z",
-    "updated_at": "2026-08-10T08:16:28Z",
+    "pushed_at": "2026-08-10T09:07:26Z",
+    "updated_at": "2026-08-10T09:04:12Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -3886,11 +3886,11 @@
     "description": "科技爱好者周刊，每周五发布",
     "description_zh": "阮一峰科技爱好者周刊，每周五发布技术资讯",
     "language": null,
-    "stargazers_count": 99708,
-    "forks_count": 4326,
+    "stargazers_count": 99710,
+    "forks_count": 4327,
     "topics": [],
     "pushed_at": "2026-08-08T02:12:23Z",
-    "updated_at": "2026-08-10T08:17:16Z",
+    "updated_at": "2026-08-10T09:05:53Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -3951,7 +3951,7 @@
     "description": "本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）",
     "description_zh": "分享大模型技术原理和实战经验的项目，涵盖工程化和应用落地",
     "language": "HTML",
-    "stargazers_count": 24880,
+    "stargazers_count": 24881,
     "forks_count": 2841,
     "topics": [
       "llm",
@@ -3961,7 +3961,7 @@
       "llmops"
     ],
     "pushed_at": "2026-07-19T13:13:31Z",
-    "updated_at": "2026-08-10T08:19:31Z",
+    "updated_at": "2026-08-10T09:06:12Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -4181,8 +4181,8 @@
     "description": "[NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
     "description_zh": "思维树方法，让大语言模型进行深思熟虑的问题求解",
     "language": "Python",
-    "stargazers_count": 6040,
-    "forks_count": 623,
+    "stargazers_count": 6042,
+    "forks_count": 624,
     "topics": [
       "large-language-models",
       "llm",
@@ -4191,7 +4191,7 @@
       "tree-search"
     ],
     "pushed_at": "2025-01-16T20:02:00Z",
-    "updated_at": "2026-08-10T07:54:23Z",
+    "updated_at": "2026-08-10T09:10:23Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -4247,7 +4247,7 @@
     "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
     "description_zh": "模块化基于图的检索增强生成系统，支持知识图谱RAG",
     "language": "Python",
-    "stargazers_count": 35372,
+    "stargazers_count": 35373,
     "forks_count": 3715,
     "topics": [
       "gpt",
@@ -4259,7 +4259,7 @@
       "rag"
     ],
     "pushed_at": "2026-08-09T06:24:25Z",
-    "updated_at": "2026-08-10T08:30:20Z",
+    "updated_at": "2026-08-10T08:43:40Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -4350,7 +4350,7 @@
     "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
     "description_zh": "深度学习优化库，支持分布式训练和推理的并行压缩和高效计算",
     "language": "Python",
-    "stargazers_count": 42891,
+    "stargazers_count": 42892,
     "forks_count": 4925,
     "topics": [
       "billion-parameters",
@@ -4368,7 +4368,7 @@
       "zero"
     ],
     "pushed_at": "2026-08-10T07:03:08Z",
-    "updated_at": "2026-08-10T06:02:34Z",
+    "updated_at": "2026-08-10T08:42:52Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -4509,8 +4509,8 @@
     "description": "Build and run agents you can see, understand and trust.",
     "description_zh": "构建和运行可理解可信任的智能体框架，支持多模态和多智能体",
     "language": "Python",
-    "stargazers_count": 28759,
-    "forks_count": 3325,
+    "stargazers_count": 28764,
+    "forks_count": 3326,
     "topics": [
       "agent",
       "chatbot",
@@ -4523,7 +4523,7 @@
       "react-agent"
     ],
     "pushed_at": "2026-08-10T03:55:41Z",
-    "updated_at": "2026-08-10T08:31:07Z",
+    "updated_at": "2026-08-10T09:15:03Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -4534,7 +4534,7 @@
     "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
     "description_zh": "AI系统全栈底层技术资源，涵盖AI芯片编译器和训练推理框架",
     "language": "Jupyter Notebook",
-    "stargazers_count": 17538,
+    "stargazers_count": 17540,
     "forks_count": 2458,
     "topics": [
       "ai",
@@ -4544,7 +4544,7 @@
       "mlsys"
     ],
     "pushed_at": "2025-09-03T02:25:37Z",
-    "updated_at": "2026-08-10T08:25:57Z",
+    "updated_at": "2026-08-10T08:52:56Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -4555,7 +4555,7 @@
     "description": "LlamaIndex is the leading document agent and OCR platform",
     "description_zh": "领先的文档智能体和OCR平台，支持RAG向量数据库和多智能体应用",
     "language": "Python",
-    "stargazers_count": 51526,
+    "stargazers_count": 51528,
     "forks_count": 7902,
     "topics": [
       "agents",
@@ -4570,7 +4570,7 @@
       "vector-database"
     ],
     "pushed_at": "2026-08-09T22:20:15Z",
-    "updated_at": "2026-08-10T08:36:00Z",
+    "updated_at": "2026-08-10T09:18:40Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -4581,7 +4581,7 @@
     "description": "Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷",
     "description_zh": "面向基础模型的数据处理工具，支持数据分析和可视化流水线",
     "language": "Python",
-    "stargazers_count": 6855,
+    "stargazers_count": 6856,
     "forks_count": 404,
     "topics": [
       "data",
@@ -4600,7 +4600,7 @@
       "synthetic-data"
     ],
     "pushed_at": "2026-08-10T07:10:07Z",
-    "updated_at": "2026-08-10T07:43:06Z",
+    "updated_at": "2026-08-10T08:45:25Z",
     "archived": false,
     "category": "Data / Visualization",
     "classifier": "ai"
@@ -4670,8 +4670,8 @@
     "description": "21 Lessons, Get Started Building with Generative AI ",
     "description_zh": "微软21课生成式AI入门教程，涵盖ChatGPT DALL-E和Prompt工程",
     "language": "Jupyter Notebook",
-    "stargazers_count": 117232,
-    "forks_count": 61907,
+    "stargazers_count": 117240,
+    "forks_count": 61912,
     "topics": [
       "ai",
       "azure",
@@ -4689,7 +4689,7 @@
       "transformers"
     ],
     "pushed_at": "2026-08-06T03:44:01Z",
-    "updated_at": "2026-08-10T08:38:20Z",
+    "updated_at": "2026-08-10T09:19:46Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -4700,8 +4700,8 @@
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "description_zh": "微软12周24课AI入门教程，涵盖计算机视觉深度学习和NLP",
     "language": "Jupyter Notebook",
-    "stargazers_count": 64245,
-    "forks_count": 12422,
+    "stargazers_count": 64268,
+    "forks_count": 12429,
     "topics": [
       "ai",
       "artificial-intelligence",
@@ -4715,7 +4715,7 @@
       "rnn"
     ],
     "pushed_at": "2026-07-21T11:11:48Z",
-    "updated_at": "2026-08-10T08:36:30Z",
+    "updated_at": "2026-08-10T09:19:39Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -4726,7 +4726,7 @@
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "description_zh": "领先的开源RAG引擎，融合前沿RAG与智能体能力为LLM创建上下文层",
     "language": "Go",
-    "stargazers_count": 87163,
+    "stargazers_count": 87165,
     "forks_count": 10255,
     "topics": [
       "agent-harness",
@@ -4744,8 +4744,8 @@
       "rag",
       "retrieval-augmented-generation"
     ],
-    "pushed_at": "2026-08-10T08:36:28Z",
-    "updated_at": "2026-08-10T08:37:48Z",
+    "pushed_at": "2026-08-10T09:18:24Z",
+    "updated_at": "2026-08-10T09:19:33Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -4756,7 +4756,7 @@
     "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
     "description_zh": "开源AI引擎，支持在任意硬件上运行LLM视觉语音图像视频模型，无需GPU",
     "language": "Go",
-    "stargazers_count": 48356,
+    "stargazers_count": 48358,
     "forks_count": 4346,
     "topics": [
       "agents",
@@ -4778,8 +4778,8 @@
       "text-generation",
       "tts"
     ],
-    "pushed_at": "2026-08-10T08:34:00Z",
-    "updated_at": "2026-08-10T08:34:27Z",
+    "pushed_at": "2026-08-10T09:05:42Z",
+    "updated_at": "2026-08-10T09:13:43Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -4846,8 +4846,8 @@
     "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
     "description_zh": "开源超级AI助手和智能体框架，支持多模型多渠道和记忆知识自进化",
     "language": "Python",
-    "stargazers_count": 46438,
-    "forks_count": 10306,
+    "stargazers_count": 46441,
+    "forks_count": 10307,
     "topics": [
       "ai",
       "ai-agent",
@@ -4867,7 +4867,7 @@
       "skills"
     ],
     "pushed_at": "2026-08-10T08:19:30Z",
-    "updated_at": "2026-08-10T08:26:06Z",
+    "updated_at": "2026-08-10T09:06:09Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -4904,8 +4904,8 @@
     "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).",
     "description_zh": "支持600多种LLM和300多种多模态大模型的微调框架，支持PEFT和全参数训练",
     "language": "Python",
-    "stargazers_count": 15099,
-    "forks_count": 1583,
+    "stargazers_count": 15100,
+    "forks_count": 1584,
     "topics": [
       "deepseek-r1",
       "embedding",
@@ -4929,7 +4929,7 @@
       "sft"
     ],
     "pushed_at": "2026-08-09T04:06:38Z",
-    "updated_at": "2026-08-10T08:17:40Z",
+    "updated_at": "2026-08-10T09:06:29Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -5026,7 +5026,7 @@
     "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
     "description_zh": "开源企业级智能体平台，支持知识库RAG和MCP服务器",
     "language": "Python",
-    "stargazers_count": 22456,
+    "stargazers_count": 22457,
     "forks_count": 3082,
     "topics": [
       "agent",
@@ -5044,8 +5044,8 @@
       "qwen3",
       "rag"
     ],
-    "pushed_at": "2026-08-10T08:38:49Z",
-    "updated_at": "2026-08-10T06:55:52Z",
+    "pushed_at": "2026-08-10T09:19:45Z",
+    "updated_at": "2026-08-10T08:42:22Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -5056,7 +5056,7 @@
     "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
     "description_zh": "开源大模型食用指南，涵盖Linux环境下快速微调部署国内外开源大模型教程",
     "language": "Jupyter Notebook",
-    "stargazers_count": 31640,
+    "stargazers_count": 31643,
     "forks_count": 3074,
     "topics": [
       "chatglm",
@@ -5074,7 +5074,7 @@
       "qwen2"
     ],
     "pushed_at": "2026-07-30T01:58:34Z",
-    "updated_at": "2026-08-10T08:30:36Z",
+    "updated_at": "2026-08-10T09:06:13Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -5085,7 +5085,7 @@
     "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
     "description_zh": "从零开始在PyTorch中逐步实现ChatGPT类大语言模型的教程",
     "language": "Jupyter Notebook",
-    "stargazers_count": 102164,
+    "stargazers_count": 102167,
     "forks_count": 15652,
     "topics": [
       "ai",
@@ -5109,7 +5109,7 @@
       "transformers"
     ],
     "pushed_at": "2026-08-10T01:11:40Z",
-    "updated_at": "2026-08-10T08:38:33Z",
+    "updated_at": "2026-08-10T09:06:30Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -5204,11 +5204,11 @@
     "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
     "description_zh": "基于大语言模型多智能体协作的软件开发平台",
     "language": "Python",
-    "stargazers_count": 33975,
+    "stargazers_count": 33974,
     "forks_count": 4247,
     "topics": [],
     "pushed_at": "2026-07-24T08:01:27Z",
-    "updated_at": "2026-08-10T06:21:51Z",
+    "updated_at": "2026-08-10T09:08:07Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -5266,7 +5266,7 @@
     "description": "大数据分析项目",
     "description_zh": "大数据分析项目，涉及HQL、Python和SQL",
     "language": "Python",
-    "stargazers_count": 5305,
+    "stargazers_count": 5306,
     "forks_count": 779,
     "topics": [
       "hql",
@@ -5274,7 +5274,7 @@
       "sql"
     ],
     "pushed_at": "2023-04-27T02:55:12Z",
-    "updated_at": "2026-08-09T14:47:44Z",
+    "updated_at": "2026-08-10T09:01:54Z",
     "archived": false,
     "category": "Other",
     "classifier": "ai"
@@ -5388,7 +5388,7 @@
     "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
     "description_zh": "动手学深度学习中文版教材，可运行可讨论",
     "language": "Python",
-    "stargazers_count": 79532,
+    "stargazers_count": 79536,
     "forks_count": 12316,
     "topics": [
       "book",
@@ -5401,7 +5401,7 @@
       "python"
     ],
     "pushed_at": "2024-07-30T09:32:19Z",
-    "updated_at": "2026-08-10T08:27:17Z",
+    "updated_at": "2026-08-10T09:18:59Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -5461,8 +5461,8 @@
     "description": "open-source coding agent",
     "description_zh": "开源编码智能体，辅助开发者编写代码",
     "language": "TypeScript",
-    "stargazers_count": 35421,
-    "forks_count": 5206,
+    "stargazers_count": 35422,
+    "forks_count": 5207,
     "topics": [
       "agent",
       "ai",
@@ -5470,8 +5470,8 @@
       "developer-tools",
       "open-source"
     ],
-    "pushed_at": "2026-08-09T09:21:40Z",
-    "updated_at": "2026-08-10T08:39:10Z",
+    "pushed_at": "2026-08-10T09:11:21Z",
+    "updated_at": "2026-08-10T08:45:36Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -5608,7 +5608,7 @@
     "description": "Build resilient agents.",
     "description_zh": "构建弹性智能体的框架，支持多智能体协作",
     "language": "Python",
-    "stargazers_count": 39348,
+    "stargazers_count": 39353,
     "forks_count": 6610,
     "topics": [
       "agents",
@@ -5631,7 +5631,7 @@
       "rag"
     ],
     "pushed_at": "2026-08-09T00:28:39Z",
-    "updated_at": "2026-08-10T07:59:05Z",
+    "updated_at": "2026-08-10T09:14:13Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -5642,14 +5642,14 @@
     "description": "A glossy Matrix collaboration client for the web.",
     "description_zh": "基于Matrix协议的Web端协作客户端",
     "language": "TypeScript",
-    "stargazers_count": 13358,
+    "stargazers_count": 13359,
     "forks_count": 2714,
     "topics": [
       "hacktoberfest",
       "matrix"
     ],
-    "pushed_at": "2026-08-10T08:32:41Z",
-    "updated_at": "2026-08-10T07:40:01Z",
+    "pushed_at": "2026-08-10T09:13:23Z",
+    "updated_at": "2026-08-10T08:57:45Z",
     "archived": false,
     "category": "Other",
     "classifier": "ai"
@@ -5701,8 +5701,8 @@
     "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
     "description_zh": "增强版ChatGPT克隆，支持多模型切换与智能体功能",
     "language": "TypeScript",
-    "stargazers_count": 41873,
-    "forks_count": 8655,
+    "stargazers_count": 41874,
+    "forks_count": 8656,
     "topics": [
       "ai",
       "anthropic",
@@ -5726,7 +5726,7 @@
       "webui"
     ],
     "pushed_at": "2026-08-10T05:28:00Z",
-    "updated_at": "2026-08-10T07:40:49Z",
+    "updated_at": "2026-08-10T08:41:04Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -5756,7 +5756,7 @@
     "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
     "description_zh": "AI驱动的数据库工具与SQL客户端，支持多种数据库",
     "language": "Java",
-    "stargazers_count": 27915,
+    "stargazers_count": 27918,
     "forks_count": 3008,
     "topics": [
       "ai",
@@ -5779,8 +5779,8 @@
       "sqlserver",
       "text2sql"
     ],
-    "pushed_at": "2026-08-10T07:56:57Z",
-    "updated_at": "2026-08-10T08:24:51Z",
+    "pushed_at": "2026-08-10T09:08:06Z",
+    "updated_at": "2026-08-10T09:17:09Z",
     "archived": false,
     "category": "AI / NL2SQL",
     "classifier": "ai"
@@ -5827,8 +5827,8 @@
     "description": "Port of OpenAI's Whisper model in C/C++",
     "description_zh": "OpenAI Whisper模型的C/C++移植版本",
     "language": "C++",
-    "stargazers_count": 52773,
-    "forks_count": 6047,
+    "stargazers_count": 52774,
+    "forks_count": 6048,
     "topics": [
       "inference",
       "openai",
@@ -5838,7 +5838,7 @@
       "whisper"
     ],
     "pushed_at": "2026-08-07T18:59:53Z",
-    "updated_at": "2026-08-10T08:11:30Z",
+    "updated_at": "2026-08-10T09:08:46Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -5870,13 +5870,13 @@
     "description": "LLM inference in C/C++",
     "description_zh": "用C/C++实现的大语言模型推理引擎",
     "language": "C++",
-    "stargazers_count": 123266,
-    "forks_count": 21503,
+    "stargazers_count": 123273,
+    "forks_count": 21506,
     "topics": [
       "ggml"
     ],
-    "pushed_at": "2026-08-10T08:25:24Z",
-    "updated_at": "2026-08-10T08:25:46Z",
+    "pushed_at": "2026-08-10T08:46:45Z",
+    "updated_at": "2026-08-10T09:08:55Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -5957,7 +5957,7 @@
     "description_zh": "统一高效微调100多种LLM和VLM的工具",
     "language": "Python",
     "stargazers_count": 73964,
-    "forks_count": 9048,
+    "forks_count": 9049,
     "topics": [
       "agent",
       "ai",
@@ -5992,7 +5992,7 @@
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
     "description_zh": "企业级LLM开发运维平台，支持RAG智能体与工作流",
     "language": "Python",
-    "stargazers_count": 11839,
+    "stargazers_count": 11840,
     "forks_count": 1932,
     "topics": [
       "agent",
@@ -6016,8 +6016,8 @@
       "sft",
       "workflow"
     ],
-    "pushed_at": "2026-08-10T08:37:44Z",
-    "updated_at": "2026-08-10T06:16:07Z",
+    "pushed_at": "2026-08-10T09:00:13Z",
+    "updated_at": "2026-08-10T08:51:43Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -6028,7 +6028,7 @@
     "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
     "description_zh": "LLM API管理与分发系统，统一适配多种模型提供商",
     "language": "JavaScript",
-    "stargazers_count": 36295,
+    "stargazers_count": 36297,
     "forks_count": 6794,
     "topics": [
       "api",
@@ -6044,7 +6044,7 @@
       "proxy"
     ],
     "pushed_at": "2026-01-09T03:26:43Z",
-    "updated_at": "2026-08-10T08:27:08Z",
+    "updated_at": "2026-08-10T09:06:12Z",
     "archived": false,
     "category": "AI / LLM Serving",
     "classifier": "ai"
@@ -6055,7 +6055,7 @@
     "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
     "description_zh": "基于大语言模型的知识库平台，支持RAG检索与AI工作流",
     "language": "TypeScript",
-    "stargazers_count": 29308,
+    "stargazers_count": 29309,
     "forks_count": 7259,
     "topics": [
       "agent",
@@ -6070,7 +6070,7 @@
       "workflow"
     ],
     "pushed_at": "2026-08-10T08:25:21Z",
-    "updated_at": "2026-08-10T08:37:38Z",
+    "updated_at": "2026-08-10T08:46:30Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -6146,7 +6146,7 @@
     "description_zh": "开源AI编排框架，用于构建生产级LLM应用",
     "language": "Python",
     "stargazers_count": 26164,
-    "forks_count": 2991,
+    "forks_count": 2992,
     "topics": [
       "agent-framework",
       "agentic-ai",
@@ -6169,7 +6169,7 @@
       "retrieval-augmented-generation",
       "semantic-search"
     ],
-    "pushed_at": "2026-08-10T08:05:42Z",
+    "pushed_at": "2026-08-10T08:46:37Z",
     "updated_at": "2026-08-10T08:05:13Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
@@ -6208,7 +6208,7 @@
     "description": "📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.",
     "description_zh": "基于多种推理引擎的OCR多语言工具包",
     "language": "Python",
-    "stargazers_count": 7434,
+    "stargazers_count": 7436,
     "forks_count": 695,
     "topics": [
       "chineseocr",
@@ -6225,7 +6225,7 @@
       "tensorrt"
     ],
     "pushed_at": "2026-08-10T01:00:47Z",
-    "updated_at": "2026-08-10T08:25:34Z",
+    "updated_at": "2026-08-10T09:06:52Z",
     "archived": false,
     "category": "Other",
     "classifier": "ai"
@@ -6467,7 +6467,7 @@
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "description_zh": "社区共享的ChatGPT提示词收藏与发现平台",
     "language": "HTML",
-    "stargazers_count": 166944,
+    "stargazers_count": 166945,
     "forks_count": 21548,
     "topics": [
       "ai",
@@ -6490,7 +6490,7 @@
       "typescript"
     ],
     "pushed_at": "2026-08-10T03:37:55Z",
-    "updated_at": "2026-08-10T08:17:11Z",
+    "updated_at": "2026-08-10T09:06:10Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -6501,7 +6501,7 @@
     "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
     "description_zh": "支持智能体工作流和RAG管道的AI应用开发平台",
     "language": "TypeScript",
-    "stargazers_count": 151929,
+    "stargazers_count": 151936,
     "forks_count": 23977,
     "topics": [
       "agent",
@@ -6525,8 +6525,8 @@
       "skills",
       "workflow"
     ],
-    "pushed_at": "2026-08-10T08:23:51Z",
-    "updated_at": "2026-08-10T08:29:42Z",
+    "pushed_at": "2026-08-10T09:17:57Z",
+    "updated_at": "2026-08-10T09:18:15Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -6547,8 +6547,8 @@
       "multiagent",
       "react-flow"
     ],
-    "pushed_at": "2026-08-10T08:25:11Z",
-    "updated_at": "2026-08-10T08:05:09Z",
+    "pushed_at": "2026-08-10T08:55:22Z",
+    "updated_at": "2026-08-10T09:19:39Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -6559,7 +6559,7 @@
     "description": "A programming framework for agentic AI",
     "description_zh": "用于构建多智能体AI应用的编程框架",
     "language": "Python",
-    "stargazers_count": 60343,
+    "stargazers_count": 60344,
     "forks_count": 9091,
     "topics": [
       "agentic",
@@ -6574,7 +6574,7 @@
       "llm-framework"
     ],
     "pushed_at": "2026-04-15T11:59:09Z",
-    "updated_at": "2026-08-10T08:18:59Z",
+    "updated_at": "2026-08-10T08:53:23Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -6614,7 +6614,7 @@
     "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
     "description_zh": "多智能体协作框架，实现自然语言编程与软件开发",
     "language": "Python",
-    "stargazers_count": 69753,
+    "stargazers_count": 69755,
     "forks_count": 8880,
     "topics": [
       "agent",
@@ -6624,7 +6624,7 @@
       "multi-agent"
     ],
     "pushed_at": "2026-01-21T10:12:33Z",
-    "updated_at": "2026-08-10T08:18:57Z",
+    "updated_at": "2026-08-10T09:06:13Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -6747,7 +6747,7 @@
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "description_zh": "自主AI智能体，可自动规划并执行复杂任务链",
     "language": "Python",
-    "stargazers_count": 186477,
+    "stargazers_count": 186480,
     "forks_count": 46073,
     "topics": [
       "agentic-ai",
@@ -6762,8 +6762,8 @@
       "openai",
       "python"
     ],
-    "pushed_at": "2026-08-10T08:19:35Z",
-    "updated_at": "2026-08-10T08:35:14Z",
+    "pushed_at": "2026-08-10T09:03:38Z",
+    "updated_at": "2026-08-10T09:00:02Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -6774,7 +6774,7 @@
     "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
     "description_zh": "ChatGPT中文使用指南与精选资源清单，涵盖提示词与应用开发",
     "language": "Python",
-    "stargazers_count": 11636,
+    "stargazers_count": 11638,
     "forks_count": 950,
     "topics": [
       "agi",
@@ -6798,7 +6798,7 @@
       "tools"
     ],
     "pushed_at": "2026-07-03T22:06:36Z",
-    "updated_at": "2026-08-10T05:13:43Z",
+    "updated_at": "2026-08-10T09:06:12Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -6935,11 +6935,11 @@
     "description": "Text2SQL 语义解析数据集、解决方案、paper资源整合项目",
     "description_zh": "Text2SQL语义解析的数据集、解决方案与论文资源整合项目",
     "language": null,
-    "stargazers_count": 1554,
+    "stargazers_count": 1555,
     "forks_count": 169,
     "topics": [],
     "pushed_at": "2023-03-01T08:45:35Z",
-    "updated_at": "2026-08-07T02:56:11Z",
+    "updated_at": "2026-08-10T08:40:07Z",
     "archived": false,
     "category": "AI / NL2SQL",
     "classifier": "override"
@@ -6950,7 +6950,7 @@
     "description": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
     "description_zh": "阿里云通义千问大语言模型官方仓库，包含预训练与对话模型",
     "language": "Python",
-    "stargazers_count": 21569,
+    "stargazers_count": 21570,
     "forks_count": 1866,
     "topics": [
       "chinese",
@@ -6961,7 +6961,7 @@
       "pretrained-models"
     ],
     "pushed_at": "2026-03-05T13:55:17Z",
-    "updated_at": "2026-08-10T04:49:46Z",
+    "updated_at": "2026-08-10T08:43:56Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -7033,8 +7033,8 @@
     "description": "The agent engineering platform.",
     "description_zh": "用于构建AI Agent的开源工程平台与框架，支持多模型与多Agent协作",
     "language": "Python",
-    "stargazers_count": 143859,
-    "forks_count": 23968,
+    "stargazers_count": 143863,
+    "forks_count": 23969,
     "topics": [
       "agents",
       "ai",
@@ -7058,7 +7058,7 @@
       "typescript"
     ],
     "pushed_at": "2026-08-10T08:35:22Z",
-    "updated_at": "2026-08-10T08:36:09Z",
+    "updated_at": "2026-08-10T09:19:36Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"
@@ -7069,7 +7069,7 @@
     "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
     "description_zh": "基于Langchain与本地大模型的RAG与Agent应用，支持知识库问答",
     "language": "Python",
-    "stargazers_count": 38532,
+    "stargazers_count": 38533,
     "forks_count": 6263,
     "topics": [
       "chatbot",
@@ -7094,7 +7094,7 @@
       "xinference"
     ],
     "pushed_at": "2025-11-10T09:27:42Z",
-    "updated_at": "2026-08-10T08:38:51Z",
+    "updated_at": "2026-08-10T09:05:49Z",
     "archived": false,
     "category": "AI / RAG & Knowledge",
     "classifier": "ai"
@@ -7122,14 +7122,14 @@
     "description": "吴恩达老师的机器学习课程个人笔记",
     "description_zh": "吴恩达机器学习课程的个人学习笔记与资源整理",
     "language": "HTML",
-    "stargazers_count": 37538,
+    "stargazers_count": 37539,
     "forks_count": 11179,
     "topics": [
       "coursera",
       "machine-learning"
     ],
     "pushed_at": "2025-08-25T04:02:38Z",
-    "updated_at": "2026-08-10T04:49:13Z",
+    "updated_at": "2026-08-10T08:44:58Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -7239,8 +7239,8 @@
       "transformer",
       "vlm"
     ],
-    "pushed_at": "2026-08-10T08:06:34Z",
-    "updated_at": "2026-08-10T08:17:27Z",
+    "pushed_at": "2026-08-10T09:05:56Z",
+    "updated_at": "2026-08-10T08:59:00Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -7286,7 +7286,7 @@
     "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
     "description_zh": "轻量级OCR工具包，支持图像和PDF文档的文字识别与结构化数据提取",
     "language": "Python",
-    "stargazers_count": 87330,
+    "stargazers_count": 87331,
     "forks_count": 11164,
     "topics": [
       "ai4science",
@@ -7304,7 +7304,7 @@
       "rag"
     ],
     "pushed_at": "2026-07-22T11:59:34Z",
-    "updated_at": "2026-08-10T08:21:43Z",
+    "updated_at": "2026-08-10T09:09:24Z",
     "archived": false,
     "category": "Other",
     "classifier": "ai"
@@ -7354,7 +7354,7 @@
     "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
     "description_zh": "轻量快速的AI助手，支持多平台多模型接入的聊天界面",
     "language": "TypeScript",
-    "stargazers_count": 88602,
+    "stargazers_count": 88603,
     "forks_count": 59294,
     "topics": [
       "calclaude",
@@ -7378,7 +7378,7 @@
       "webui"
     ],
     "pushed_at": "2026-07-06T06:19:02Z",
-    "updated_at": "2026-08-10T07:37:38Z",
+    "updated_at": "2026-08-10T09:06:11Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -7389,7 +7389,7 @@
     "description": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
     "description_zh": "开源建站工具，支持个人博客知识库企业官网等多种场景",
     "language": "Java",
-    "stargazers_count": 39480,
+    "stargazers_count": 39479,
     "forks_count": 10323,
     "topics": [
       "blog",
@@ -7401,7 +7401,7 @@
       "website-builder"
     ],
     "pushed_at": "2026-08-08T01:38:02Z",
-    "updated_at": "2026-08-10T07:03:37Z",
+    "updated_at": "2026-08-10T09:18:23Z",
     "archived": false,
     "category": "Other",
     "classifier": "ai"
@@ -7412,7 +7412,7 @@
     "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
     "description_zh": "面向学术场景的LLM交互工具，支持论文阅读润色写作与多模型并行",
     "language": "Python",
-    "stargazers_count": 71202,
+    "stargazers_count": 71203,
     "forks_count": 8338,
     "topics": [
       "academic",
@@ -7422,7 +7422,7 @@
       "large-language-models"
     ],
     "pushed_at": "2026-01-25T12:33:10Z",
-    "updated_at": "2026-08-10T08:31:44Z",
+    "updated_at": "2026-08-10T09:06:12Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -7433,7 +7433,7 @@
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "description_zh": "ChatGPT中文提示词指南，涵盖多种使用场景的调教方法",
     "language": null,
-    "stargazers_count": 61396,
+    "stargazers_count": 61399,
     "forks_count": 13541,
     "topics": [
       "chat-gpt",
@@ -7443,7 +7443,7 @@
       "gpt"
     ],
     "pushed_at": "2026-04-28T10:52:14Z",
-    "updated_at": "2026-08-10T08:13:34Z",
+    "updated_at": "2026-08-10T09:18:57Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -7454,8 +7454,8 @@
     "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
     "description_zh": "快速内网穿透反向代理工具，支持NAT和防火墙后的服务暴露",
     "language": "Go",
-    "stargazers_count": 108677,
-    "forks_count": 15171,
+    "stargazers_count": 108679,
+    "forks_count": 15172,
     "topics": [
       "expose",
       "firewall",
@@ -7469,7 +7469,7 @@
       "tunnel"
     ],
     "pushed_at": "2026-08-09T15:04:13Z",
-    "updated_at": "2026-08-10T08:13:10Z",
+    "updated_at": "2026-08-10T09:07:28Z",
     "archived": false,
     "category": "Networking / Security",
     "classifier": "ai"
@@ -7536,7 +7536,7 @@
     "description_zh": "支持多协议多用户的Xray代理管理面板",
     "language": "JavaScript",
     "stargazers_count": 19071,
-    "forks_count": 7257,
+    "forks_count": 7256,
     "topics": [
       "v2-ui",
       "x-ui",
@@ -7701,7 +7701,7 @@
     "description_zh": "简单易用的Python人脸识别API和命令行工具",
     "language": "Python",
     "stargazers_count": 56652,
-    "forks_count": 13696,
+    "forks_count": 13695,
     "topics": [
       "face-detection",
       "face-recognition",
@@ -7746,7 +7746,7 @@
     "description": "All Algorithms implemented in Java",
     "description_zh": "用Java实现的各种算法和数据结构集合，适合学习参考",
     "language": "Java",
-    "stargazers_count": 66133,
+    "stargazers_count": 66134,
     "forks_count": 21253,
     "topics": [
       "algorithm",
@@ -7761,7 +7761,7 @@
       "sorting-algorithms"
     ],
     "pushed_at": "2026-08-09T17:53:57Z",
-    "updated_at": "2026-08-10T08:08:10Z",
+    "updated_at": "2026-08-10T09:06:31Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -7845,7 +7845,7 @@
     "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
     "description_zh": "测试Cloudflare CDN延迟和速度，获取最优IP地址的工具",
     "language": "Go",
-    "stargazers_count": 28397,
+    "stargazers_count": 28399,
     "forks_count": 5369,
     "topics": [
       "cdn",
@@ -7855,7 +7855,7 @@
       "speedtest"
     ],
     "pushed_at": "2026-07-25T08:09:27Z",
-    "updated_at": "2026-08-10T08:01:02Z",
+    "updated_at": "2026-08-10T09:07:33Z",
     "archived": false,
     "category": "Networking / Security",
     "classifier": "ai"
@@ -8246,7 +8246,7 @@
     "description_zh": "先进的2D和3D人脸分析开源项目",
     "language": "Python",
     "stargazers_count": 29452,
-    "forks_count": 6074,
+    "forks_count": 6075,
     "topics": [
       "age-estimation",
       "arcface",
@@ -8260,7 +8260,7 @@
       "retinaface"
     ],
     "pushed_at": "2026-07-27T03:22:16Z",
-    "updated_at": "2026-08-10T08:27:25Z",
+    "updated_at": "2026-08-10T08:39:26Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -8292,11 +8292,11 @@
     "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具",
     "description_zh": "中文自然语言处理工具数据集与资源大全",
     "language": "Python",
-    "stargazers_count": 82381,
+    "stargazers_count": 82386,
     "forks_count": 15270,
     "topics": [],
     "pushed_at": "2024-05-10T07:38:24Z",
-    "updated_at": "2026-08-10T08:39:04Z",
+    "updated_at": "2026-08-10T09:17:18Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -8436,7 +8436,7 @@
     "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
     "description_zh": "阿里巴巴开源的Java诊断工具，支持在线监控、热更新和JVM问题排查",
     "language": "Java",
-    "stargazers_count": 37480,
+    "stargazers_count": 37481,
     "forks_count": 7634,
     "topics": [
       "agent",
@@ -8450,7 +8450,7 @@
       "trouble-shooting"
     ],
     "pushed_at": "2026-07-24T09:44:29Z",
-    "updated_at": "2026-08-10T07:01:30Z",
+    "updated_at": "2026-08-10T08:40:10Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -8485,7 +8485,7 @@
     "description_zh": "开源堡垒机平台，提供SSH、RDP、Kubernetes等终端的安全访问管理",
     "language": "Python",
     "stargazers_count": 31241,
-    "forks_count": 5733,
+    "forks_count": 5734,
     "topics": [
       "bastion-host",
       "cyberark",
@@ -8497,8 +8497,8 @@
       "teleport",
       "terminal"
     ],
-    "pushed_at": "2026-08-10T08:32:35Z",
-    "updated_at": "2026-08-10T08:33:48Z",
+    "pushed_at": "2026-08-10T09:14:15Z",
+    "updated_at": "2026-08-10T09:14:43Z",
     "archived": false,
     "category": "Networking / Security",
     "classifier": "ai"
@@ -8739,7 +8739,7 @@
     "description": "🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站",
     "description_zh": "面向初学者的算法训练资源，包含大厂面经、力扣图解和开源电子书",
     "language": "Java",
-    "stargazers_count": 36088,
+    "stargazers_count": 36089,
     "forks_count": 6406,
     "topics": [
       "algorithms",
@@ -8749,7 +8749,7 @@
       "leetcode-solutions"
     ],
     "pushed_at": "2023-06-13T04:13:17Z",
-    "updated_at": "2026-08-10T06:09:33Z",
+    "updated_at": "2026-08-10T09:06:02Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -8811,8 +8811,8 @@
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "description_zh": "Java后端工程师进阶知识整理，涵盖高并发、分布式、微服务等核心领域",
     "language": "Java",
-    "stargazers_count": 79051,
-    "forks_count": 19186,
+    "stargazers_count": 79052,
+    "forks_count": 19187,
     "topics": [
       "advanced-java",
       "distributed-search-engine",
@@ -8836,7 +8836,7 @@
       "zookeeper"
     ],
     "pushed_at": "2026-06-25T02:21:18Z",
-    "updated_at": "2026-08-10T06:48:09Z",
+    "updated_at": "2026-08-10T09:05:53Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -8896,14 +8896,14 @@
     "description": "Android real-time display control software",
     "description_zh": "基于Qt的Android设备实时投屏与远程控制软件",
     "language": "C++",
-    "stargazers_count": 31308,
-    "forks_count": 3721,
+    "stargazers_count": 31310,
+    "forks_count": 3722,
     "topics": [
       "android",
       "qt"
     ],
     "pushed_at": "2026-08-09T01:11:08Z",
-    "updated_at": "2026-08-10T08:25:38Z",
+    "updated_at": "2026-08-10T09:10:20Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -8937,7 +8937,7 @@
     "full_name": "Louiszhai/canvas-draw",
     "html_url": "https://github.com/Louiszhai/canvas-draw",
     "description": "使用canvas手写签名或绘图--支持pc和mobile端、支持横屏",
-    "description_zh": "使用canvas手写签名或绘图--支持pc和mobile端、支持横屏",
+    "description_zh": "基于Canvas的手写签名与绘图组件，支持PC和移动端及横屏显示",
     "language": "JavaScript",
     "stargazers_count": 619,
     "forks_count": 168,
@@ -8954,7 +8954,7 @@
     "full_name": "Trisia/alg-sm2-demo",
     "html_url": "https://github.com/Trisia/alg-sm2-demo",
     "description": "SM2密码算法 JAVA 调用演示程序。",
-    "description_zh": "SM2密码算法 JAVA 调用演示程序。",
+    "description_zh": "SM2国密椭圆曲线密码算法的Java调用演示程序",
     "language": "Java",
     "stargazers_count": 90,
     "forks_count": 47,
@@ -8969,7 +8969,7 @@
     "full_name": "ofdrw/ofdrw",
     "html_url": "https://github.com/ofdrw/ofdrw",
     "description": "OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能，文档格式遵循《GB/T 33190-2016 电子文件存储与交换格式版式文档》。",
-    "description_zh": "OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能，文档格式遵循《GB/T 33190-2016 电子文件存储与交换格式版式文档》。",
+    "description_zh": "开源OFD文档处理库，支持文档生成、数字签名、合并、转换与导出等功能",
     "language": "Java",
     "stargazers_count": 1832,
     "forks_count": 483,
@@ -8984,7 +8984,7 @@
     "full_name": "google/guava",
     "html_url": "https://github.com/google/guava",
     "description": "Google core libraries for Java",
-    "description_zh": "Google core libraries for Java",
+    "description_zh": "Google提供的Java核心工具库，包含集合、缓存、并发等常用工具类",
     "language": "Java",
     "stargazers_count": 51891,
     "forks_count": 11193,
@@ -8993,7 +8993,7 @@
       "java"
     ],
     "pushed_at": "2026-08-07T21:42:55Z",
-    "updated_at": "2026-08-10T08:13:48Z",
+    "updated_at": "2026-08-10T08:51:37Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -9002,7 +9002,7 @@
     "full_name": "wulabing/Xray_onekey",
     "html_url": "https://github.com/wulabing/Xray_onekey",
     "description": "Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 ",
-    "description_zh": "Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 ",
+    "description_zh": "基于Nginx的Xray VLESS+XTLS代理一键安装脚本",
     "language": "Shell",
     "stargazers_count": 9248,
     "forks_count": 3478,
@@ -9026,7 +9026,7 @@
     "full_name": "v5tech/cas-server-webapp",
     "html_url": "https://github.com/v5tech/cas-server-webapp",
     "description": "CAS Server 4.0二次开发。添加登录错误三次及以上验证码校验、用户登录数据库认证、CAS Server REST等",
-    "description_zh": "CAS Server 4.0二次开发。添加登录错误三次及以上验证码校验、用户登录数据库认证、CAS Server REST等",
+    "description_zh": "CAS Server 4.0二次开发，支持验证码校验、数据库认证和REST接口",
     "language": "Java",
     "stargazers_count": 126,
     "forks_count": 79,
@@ -9044,7 +9044,7 @@
     "full_name": "michaelroland/mfoc-android",
     "html_url": "https://github.com/michaelroland/mfoc-android",
     "description": "Mifare Classic Offline Cracker",
-    "description_zh": "Mifare Classic Offline Cracker",
+    "description_zh": "Android平台上的Mifare Classic离线破解工具",
     "language": "C",
     "stargazers_count": 24,
     "forks_count": 3,
@@ -9059,7 +9059,7 @@
     "full_name": "nfc-tools/mfoc",
     "html_url": "https://github.com/nfc-tools/mfoc",
     "description": "Mifare Classic Offline Cracker",
-    "description_zh": "Mifare Classic Offline Cracker",
+    "description_zh": "Mifare Classic离线破解工具，用于NFC卡片安全分析",
     "language": "C",
     "stargazers_count": 1421,
     "forks_count": 283,
@@ -9137,11 +9137,11 @@
     "description": "WPA/WPA2 密码字典，用于 wifi 密码暴力破解",
     "description_zh": "用于WiFi密码暴力破解的WPA和WPA2密码字典",
     "language": "Python",
-    "stargazers_count": 3753,
+    "stargazers_count": 3754,
     "forks_count": 720,
     "topics": [],
     "pushed_at": "2022-01-25T09:43:32Z",
-    "updated_at": "2026-08-10T08:38:53Z",
+    "updated_at": "2026-08-10T09:16:01Z",
     "archived": false,
     "category": "Networking / Security",
     "classifier": "ai"
@@ -9153,7 +9153,7 @@
     "description_zh": "科学上网代理插件的离线安装包存储仓库",
     "language": null,
     "stargazers_count": 10989,
-    "forks_count": 3588,
+    "forks_count": 3589,
     "topics": [],
     "pushed_at": "2026-05-20T15:41:15Z",
     "updated_at": "2026-08-10T08:38:03Z",
@@ -9208,7 +9208,7 @@
     "full_name": "Jrohy/multi-v2ray",
     "html_url": "https://github.com/Jrohy/multi-v2ray",
     "description": "v2ray/xray多用户管理部署程序",
-    "description_zh": "v2ray/xray多用户管理部署程序",
+    "description_zh": "v2ray和xray多用户管理部署程序，支持多种协议",
     "language": "Python",
     "stargazers_count": 6976,
     "forks_count": 2342,
@@ -9239,7 +9239,7 @@
     "full_name": "FunctionClub/V2ray.Fun",
     "html_url": "https://github.com/FunctionClub/V2ray.Fun",
     "description": "正在开发的全新 V2ray.Fun",
-    "description_zh": "正在开发的全新 V2ray.Fun",
+    "description_zh": "基于 V2ray 协议的网络代理工具开发项目",
     "language": "CSS",
     "stargazers_count": 1960,
     "forks_count": 581,
@@ -9254,7 +9254,7 @@
     "full_name": "zu1k/tg-keyword-reply-bot",
     "html_url": "https://github.com/zu1k/tg-keyword-reply-bot",
     "description": "Telegram关键词自动回复机器人: 根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作",
-    "description_zh": "Telegram关键词自动回复机器人: 根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作",
+    "description_zh": "基于关键词和正则规则的 Telegram 群组自动回复与管理机器人",
     "language": "Go",
     "stargazers_count": 553,
     "forks_count": 184,
@@ -9274,7 +9274,7 @@
     "full_name": "Arronlong/httpclientutil",
     "html_url": "https://github.com/Arronlong/httpclientutil",
     "description": "该项目基于HttpClient-4.4.1封装的一个工具类。提供了更为简单的GET、POST及上传下载等功能。同时支持插件式配置Http-Header（包含自定义header）、配置SSL和Proxy等。",
-    "description_zh": "该项目基于HttpClient-4.4.1封装的一个工具类。提供了更为简单的GET、POST及上传下载等功能。同时支持插件式配置Http-Header（包含自定义header）、配置SSL和Proxy等。",
+    "description_zh": "基于 HttpClient 封装的 Java HTTP 请求工具类库",
     "language": "Java",
     "stargazers_count": 1404,
     "forks_count": 698,
@@ -9289,13 +9289,13 @@
     "full_name": "alibaba/p3c",
     "html_url": "https://github.com/alibaba/p3c",
     "description": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
-    "description_zh": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
+    "description_zh": "阿里巴巴 Java 开发手册规范及 PMD 实现与 IDE 插件",
     "language": "Kotlin",
-    "stargazers_count": 30833,
+    "stargazers_count": 30834,
     "forks_count": 7972,
     "topics": [],
     "pushed_at": "2024-08-06T08:22:02Z",
-    "updated_at": "2026-08-09T06:58:38Z",
+    "updated_at": "2026-08-10T08:58:51Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -9304,7 +9304,7 @@
     "full_name": "clearw5/Auto.js",
     "html_url": "https://github.com/clearw5/Auto.js",
     "description": "Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)",
-    "description_zh": "Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)",
+    "description_zh": "安卓平台上的JavaScript编程IDE，用于自动化脚本和任务流开发",
     "language": null,
     "stargazers_count": 12868,
     "forks_count": 3931,
@@ -9329,7 +9329,7 @@
     "full_name": "android-hacker/VirtualXposed",
     "html_url": "https://github.com/android-hacker/VirtualXposed",
     "description": "A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.",
-    "description_zh": "A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.",
+    "description_zh": "无需root即可使用Xposed框架的Android应用，支持AOP和Hook开发",
     "language": "Java",
     "stargazers_count": 16047,
     "forks_count": 2530,
@@ -9350,7 +9350,7 @@
     "full_name": "rememberber/WePush",
     "html_url": "https://github.com/rememberber/WePush",
     "description": "专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信",
-    "description_zh": "专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信",
+    "description_zh": "支持微信短信邮件等多种渠道的批量消息推送工具，提供图形界面操作",
     "language": "Java",
     "stargazers_count": 4651,
     "forks_count": 1012,
@@ -9377,7 +9377,7 @@
     "full_name": "jbarrez/spring-boot-with-activiti-example",
     "html_url": "https://github.com/jbarrez/spring-boot-with-activiti-example",
     "description": null,
-    "description_zh": "-",
+    "description_zh": "Spring Boot集成Activiti工作流引擎的示例项目，用于学习和参考",
     "language": "Java",
     "stargazers_count": 444,
     "forks_count": 375,
@@ -9392,7 +9392,7 @@
     "full_name": "redisson/redisson",
     "html_url": "https://github.com/redisson/redisson",
     "description": "Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
-    "description_zh": "Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+    "description_zh": "Redis和Valkey的Java客户端，提供分布式锁缓存队列等50多种对象和服务",
     "language": "Java",
     "stargazers_count": 24374,
     "forks_count": 5491,
@@ -9428,7 +9428,7 @@
     "full_name": "eugenp/tutorials",
     "html_url": "https://github.com/eugenp/tutorials",
     "description": "Getting Started with Spring Boot 3: ",
-    "description_zh": "Getting Started with Spring Boot 3: ",
+    "description_zh": "Spring Boot 3 入门教程，涵盖 Spring 生态的实用指南与示例代码",
     "language": "Java",
     "stargazers_count": 37330,
     "forks_count": 53337,
@@ -9443,10 +9443,10 @@
     "full_name": "Snailclimb/JavaGuide",
     "html_url": "https://github.com/Snailclimb/JavaGuide",
     "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-    "description_zh": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+    "description_zh": "Java 面试与后端开发指南，覆盖计算机基础、数据库、分布式与系统设计",
     "language": "JavaScript",
-    "stargazers_count": 157652,
-    "forks_count": 46178,
+    "stargazers_count": 157655,
+    "forks_count": 46177,
     "topics": [
       "agent",
       "ai",
@@ -9463,7 +9463,7 @@
       "system-design"
     ],
     "pushed_at": "2026-08-08T06:58:19Z",
-    "updated_at": "2026-08-10T08:18:04Z",
+    "updated_at": "2026-08-10T09:08:48Z",
     "archived": false,
     "category": "Learning / Resources",
     "classifier": "ai"
@@ -9472,9 +9472,9 @@
     "full_name": "spring-projects/spring-boot",
     "html_url": "https://github.com/spring-projects/spring-boot",
     "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-    "description_zh": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+    "description_zh": "Spring Boot 框架，用于快速构建生产级 Spring 应用与服务",
     "language": "Java",
-    "stargazers_count": 81311,
+    "stargazers_count": 81312,
     "forks_count": 42116,
     "topics": [
       "framework",
@@ -9483,7 +9483,7 @@
       "spring-boot"
     ],
     "pushed_at": "2026-08-08T19:07:45Z",
-    "updated_at": "2026-08-10T07:20:52Z",
+    "updated_at": "2026-08-10T08:55:14Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -9492,7 +9492,7 @@
     "full_name": "ityouknow/spring-boot-examples",
     "html_url": "https://github.com/ityouknow/spring-boot-examples",
     "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 ",
-    "description_zh": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 ",
+    "description_zh": "Spring Boot 教程与示例代码，涵盖多种技术栈集成实践",
     "language": "Java",
     "stargazers_count": 30513,
     "forks_count": 12172,
@@ -9528,7 +9528,7 @@
     "full_name": "apolloconfig/apollo",
     "html_url": "https://github.com/apolloconfig/apollo",
     "description": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
-    "description_zh": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+    "description_zh": "分布式配置管理系统，适用于微服务架构下的配置管理场景",
     "language": "Java",
     "stargazers_count": 29803,
     "forks_count": 10164,
@@ -9550,7 +9550,7 @@
     "full_name": "forezp/SpringCloudLearning",
     "html_url": "https://github.com/forezp/SpringCloudLearning",
     "description": "《史上最简单的Spring Cloud教程源码》",
-    "description_zh": "《史上最简单的Spring Cloud教程源码》",
+    "description_zh": "Spring Cloud 教程源码，涵盖 Eureka、Feign、Gateway 等核心组件",
     "language": "Java",
     "stargazers_count": 17921,
     "forks_count": 7937,
@@ -9581,7 +9581,7 @@
     "full_name": "Wizzercn/NutzWk",
     "html_url": "https://github.com/Wizzercn/NutzWk",
     "description": "WK系列开发框架-V1至V5 Java开源企业级开发框架(单应用/微服务/分布式)",
-    "description_zh": "WK系列开发框架-V1至V5 Java开源企业级开发框架(单应用/微服务/分布式)",
+    "description_zh": "基于 Nutz 的企业级 Java 开发框架，支持单应用与微服务架构",
     "language": "JavaScript",
     "stargazers_count": 1608,
     "forks_count": 626,
@@ -9604,7 +9604,7 @@
     "full_name": "dubboclub/dubbokeeper",
     "html_url": "https://github.com/dubboclub/dubbokeeper",
     "description": "dubbo服务管理以及监控系统",
-    "description_zh": "dubbo服务管理以及监控系统",
+    "description_zh": "Dubbo 服务管理与监控系统，提供服务治理与运维能力",
     "language": "JavaScript",
     "stargazers_count": 1272,
     "forks_count": 672,
@@ -9619,7 +9619,7 @@
     "full_name": "crossoverJie/SSM",
     "html_url": "https://github.com/crossoverJie/SSM",
     "description": ":two_hearts: build SSM from 0 👉🏽👉🏽  distributed micro service.",
-    "description_zh": ":two_hearts: build SSM from 0 👉🏽👉🏽  distributed micro service.",
+    "description_zh": "从零构建 SSM 框架到分布式微服务的教程与源码",
     "language": "Java",
     "stargazers_count": 3415,
     "forks_count": 1311,
@@ -9642,7 +9642,7 @@
     "full_name": "dromara/hmily",
     "html_url": "https://github.com/dromara/hmily",
     "description": "Distributed transaction solutions",
-    "description_zh": "Distributed transaction solutions",
+    "description_zh": "分布式事务解决方案框架，支持TCC、XA等事务模式，适用于微服务架构",
     "language": "Java",
     "stargazers_count": 4171,
     "forks_count": 1398,
@@ -9666,7 +9666,7 @@
     "full_name": "apache/dubbo-spring-boot-project",
     "html_url": "https://github.com/apache/dubbo-spring-boot-project",
     "description": "Spring Boot Project for Apache Dubbo",
-    "description_zh": "Spring Boot Project for Apache Dubbo",
+    "description_zh": "Apache Dubbo的Spring Boot集成项目，用于微服务RPC通信与治理",
     "language": "Java",
     "stargazers_count": 5388,
     "forks_count": 1849,
@@ -9806,7 +9806,7 @@
     "description": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
     "description_zh": "中文自然语言处理工具包，支持分词、命名实体识别、句法分析等",
     "language": "Python",
-    "stargazers_count": 36480,
+    "stargazers_count": 36479,
     "forks_count": 10925,
     "topics": [
       "dependency-parser",
@@ -9819,7 +9819,7 @@
       "text-classification"
     ],
     "pushed_at": "2025-11-15T23:08:17Z",
-    "updated_at": "2026-08-10T02:23:34Z",
+    "updated_at": "2026-08-10T08:54:54Z",
     "archived": false,
     "category": "AI / LLM",
     "classifier": "ai"
@@ -9905,7 +9905,7 @@
     "description": "Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. ",
     "description_zh": "轻量级工作流和业务流程管理平台，基于BPMN 2标准",
     "language": "Java",
-    "stargazers_count": 10541,
+    "stargazers_count": 10540,
     "forks_count": 6923,
     "topics": [
       "activiti",
@@ -9919,8 +9919,8 @@
       "product-activiti",
       "spring"
     ],
-    "pushed_at": "2026-08-08T08:09:51Z",
-    "updated_at": "2026-08-09T15:42:11Z",
+    "pushed_at": "2026-08-10T09:08:17Z",
+    "updated_at": "2026-08-10T08:41:14Z",
     "archived": false,
     "category": "Dev Tools",
     "classifier": "ai"
@@ -9931,7 +9931,7 @@
     "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
     "description_zh": "Spring Cloud Alibaba分布式解决方案，提供一站式微服务开发能力",
     "language": "Java",
-    "stargazers_count": 29153,
+    "stargazers_count": 29154,
     "forks_count": 8482,
     "topics": [
       "alibaba",
@@ -9956,7 +9956,7 @@
       "spring-cloud-core"
     ],
     "pushed_at": "2026-08-04T14:43:31Z",
-    "updated_at": "2026-08-10T06:54:25Z",
+    "updated_at": "2026-08-10T09:00:48Z",
     "archived": false,
     "category": "DevOps / Cloud",
     "classifier": "ai"
@@ -9990,7 +9990,7 @@
     "full_name": "kaikramer/keystore-explorer",
     "html_url": "https://github.com/kaikramer/keystore-explorer",
     "description": "KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.",
-    "description_zh": "KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.",
+    "description_zh": "Java密钥库管理图形化工具，替代keytool和jarsigner命令行操作",
     "language": "Java",
     "stargazers_count": 2035,
     "forks_count": 315,
@@ -10005,7 +10005,7 @@
     "full_name": "hs-web/hsweb-framework",
     "html_url": "https://github.com/hs-web/hsweb-framework",
     "description": "hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。",
-    "description_zh": "hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。",
+    "description_zh": "基于Spring Boot的全响应式企业级后台管理系统基础框架",
     "language": "Java",
     "stargazers_count": 8402,
     "forks_count": 3019,
@@ -10031,7 +10031,7 @@
     "full_name": "GangZhuo/BaiduPCS",
     "html_url": "https://github.com/GangZhuo/BaiduPCS",
     "description": "百度网盘命令行工具。The terminal utility for Baidu Network Disk.",
-    "description_zh": "百度网盘命令行工具。The terminal utility for Baidu Network Disk.",
+    "description_zh": "百度网盘命令行工具，用于在终端中管理百度网盘文件",
     "language": "Roff",
     "stargazers_count": 3547,
     "forks_count": 707,
@@ -10046,7 +10046,7 @@
     "full_name": "alibaba/nacos",
     "html_url": "https://github.com/alibaba/nacos",
     "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
-    "description_zh": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+    "description_zh": "动态服务发现、配置与服务管理平台，用于构建云原生微服务应用",
     "language": "Java",
     "stargazers_count": 33250,
     "forks_count": 13281,
@@ -10078,7 +10078,7 @@
     "full_name": "ewen0930/IntelliJ-IDEA-Chinese",
     "html_url": "https://github.com/ewen0930/IntelliJ-IDEA-Chinese",
     "description": "IntelliJ IDEA Chinese Language Pack（中文语言包）",
-    "description_zh": "IntelliJ IDEA Chinese Language Pack（中文语言包）",
+    "description_zh": "IntelliJ IDEA 中文语言包插件，支持开发环境界面汉化",
     "language": "HTML",
     "stargazers_count": 244,
     "forks_count": 38,
@@ -10093,7 +10093,7 @@
     "full_name": "judasn/IntelliJ-IDEA-Tutorial",
     "html_url": "https://github.com/judasn/IntelliJ-IDEA-Tutorial",
     "description": "IntelliJ IDEA 简体中文专题教程",
-    "description_zh": "IntelliJ IDEA 简体中文专题教程",
+    "description_zh": "IntelliJ IDEA 及 JetBrains 系列 IDE 的简体中文专题教程",
     "language": null,
     "stargazers_count": 22077,
     "forks_count": 7182,
@@ -10122,7 +10122,7 @@
     "full_name": "abel533/Mapper",
     "html_url": "https://github.com/abel533/Mapper",
     "description": "Mybatis Common Mapper - Easy to use",
-    "description_zh": "Mybatis Common Mapper - Easy to use",
+    "description_zh": "通用 MyBatis 插件，简化单表 CRUD 操作，提升 Java 开发效率",
     "language": "Java",
     "stargazers_count": 7365,
     "forks_count": 1602,
@@ -10164,7 +10164,7 @@
     "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
     "description_zh": "跨平台聊天机器人开发框架，支持微信、QQ、WhatsApp等多种聊天平台",
     "language": "TypeScript",
-    "stargazers_count": 22949,
+    "stargazers_count": 22950,
     "forks_count": 2832,
     "topics": [
       "bot",
@@ -10178,7 +10178,7 @@
       "whatsapp"
     ],
     "pushed_at": "2025-12-21T19:49:52Z",
-    "updated_at": "2026-08-10T07:54:49Z",
+    "updated_at": "2026-08-10T08:49:43Z",
     "archived": false,
     "category": "AI / Agents",
     "classifier": "ai"

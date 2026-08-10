@@ -2,77 +2,77 @@
 
 共 **72** 个收藏。
 
-| Repository | 中文描述 | Original description | Lang | Stars | Classifier | Status | Last push |
-|---|---|---|---:|---:|---|---|---|
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 由AI代理自主构建和维护的Rust博物馆展览项目，无人工干预 | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human int… | Rust | 195,018 | 🤖 AI | 🔥 Active | 2026-08-06 |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 自主AI智能体，可自动规划并执行复杂任务链 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so th… | Python | 186,477 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 用于构建和部署AI智能体与工作流的可视化工具 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | Python | 153,008 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [langgenius/dify](https://github.com/langgenius/dify) | 支持智能体工作流和RAG管道的AI应用开发平台 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on c… | TypeScript | 151,929 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 用于构建AI Agent的开源工程平台与框架，支持多模型与多Agent协作 | The agent engineering platform. | Python | 143,859 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 包含多种专业化AI代理的完整AI代理机构，每个代理具有独特人格和交付能力 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to re… | Shell | 141,217 | 📌 Manual | 🔥 Active | 2026-08-06 |
-| [openai/codex](https://github.com/openai/codex) | OpenAI推出的轻量级终端编码智能体，支持命令行编程辅助 | Lightweight coding agent that runs in your terminal | Rust | 105,061 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI驱动的开发平台，支持智能体自主完成软件开发任务 | 🙌 OpenHands: AI-Driven Development | TypeScript | 83,595 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 多智能体协作框架，实现自然语言编程与软件开发 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | Python | 69,753 | 🤖 AI | ✅ Maintained | 2026-01-21 |
-| [microsoft/autogen](https://github.com/microsoft/autogen) | 用于构建多智能体AI应用的编程框架 | A programming framework for agentic AI | Python | 60,343 | 🤖 AI | ✅ Maintained | 2026-04-15 |
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 可视化构建AI智能体的低代码平台，支持多智能体系统和RAG | Build AI Agents, Visually | TypeScript | 55,291 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI生产力工作室，支持智能聊天自主智能体和300多个助手，统一访问前沿LLM | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | TypeScript | 50,207 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 终端中的AI结对编程工具，支持多种LLM模型进行代码编辑 | aider is AI pair programming in your terminal | Python | 48,090 | 🤖 AI | 🔥 Active | 2026-05-22 |
-| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 开源超级AI助手和智能体框架，支持多模型多渠道和记忆知识自进化 | Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowle… | Python | 46,438 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 增强版ChatGPT克隆，支持多模型切换与智能体功能 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1,… | TypeScript | 41,873 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 构建弹性智能体的框架，支持多智能体协作 | Build resilient agents. | Python | 39,348 | 🤖 AI | 🔥 Active | 2026-08-09 |
-| [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | 在浏览器中组装配置和部署自主AI智能体 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | TypeScript | 36,304 | 🤖 AI | 📦 Archived | 2025-04-29 |
-| [continuedev/continue](https://github.com/continuedev/continue) | 开源编码智能体，辅助开发者编写代码 | open-source coding agent | TypeScript | 35,421 | 🤖 AI | 🔥 Active | 2026-08-09 |
-| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 基于大语言模型多智能体协作的软件开发平台 | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration | Python | 33,975 | 🤖 AI | 🔥 Active | 2026-07-24 |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 构建和运行可理解可信任的智能体框架，支持多模态和多智能体 | Build and run agents you can see, understand and trust. | Python | 28,759 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 开源AI编码智能体，运行在终端中，支持MCP协议和多种开发任务 | An open-source AI coding agent that lives in your terminal. | TypeScript | 26,890 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) | 微信个人号接口封装，支持微信机器人及命令行微信操作 | A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。 | Python | 26,480 | 🤖 AI | 🕰️ Stable | 2023-09-28 |
-| [a2aproject/A2A](https://github.com/a2aproject/A2A) | Agent2Agent开放协议，实现不透明智能体应用间的通信和互操作 | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. | Shell | 25,270 | 🤖 AI | 🔥 Active | 2026-08-08 |
-| [microsoft/OmniParser](https://github.com/microsoft/OmniParser) | 面向纯视觉GUI智能体的屏幕解析工具 | A simple screen parsing tool towards pure vision based GUI agent | Jupyter Notebook | 25,238 | 🤖 AI | 🔥 Active | 2026-07-20 |
-| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 在代码编辑器中提供整个AI开发团队的多智能体编程工具 | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 24,350 | 🤖 AI | 📦 Archived | 2026-05-15 |
-| [wechaty/wechaty](https://github.com/wechaty/wechaty) | 跨平台聊天机器人开发框架，支持微信、QQ、WhatsApp等多种聊天平台 | Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt | TypeScript | 22,949 | 🤖 AI | ✅ Maintained | 2025-12-21 |
-| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 开源企业级智能体平台，支持知识库RAG和MCP服务器 | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 | Python | 22,456 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | AI智能体开发平台，提供可视化工具简化智能体创建调试和部署 | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment li… | TypeScript | 21,417 | 🤖 AI | 🔥 Active | 2026-07-29 |
-| [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 将离别的记忆转化为温暖技能的数字生命项目 | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital… | Python | 20,782 | 🤖 AI | 🔥 Active | 2026-06-01 |
-| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 开源的Agentic AI数据助手，面向下一代AI与数据产品 | open-source agentic AI data assistant for the next generation of AI + Data products. | Python | 19,679 | 🤖 AI | 🔥 Active | 2026-08-08 |
-| [dzhng/deep-research](https://github.com/dzhng/deep-research) | AI驱动的深度研究助手，结合搜索引擎网页抓取和LLM进行迭代式深度研究 | An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web s… | TypeScript | 19,519 | 🤖 AI | ✅ Maintained | 2026-04-11 |
-| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 基于通义千问的智能体框架，支持函数调用、MCP、代码解释器和RAG | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome e… | Python | 16,944 | 🤖 AI | ✅ Maintained | 2026-03-04 |
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 智能体用户交互协议，将AI代理集成到前端应用程序中 | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. | Python | 15,208 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 关于编码智能体的研究项目 | Research on Coding Agents | - | 12,203 | 🤖 AI | ✅ Maintained | 2026-04-01 |
-| [dataelement/bisheng](https://github.com/dataelement/bisheng) | 企业级LLM开发运维平台，支持RAG智能体与工作流 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featu… | Python | 11,839 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 开源异步编码智能体框架，用于内部代码开发自动化 | An Open-Source Asynchronous Coding Agent | Python | 10,522 | 🤖 AI | 🔥 Active | 2026-08-09 |
-| [microsoft/UFO](https://github.com/microsoft/UFO) | 数字智能体星系框架，支持Windows GUI自动化和智能体协作 | UFO³: Weaving the Digital Agent Galaxy | Python | 9,455 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [idosal/git-mcp](https://github.com/idosal/git-mcp) | 面向任何GitHub项目的远程MCP服务器，消除代码幻觉问题 | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project | TypeScript | 8,320 | 🤖 AI | ✅ Maintained | 2026-05-08 |
-| [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python中构建自主AI智能体的框架，支持MCP和计算机使用能力 | Build autonomous AI agents in Python. | Python | 7,936 | 🤖 AI | 🔥 Active | 2026-06-18 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | Anthropic官方Claude智能体Python SDK开发工具包 | - | Python | 7,844 | 🤖 AI | 🔥 Active | 2026-08-08 |
-| [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) | 网页版微信API封装，提供终端版微信及微信机器人功能 | 网页版微信API，包含终端版微信及微信机器人 | Python | 7,398 | 🤖 AI | ⚠️ Stale | 2019-11-27 |
-| [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) | 基于Realtime API的高级智能体模式演示项目 | This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. | TypeScript | 6,952 | 🤖 AI | ✅ Maintained | 2026-01-07 |
-| [InternLM/MindSearch](https://github.com/InternLM/MindSearch) | 基于LLM的多智能体网络搜索引擎框架，类似Perplexity和SearchGPT | 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT) | JavaScript | 6,913 | 🤖 AI | 🕰️ Stable | 2025-07-04 |
-| [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) | claw-code的Rust移植并行工作，用于仓库迁移期间的临时开发 | Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code re… | Rust | 6,665 | 🤖 AI | 📦 Archived | 2026-04-05 |
-| [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) | 首个代码优先的智能体框架，用于规划和执行数据分析任务 | The first "code-first" agent framework for seamlessly planning and executing data analytics tasks. | Python | 6,178 | 🤖 AI | 📦 Archived | 2026-03-23 |
-| [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) | 大语言模型工具学习训练服务与评估的开放平台 | [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning. | Python | 5,721 | 🤖 AI | 🕰️ Stable | 2025-05-21 |
-| [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | AI驱动的数据科学智能体团队，帮助快速完成常见数据科学任务 | An AI-powered data science team of agents to help you perform common data science tasks 10X faster. | Python | 5,373 | 🤖 AI | ✅ Maintained | 2026-01-28 |
-| [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) | Claude Code工作流工作室，支持子代理、MCP工具和VSCode扩展的自动化工作流 | CC Workflow Studio | TypeScript | 5,348 | 🤖 AI | 🔥 Active | 2026-08-09 |
-| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 跨平台桌面AI助手和MCP客户端，支持本地知识库和多种模型服务 | 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local… | TypeScript | 5,335 | 🤖 AI | 🔥 Active | 2026-07-15 |
-| [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) | 面向真实场景的语言智能体开放平台，支持工具学习和语义解析 | [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild | Python | 4,856 | 🤖 AI | 🕰️ Stable | 2024-11-18 |
-| [phodal/auto-dev](https://github.com/phodal/auto-dev) | AI原生多智能体开发平台，覆盖SDLC全部7个阶段 | 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC. | Kotlin | 4,529 | 🤖 AI | 🔥 Active | 2026-08-04 |
-| [modelscope/ms-agent](https://github.com/modelscope/ms-agent) | 轻量级智能体框架，支持复杂任务的自主执行与深度研究 | MS-Agent: a lightweight framework to empower agentic execution of complex tasks | Python | 4,357 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 提供结构化规范驱动开发工作流的MCP服务器，含实时Web仪表板和VSCode扩展 | A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted s… | TypeScript | 4,283 | 🤖 AI | 🔥 Active | 2026-07-03 |
-| [langroid/langroid](https://github.com/langroid/langroid) | 多智能体编程框架，支持LLM驱动的信息检索和RAG应用 | Harness LLMs with Multi-Agent Programming | Python | 4,090 | 🤖 AI | 🔥 Active | 2026-07-29 |
-| [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) | 任务感知的智能体驱动提示词优化框架 | Task-Aware Agent-driven Prompt Optimization Framework | Python | 4,000 | 🤖 AI | ✅ Maintained | 2025-10-13 |
-| [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) | Claude Code的自动化工作流，支持规范驱动开发和快速缺陷修复流程 | Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks →… | TypeScript | 3,826 | 🤖 AI | ✅ Maintained | 2025-09-07 |
-| [kingkongshot/Pensieve](https://github.com/kingkongshot/Pensieve) | 存储决策和原则的工具，Claude读取后做出更好的选择 | tore your decisions and principles. Claude reads them to make better choices. | Shell | 2,518 | 🤖 AI | ✅ Maintained | 2026-05-08 |
-| [yaphone/itchat4j](https://github.com/yaphone/itchat4j) | 用Java扩展个人微信号能力的微信机器人框架 | itchat4j -- 用Java扩展个人微信号的能力 | Java | 2,115 | 🤖 AI | 🕰️ Stable | 2024-04-11 |
-| [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) | 为大语言模型赋予通用智能体能力的微调方法 | AgentTuning: Enabling Generalized Agent Abilities for LLMs | Python | 1,504 | 🤖 AI | 🕰️ Stable | 2023-10-31 |
-| [browserwing/browserwing](https://github.com/browserwing/browserwing) | 将浏览器操作转换为MCP命令或Claude Skill，使AI代理高效控制浏览器实现自动化 | BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers effici… | Go | 1,403 | 🤖 AI | 🔥 Active | 2026-08-08 |
-| [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) | 基于MCP协议的12306火车票查询服务器，支持AI代理调用 | This is a 12306 ticket search server based on the Model Context Protocol (MCP). | JavaScript | 1,161 | 🤖 AI | 🔥 Active | 2026-07-31 |
-| [themanojdesai/python-a2a](https://github.com/themanojdesai/python-a2a) | 实现Google A2A协议的Python库，支持AI代理间无缝通信和协作 | Python A2A is a powerful, easy-to-use library for implementing Google's [Agent-to-Agent (A2A) protocol](https://google.… | Python | 1,005 | 🤖 AI | ✅ Maintained | 2025-09-06 |
-| [codefuse-ai/Test-Agent](https://github.com/codefuse-ai/Test-Agent) | 基于LLM的软件测试智能体，赋能软件测试自动化 | Agent that empowers software testing with LLMs; industrial-first in China | Python | 715 | 🤖 AI | 🕰️ Stable | 2024-03-04 |
-| [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) | 简单的MCP客户端CLI工具，支持运行LLM提示词和MCP协议 | A simple CLI to run LLM prompt and implement MCP client. | Python | 678 | 🤖 AI | ✅ Maintained | 2025-12-02 |
-| [hellowind777/helloagents](https://github.com/hellowind777/helloagents) | 自主高级智能伙伴，持续分析问题直到完成实现和验证 | 一个自主的高级智能伙伴，不仅分析问题，更持续工作直到完成实现和验证。 | JavaScript | 655 | 🤖 AI | 🔥 Active | 2026-07-29 |
-| [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) | 用于数据探索的MCP服务器 | - | Python | 545 | 🤖 AI | 🕰️ Stable | 2025-03-22 |
-| [LangGraph-GUI/LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) | LangGraph的可视化节点边图编辑器，支持本地LLM和在线API运行 | Visual node-edge graph GUI editor for LangGraph and run with local LLM or online API | TypeScript | 265 | 🤖 AI | ✅ Maintained | 2026-01-24 |
-| [happyapplehorse/agere](https://github.com/happyapplehorse/agere) | 用于构建和驱动AI工作流与智能体的工具 | The tool is used for building and driving workflows specifically tailored for AI initiatives. It can be used to constru… | Python | 162 | 🤖 AI | 🕰️ Stable | 2024-07-03 |
-| [thunlp/MatPlotAgent](https://github.com/thunlp/MatPlotAgent) | 基于LLM的Matplotlib绘图智能体 | - | Python | 116 | 🤖 AI | 🕰️ Stable | 2024-07-01 |
-| [SecureAgentTools/AgentVault](https://github.com/SecureAgentTools/AgentVault) | 开源安全去中心化AI代理互操作工具包，支持A2A和MCP协议 | "Open-source toolkit (Python Library, Registry API, CLI) for secure, decentralized AI agent interoperability using A2A/… | Python | 18 | 🤖 AI | 🕰️ Stable | 2025-05-10 |
-| [pcingola/a2a_min](https://github.com/pcingola/a2a_min) | A2A协议的极简实现 | - | Python | 12 | 🤖 AI | 🕰️ Stable | 2025-04-15 |
-| [OpenHands/OpenHands-Server](https://github.com/OpenHands/OpenHands-Server) | OpenHands服务器的功能实现，用于创建和管理AI开发服务器 | Functionality for creating OpenHands Servers | Python | 8 | 🤖 AI | 📦 Archived | 2025-10-08 |
+| Repository | 中文描述 | Stars | Classifier | Status | Last push |
+|---|---|---:|---|---|---|
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 由AI代理自主构建和维护的Rust博物馆展览项目，无人工干预 | 195,021 | 🤖 AI | 🔥 Active | 2026-08-06 |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 自主AI智能体，可自动规划并执行复杂任务链 | 186,480 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 用于构建和部署AI智能体与工作流的可视化工具 | 153,008 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 支持智能体工作流和RAG管道的AI应用开发平台 | 151,936 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 用于构建AI Agent的开源工程平台与框架，支持多模型与多Agent协作 | 143,863 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 包含多种专业化AI代理的完整AI代理机构，每个代理具有独特人格和交付能力 | 141,252 | 📌 Manual | 🔥 Active | 2026-08-06 |
+| [openai/codex](https://github.com/openai/codex) | OpenAI推出的轻量级终端编码智能体，支持命令行编程辅助 | 105,066 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI驱动的开发平台，支持智能体自主完成软件开发任务 | 83,597 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 多智能体协作框架，实现自然语言编程与软件开发 | 69,755 | 🤖 AI | ✅ Maintained | 2026-01-21 |
+| [microsoft/autogen](https://github.com/microsoft/autogen) | 用于构建多智能体AI应用的编程框架 | 60,344 | 🤖 AI | ✅ Maintained | 2026-04-15 |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 可视化构建AI智能体的低代码平台，支持多智能体系统和RAG | 55,292 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI生产力工作室，支持智能聊天自主智能体和300多个助手，统一访问前沿LLM | 50,210 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 终端中的AI结对编程工具，支持多种LLM模型进行代码编辑 | 48,090 | 🤖 AI | 🔥 Active | 2026-05-22 |
+| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 开源超级AI助手和智能体框架，支持多模型多渠道和记忆知识自进化 | 46,441 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 增强版ChatGPT克隆，支持多模型切换与智能体功能 | 41,874 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 构建弹性智能体的框架，支持多智能体协作 | 39,353 | 🤖 AI | 🔥 Active | 2026-08-09 |
+| [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | 在浏览器中组装配置和部署自主AI智能体 | 36,304 | 🤖 AI | 📦 Archived | 2025-04-29 |
+| [continuedev/continue](https://github.com/continuedev/continue) | 开源编码智能体，辅助开发者编写代码 | 35,422 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 基于大语言模型多智能体协作的软件开发平台 | 33,974 | 🤖 AI | 🔥 Active | 2026-07-24 |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 构建和运行可理解可信任的智能体框架，支持多模态和多智能体 | 28,764 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 开源AI编码智能体，运行在终端中，支持MCP协议和多种开发任务 | 26,893 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) | 微信个人号接口封装，支持微信机器人及命令行微信操作 | 26,480 | 🤖 AI | 🕰️ Stable | 2023-09-28 |
+| [a2aproject/A2A](https://github.com/a2aproject/A2A) | Agent2Agent开放协议，实现不透明智能体应用间的通信和互操作 | 25,270 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [microsoft/OmniParser](https://github.com/microsoft/OmniParser) | 面向纯视觉GUI智能体的屏幕解析工具 | 25,239 | 🤖 AI | 🔥 Active | 2026-07-20 |
+| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 在代码编辑器中提供整个AI开发团队的多智能体编程工具 | 24,350 | 🤖 AI | 📦 Archived | 2026-05-15 |
+| [wechaty/wechaty](https://github.com/wechaty/wechaty) | 跨平台聊天机器人开发框架，支持微信、QQ、WhatsApp等多种聊天平台 | 22,950 | 🤖 AI | ✅ Maintained | 2025-12-21 |
+| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 开源企业级智能体平台，支持知识库RAG和MCP服务器 | 22,457 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | AI智能体开发平台，提供可视化工具简化智能体创建调试和部署 | 21,416 | 🤖 AI | 🔥 Active | 2026-07-29 |
+| [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 将离别的记忆转化为温暖技能的数字生命项目 | 20,782 | 🤖 AI | 🔥 Active | 2026-06-01 |
+| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 开源的Agentic AI数据助手，面向下一代AI与数据产品 | 19,679 | 🤖 AI | 🔥 Active | 2026-08-08 |
+| [dzhng/deep-research](https://github.com/dzhng/deep-research) | AI驱动的深度研究助手，结合搜索引擎网页抓取和LLM进行迭代式深度研究 | 19,520 | 🤖 AI | ✅ Maintained | 2026-04-11 |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 基于通义千问的智能体框架，支持函数调用、MCP、代码解释器和RAG | 16,944 | 🤖 AI | ✅ Maintained | 2026-03-04 |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 智能体用户交互协议，将AI代理集成到前端应用程序中 | 15,209 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 关于编码智能体的研究项目 | 12,203 | 🤖 AI | ✅ Maintained | 2026-04-01 |
+| [dataelement/bisheng](https://github.com/dataelement/bisheng) | 企业级LLM开发运维平台，支持RAG智能体与工作流 | 11,840 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 开源异步编码智能体框架，用于内部代码开发自动化 | 10,524 | 🤖 AI | 🔥 Active | 2026-08-09 |
+| [microsoft/UFO](https://github.com/microsoft/UFO) | 数字智能体星系框架，支持Windows GUI自动化和智能体协作 | 9,455 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [idosal/git-mcp](https://github.com/idosal/git-mcp) | 面向任何GitHub项目的远程MCP服务器，消除代码幻觉问题 | 8,321 | 🤖 AI | ✅ Maintained | 2026-05-08 |
+| [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python中构建自主AI智能体的框架，支持MCP和计算机使用能力 | 7,936 | 🤖 AI | 🔥 Active | 2026-06-18 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | Anthropic官方Claude智能体Python SDK开发工具包 | 7,844 | 🤖 AI | 🔥 Active | 2026-08-08 |
+| [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) | 网页版微信API封装，提供终端版微信及微信机器人功能 | 7,398 | 🤖 AI | ⚠️ Stale | 2019-11-27 |
+| [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) | 基于Realtime API的高级智能体模式演示项目 | 6,952 | 🤖 AI | ✅ Maintained | 2026-01-07 |
+| [InternLM/MindSearch](https://github.com/InternLM/MindSearch) | 基于LLM的多智能体网络搜索引擎框架，类似Perplexity和SearchGPT | 6,913 | 🤖 AI | 🕰️ Stable | 2025-07-04 |
+| [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) | claw-code的Rust移植并行工作，用于仓库迁移期间的临时开发 | 6,665 | 🤖 AI | 📦 Archived | 2026-04-05 |
+| [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) | 首个代码优先的智能体框架，用于规划和执行数据分析任务 | 6,178 | 🤖 AI | 📦 Archived | 2026-03-23 |
+| [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) | 大语言模型工具学习训练服务与评估的开放平台 | 5,721 | 🤖 AI | 🕰️ Stable | 2025-05-21 |
+| [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | AI驱动的数据科学智能体团队，帮助快速完成常见数据科学任务 | 5,373 | 🤖 AI | ✅ Maintained | 2026-01-28 |
+| [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) | Claude Code工作流工作室，支持子代理、MCP工具和VSCode扩展的自动化工作流 | 5,348 | 🤖 AI | 🔥 Active | 2026-08-09 |
+| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 跨平台桌面AI助手和MCP客户端，支持本地知识库和多种模型服务 | 5,336 | 🤖 AI | 🔥 Active | 2026-07-15 |
+| [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) | 面向真实场景的语言智能体开放平台，支持工具学习和语义解析 | 4,856 | 🤖 AI | 🕰️ Stable | 2024-11-18 |
+| [phodal/auto-dev](https://github.com/phodal/auto-dev) | AI原生多智能体开发平台，覆盖SDLC全部7个阶段 | 4,529 | 🤖 AI | 🔥 Active | 2026-08-04 |
+| [modelscope/ms-agent](https://github.com/modelscope/ms-agent) | 轻量级智能体框架，支持复杂任务的自主执行与深度研究 | 4,357 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 提供结构化规范驱动开发工作流的MCP服务器，含实时Web仪表板和VSCode扩展 | 4,283 | 🤖 AI | 🔥 Active | 2026-07-03 |
+| [langroid/langroid](https://github.com/langroid/langroid) | 多智能体编程框架，支持LLM驱动的信息检索和RAG应用 | 4,090 | 🤖 AI | 🔥 Active | 2026-07-29 |
+| [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) | 任务感知的智能体驱动提示词优化框架 | 4,000 | 🤖 AI | ✅ Maintained | 2025-10-13 |
+| [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) | Claude Code的自动化工作流，支持规范驱动开发和快速缺陷修复流程 | 3,827 | 🤖 AI | ✅ Maintained | 2025-09-07 |
+| [kingkongshot/Pensieve](https://github.com/kingkongshot/Pensieve) | 存储决策和原则的工具，Claude读取后做出更好的选择 | 2,518 | 🤖 AI | ✅ Maintained | 2026-05-08 |
+| [yaphone/itchat4j](https://github.com/yaphone/itchat4j) | 用Java扩展个人微信号能力的微信机器人框架 | 2,115 | 🤖 AI | 🕰️ Stable | 2024-04-11 |
+| [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) | 为大语言模型赋予通用智能体能力的微调方法 | 1,504 | 🤖 AI | 🕰️ Stable | 2023-10-31 |
+| [browserwing/browserwing](https://github.com/browserwing/browserwing) | 将浏览器操作转换为MCP命令或Claude Skill，使AI代理高效控制浏览器实现自动化 | 1,403 | 🤖 AI | 🔥 Active | 2026-08-08 |
+| [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) | 基于MCP协议的12306火车票查询服务器，支持AI代理调用 | 1,161 | 🤖 AI | 🔥 Active | 2026-07-31 |
+| [themanojdesai/python-a2a](https://github.com/themanojdesai/python-a2a) | 实现Google A2A协议的Python库，支持AI代理间无缝通信和协作 | 1,005 | 🤖 AI | ✅ Maintained | 2025-09-06 |
+| [codefuse-ai/Test-Agent](https://github.com/codefuse-ai/Test-Agent) | 基于LLM的软件测试智能体，赋能软件测试自动化 | 715 | 🤖 AI | 🕰️ Stable | 2024-03-04 |
+| [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) | 简单的MCP客户端CLI工具，支持运行LLM提示词和MCP协议 | 678 | 🤖 AI | ✅ Maintained | 2025-12-02 |
+| [hellowind777/helloagents](https://github.com/hellowind777/helloagents) | 自主高级智能伙伴，持续分析问题直到完成实现和验证 | 655 | 🤖 AI | 🔥 Active | 2026-07-29 |
+| [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) | 用于数据探索的MCP服务器 | 545 | 🤖 AI | 🕰️ Stable | 2025-03-22 |
+| [LangGraph-GUI/LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) | LangGraph的可视化节点边图编辑器，支持本地LLM和在线API运行 | 265 | 🤖 AI | ✅ Maintained | 2026-01-24 |
+| [happyapplehorse/agere](https://github.com/happyapplehorse/agere) | 用于构建和驱动AI工作流与智能体的工具 | 162 | 🤖 AI | 🕰️ Stable | 2024-07-03 |
+| [thunlp/MatPlotAgent](https://github.com/thunlp/MatPlotAgent) | 基于LLM的Matplotlib绘图智能体 | 116 | 🤖 AI | 🕰️ Stable | 2024-07-01 |
+| [SecureAgentTools/AgentVault](https://github.com/SecureAgentTools/AgentVault) | 开源安全去中心化AI代理互操作工具包，支持A2A和MCP协议 | 18 | 🤖 AI | 🕰️ Stable | 2025-05-10 |
+| [pcingola/a2a_min](https://github.com/pcingola/a2a_min) | A2A协议的极简实现 | 12 | 🤖 AI | 🕰️ Stable | 2025-04-15 |
+| [OpenHands/OpenHands-Server](https://github.com/OpenHands/OpenHands-Server) | OpenHands服务器的功能实现，用于创建和管理AI开发服务器 | 8 | 🤖 AI | 📦 Archived | 2025-10-08 |

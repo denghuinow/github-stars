@@ -49,7 +49,7 @@
   },
   "Arronlong/httpclientutil": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "基于 HttpClient 封装的 Java HTTP 请求工具类库"
   },
   "AutoGPTQ/AutoGPTQ": {
     "category": "AI / LLM Serving",
@@ -133,11 +133,11 @@
   },
   "FunctionClub/V2ray.Fun": {
     "category": "Networking / Security",
-    "description_zh": ""
+    "description_zh": "基于 V2ray 协议的网络代理工具开发项目"
   },
   "GangZhuo/BaiduPCS": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "百度网盘命令行工具，用于在终端中管理百度网盘文件"
   },
   "GanymedeNil/document.ai": {
     "category": "AI / RAG & Knowledge",
@@ -205,7 +205,7 @@
   },
   "Jrohy/multi-v2ray": {
     "category": "Networking / Security",
-    "description_zh": ""
+    "description_zh": "v2ray和xray多用户管理部署程序，支持多种协议"
   },
   "KaringX/karing": {
     "category": "Networking / Security",
@@ -229,7 +229,7 @@
   },
   "Louiszhai/canvas-draw": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "基于Canvas的手写签名与绘图组件，支持PC和移动端及横屏显示"
   },
   "MeowLove/Network-Reinstall-System-Modify": {
     "category": "DevOps / Cloud",
@@ -369,7 +369,7 @@
   },
   "Snailclimb/JavaGuide": {
     "category": "Learning / Resources",
-    "description_zh": ""
+    "description_zh": "Java 面试与后端开发指南，覆盖计算机基础、数据库、分布式与系统设计"
   },
   "SophonPlus/ChineseNlpCorpus": {
     "category": "Learning / Resources",
@@ -429,7 +429,7 @@
   },
   "Trisia/alg-sm2-demo": {
     "category": "Networking / Security",
-    "description_zh": ""
+    "description_zh": "SM2国密椭圆曲线密码算法的Java调用演示程序"
   },
   "TurboWay/bigdata_analyse": {
     "category": "Other",
@@ -461,7 +461,7 @@
   },
   "Wizzercn/NutzWk": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "基于 Nutz 的企业级 Java 开发框架，支持单应用与微服务架构"
   },
   "X-D-Lab/LangChain-ChatGLM-Webui": {
     "category": "AI / RAG & Knowledge",
@@ -501,7 +501,7 @@
   },
   "abel533/Mapper": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "通用 MyBatis 插件，简化单表 CRUD 操作，提升 Java 开发效率"
   },
   "adhikasp/mcp-client-cli": {
     "category": "AI / Agents",
@@ -561,7 +561,7 @@
   },
   "alibaba/nacos": {
     "category": "DevOps / Cloud",
-    "description_zh": ""
+    "description_zh": "动态服务发现、配置与服务管理平台，用于构建云原生微服务应用"
   },
   "alibaba/otter": {
     "category": "DevOps / Cloud",
@@ -569,7 +569,7 @@
   },
   "alibaba/p3c": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "阿里巴巴 Java 开发手册规范及 PMD 实现与 IDE 插件"
   },
   "alibaba/spring-cloud-alibaba": {
     "category": "DevOps / Cloud",
@@ -577,7 +577,7 @@
   },
   "android-hacker/VirtualXposed": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "无需root即可使用Xposed框架的Android应用，支持AOP和Hook开发"
   },
   "anthropics/claude-agent-sdk-python": {
     "category": "AI / Agents",
@@ -593,11 +593,11 @@
   },
   "apache/dubbo-spring-boot-project": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "Apache Dubbo的Spring Boot集成项目，用于微服务RPC通信与治理"
   },
   "apolloconfig/apollo": {
     "category": "DevOps / Cloud",
-    "description_zh": ""
+    "description_zh": "分布式配置管理系统，适用于微服务架构下的配置管理场景"
   },
   "aturl/awesome-anti-gfw": {
     "category": "Networking / Security",
@@ -661,7 +661,7 @@
   },
   "clearw5/Auto.js": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "安卓平台上的JavaScript编程IDE，用于自动化脚本和任务流开发"
   },
   "coaidev/blob-service": {
     "category": "Dev Tools",
@@ -693,7 +693,7 @@
   },
   "crossoverJie/SSM": {
     "category": "Learning / Resources",
-    "description_zh": ""
+    "description_zh": "从零构建 SSM 框架到分布式微服务的教程与源码"
   },
   "cyberp/simple-evdev-java": {
     "category": "Embedded / Hardware",
@@ -793,7 +793,7 @@
   },
   "dromara/hmily": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "分布式事务解决方案框架，支持TCC、XA等事务模式，适用于微服务架构"
   },
   "dromara/mayfly-go": {
     "category": "DevOps / Cloud",
@@ -801,7 +801,7 @@
   },
   "dubboclub/dubbokeeper": {
     "category": "DevOps / Cloud",
-    "description_zh": ""
+    "description_zh": "Dubbo 服务管理与监控系统，提供服务治理与运维能力"
   },
   "dyc87112/SpringBoot-Learning": {
     "category": "Learning / Resources",
@@ -861,11 +861,11 @@
   },
   "eugenp/tutorials": {
     "category": "Learning / Resources",
-    "description_zh": ""
+    "description_zh": "Spring Boot 3 入门教程，涵盖 Spring 生态的实用指南与示例代码"
   },
   "ewen0930/IntelliJ-IDEA-Chinese": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "IntelliJ IDEA 中文语言包插件，支持开发环境界面汉化"
   },
   "f/prompts.chat": {
     "category": "Learning / Resources",
@@ -909,7 +909,7 @@
   },
   "forezp/SpringCloudLearning": {
     "category": "Learning / Resources",
-    "description_zh": ""
+    "description_zh": "Spring Cloud 教程源码，涵盖 Eureka、Feign、Gateway 等核心组件"
   },
   "fuzhengwei/itstack-demo-design": {
     "category": "Learning / Resources",
@@ -937,7 +937,7 @@
   },
   "google/guava": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "Google提供的Java核心工具库，包含集合、缓存、并发等常用工具类"
   },
   "gravitl/netmaker": {
     "category": "Networking / Security",
@@ -997,7 +997,7 @@
   },
   "hs-web/hsweb-framework": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "基于Spring Boot的全响应式企业级后台管理系统基础框架"
   },
   "huchenxucs/ChatDB": {
     "category": "AI / RAG & Knowledge",
@@ -1037,7 +1037,7 @@
   },
   "ityouknow/spring-boot-examples": {
     "category": "Learning / Resources",
-    "description_zh": ""
+    "description_zh": "Spring Boot 教程与示例代码，涵盖多种技术栈集成实践"
   },
   "jaaack-wang/ccnc": {
     "category": "Learning / Resources",
@@ -1049,7 +1049,7 @@
   },
   "jbarrez/spring-boot-with-activiti-example": {
     "category": "Learning / Resources",
-    "description_zh": ""
+    "description_zh": "Spring Boot集成Activiti工作流引擎的示例项目，用于学习和参考"
   },
   "jeecgboot/JeecgBoot": {
     "category": "Dev Tools",
@@ -1069,7 +1069,7 @@
   },
   "judasn/IntelliJ-IDEA-Tutorial": {
     "category": "Learning / Resources",
-    "description_zh": ""
+    "description_zh": "IntelliJ IDEA 及 JetBrains 系列 IDE 的简体中文专题教程"
   },
   "jumpserver/jumpserver": {
     "category": "Networking / Security",
@@ -1081,7 +1081,7 @@
   },
   "kaikramer/keystore-explorer": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "Java密钥库管理图形化工具，替代keytool和jarsigner命令行操作"
   },
   "kakuilan/china_area_mysql": {
     "category": "Other",
@@ -1233,7 +1233,7 @@
   },
   "michaelroland/mfoc-android": {
     "category": "Networking / Security",
-    "description_zh": ""
+    "description_zh": "Android平台上的Mifare Classic离线破解工具"
   },
   "microsoft/AI-For-Beginners": {
     "category": "Learning / Resources",
@@ -1381,7 +1381,7 @@
   },
   "nfc-tools/mfoc": {
     "category": "Networking / Security",
-    "description_zh": ""
+    "description_zh": "Mifare Classic离线破解工具，用于NFC卡片安全分析"
   },
   "nillith/UniPinyin": {
     "category": "Dev Tools",
@@ -1405,7 +1405,7 @@
   },
   "ofdrw/ofdrw": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "开源OFD文档处理库，支持文档生成、数字签名、合并、转换与导出等功能"
   },
   "open-webui/open-webui": {
     "category": "AI / LLM Serving",
@@ -1513,11 +1513,11 @@
   },
   "redisson/redisson": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "Redis和Valkey的Java客户端，提供分布式锁缓存队列等50多种对象和服务"
   },
   "rememberber/WePush": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "支持微信短信邮件等多种渠道的批量消息推送工具，提供图形界面操作"
   },
   "reworkd/AgentGPT": {
     "category": "AI / Agents",
@@ -1589,7 +1589,7 @@
   },
   "spring-projects/spring-boot": {
     "category": "Dev Tools",
-    "description_zh": ""
+    "description_zh": "Spring Boot 框架，用于快速构建生产级 Spring 应用与服务"
   },
   "stair-lab/kg-gen": {
     "category": "AI / RAG & Knowledge",
@@ -1661,7 +1661,7 @@
   },
   "v5tech/cas-server-webapp": {
     "category": "Networking / Security",
-    "description_zh": ""
+    "description_zh": "CAS Server 4.0二次开发，支持验证码校验、数据库认证和REST接口"
   },
   "v5tech/oltu-oauth2-example": {
     "category": "Networking / Security",
@@ -1717,7 +1717,7 @@
   },
   "wulabing/Xray_onekey": {
     "category": "Networking / Security",
-    "description_zh": ""
+    "description_zh": "基于Nginx的Xray VLESS+XTLS代理一键安装脚本"
   },
   "x1xhlol/system-prompts-and-models-of-ai-tools": {
     "category": "Learning / Resources",
@@ -1817,6 +1817,6 @@
   },
   "zu1k/tg-keyword-reply-bot": {
     "category": "Other",
-    "description_zh": ""
+    "description_zh": "基于关键词和正则规则的 Telegram 群组自动回复与管理机器人"
   }
 }
