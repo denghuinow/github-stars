@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - "scripts/update_stars.py"
+      - "scripts/compact_markdown.py"
       - "overrides.json"
       - ".github/workflows/update-stars.yml"
 
@@ -32,8 +33,9 @@ jobs:
           AI_BASE_URL: ${{ vars.AI_BASE_URL }}
           AI_MODEL: ${{ vars.AI_MODEL }}
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
-          AI_BATCH_SIZE: "20"
-        run: python scripts/update_stars.py
+        run: |
+          python scripts/update_stars.py
+          python scripts/compact_markdown.py
 
       - name: Commit changes
         run: |
