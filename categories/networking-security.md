@@ -4,16 +4,16 @@
 
 | Repository | Description | Lang | Stars | Classifier | Status | Last push |
 |---|---|---:|---:|---|---|---|
-| [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | Go | 108,674 | 🤖 AI | 🔥 Active | 2026-08-09 |
-| [juanfont/headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server | Go | 42,674 | 🤖 AI | 🔥 Active | 2026-07-30 |
+| [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | Go | 108,676 | 🤖 AI | 🔥 Active | 2026-08-09 |
+| [juanfont/headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server | Go | 42,675 | 🤖 AI | 🔥 Active | 2026-07-30 |
 | [ehang-io/nps](https://github.com/ehang-io/nps) | 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal. | Go | 34,158 | 🤖 AI | 🕰️ Stable | 2024-05-30 |
-| [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser. | Python | 31,240 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser. | Python | 31,241 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~ | Go | 28,397 | 🤖 AI | 🔥 Active | 2026-07-25 |
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 28,211 | 🤖 AI | 🔥 Active | 2026-08-09 |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 28,211 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 | Shell | 21,642 | 🤖 AI | 🔥 Active | 2026-08-03 |
 | [vaxilu/x-ui](https://github.com/vaxilu/x-ui) | 支持多协议多用户的 xray 面板 | JavaScript | 19,071 | 🤖 AI | 🕰️ Stable | 2024-08-19 |
 | [dromara/Sa-Token](https://github.com/dromara/Sa-Token) | ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名 | Java | 18,977 | 🤖 AI | 🔥 Active | 2026-08-09 |
-| [KaringX/karing](https://github.com/KaringX/karing) | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | Dart | 14,173 | 🤖 AI | 🔥 Active | 2026-08-07 |
+| [KaringX/karing](https://github.com/KaringX/karing) | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | Dart | 14,174 | 🤖 AI | 🔥 Active | 2026-08-07 |
 | [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | A simple, decentralized mesh VPN with WireGuard support. | Rust | 13,042 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [gravitl/netmaker](https://github.com/gravitl/netmaker) | Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. | Go | 11,744 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [hq450/fancyss_history_package](https://github.com/hq450/fancyss_history_package) | 科学上网插件的离线安装包储存在这里 | - | 10,988 | 🤖 AI | 🔥 Active | 2026-05-20 |
@@ -25,7 +25,7 @@
 | [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) | 爆破字典 | Python | 5,282 | 🤖 AI | ⚠️ Stale | 2022-03-21 |
 | [emqx/MQTTX](https://github.com/emqx/MQTTX) | A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket. | TypeScript | 5,013 | 🤖 AI | 🔥 Active | 2026-05-22 |
 | [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) | 一分钟私有部署zerotier-planet服务 | Shell | 4,068 | 🤖 AI | 🔥 Active | 2026-08-07 |
-| [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) | WPA/WPA2 密码字典，用于 wifi 密码暴力破解 | Python | 3,751 | 🤖 AI | ⚠️ Stale | 2022-01-25 |
+| [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) | WPA/WPA2 密码字典，用于 wifi 密码暴力破解 | Python | 3,752 | 🤖 AI | ⚠️ Stale | 2022-01-25 |
 | [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | - | Lua | 3,436 | 🤖 AI | 🔥 Active | 2026-08-09 |
 | [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) | AutoJs6-based ant forest energy auto-collect script (基于 AutoJs6 的蚂蚁森林能量自动收取脚本) | JavaScript | 2,854 | 🤖 AI | ⚠️ Stale | 2023-01-21 |
 | [chrisk44/Hijacker](https://github.com/chrisk44/Hijacker) | Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android | Java | 2,544 | 🤖 AI | 📦 Archived | 2020-08-26 |

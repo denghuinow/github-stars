@@ -5,7 +5,7 @@
 **总计 455 个项目** · 🤖 AI 449 · 📌 Manual 6 · ⚙️ Rule 0
 🔥 Active 208 · ⚠️ Stale 47 · 📦 Archived 16
 
-最后同步：`2026-08-10 08:02 UTC`
+最后同步：`2026-08-10 08:12 UTC`
 
 ## 分类
 
@@ -29,7 +29,9 @@
 
 `overrides.json` 人工指定 > AI 缓存分类 > 关键词规则兜底。
 
-AI 分类结果保存在 `data/ai_categories.json`，已有项目不会每天重复调用 AI；新增 Star 才需要新的 AI 分类。
+AI 分类结果保存在 `data/ai_categories.json`。已有项目不会每天重复调用 AI；新增 Star 才需要新的 AI 分类。
+
+首次或存在多个未缓存项目时，会优先把全部未缓存项目合并为一次 AI 请求；仅在请求失败或结果缺失时才对失败部分重试/拆分。
 
 ## 状态说明
 
@@ -42,6 +44,8 @@ AI 分类结果保存在 `data/ai_categories.json`，已有项目不会每天重
 ## AI 配置
 
 GitHub Actions 使用 `AI_API_KEY` Secret，以及 `AI_BASE_URL`、`AI_MODEL` Repository Variables。接口需兼容 OpenAI `/v1/chat/completions`。
+
+可选：`AI_TIMEOUT`（默认 300 秒）、`AI_MAX_SPLIT_DEPTH`（默认 6）。
 
 ## 人工修正
 

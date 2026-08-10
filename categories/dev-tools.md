@@ -4,16 +4,16 @@
 
 | Repository | Description | Lang | Stars | Classifier | Status | Last push |
 |---|---|---:|---:|---|---|---|
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 172,751 | 🤖 AI | 🔥 Active | 2026-07-29 |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | The context API to search, scrape, and interact with the web at scale. 🔥 | TypeScript | 164,430 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 147,328 | 🤖 AI | 🔥 Active | 2026-07-12 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 172,755 | 🤖 AI | 🔥 Active | 2026-07-29 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | The context API to search, scrape, and interact with the web at scale. 🔥 | TypeScript | 164,438 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 147,330 | 🤖 AI | 🔥 Active | 2026-07-12 |
 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | Java | 81,311 | 🤖 AI | 🔥 Active | 2026-08-08 |
-| [docling-project/docling](https://github.com/docling-project/docling) | Get your documents ready for gen AI | Python | 64,510 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [docling-project/docling](https://github.com/docling-project/docling) | Get your documents ready for gen AI | Python | 64,512 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | PDF Reader in JavaScript | JavaScript | 53,702 | 🤖 AI | 🔥 Active | 2026-08-09 |
 | [google/guava](https://github.com/google/guava) | Google core libraries for Java | Java | 51,892 | 🤖 AI | 🔥 Active | 2026-08-07 |
 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。 | Java | 47,353 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [alibaba/arthas](https://github.com/alibaba/arthas) | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | Java | 37,480 | 🤖 AI | 🔥 Active | 2026-07-24 |
-| [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | Android real-time display control software | C++ | 31,306 | 🤖 AI | 🔥 Active | 2026-08-09 |
+| [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | Android real-time display control software | C++ | 31,307 | 🤖 AI | 🔥 Active | 2026-08-09 |
 | [alibaba/p3c](https://github.com/alibaba/p3c) | Alibaba Java Coding Guidelines pmd implements and IDE plugin | Kotlin | 30,833 | 🤖 AI | 🕰️ Stable | 2024-08-06 |
 | [redisson/redisson](https://github.com/redisson/redisson) | Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. | Java | 24,374 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. | Python | 22,276 | 🤖 AI | 🔥 Active | 2026-08-07 |
@@ -28,8 +28,8 @@
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. | TypeScript | 13,207 | 🤖 AI | 🔥 Active | 2026-08-04 |
 | [clearw5/Auto.js](https://github.com/clearw5/Auto.js) | Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE) | - | 12,868 | 🤖 AI | 📦 Archived | 2023-02-11 |
 | [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) | Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier | Shell | 12,588 | 🤖 AI | 🕰️ Stable | 2024-01-21 |
-| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | Python | 12,445 | 🤖 AI | 🔥 Active | 2026-08-10 |
-| [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework | Kotlin | 12,056 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | Python | 12,446 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework | Kotlin | 12,057 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [microsoft/promptflow](https://github.com/microsoft/promptflow) | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. | Python | 11,217 | 🤖 AI | 🔥 Active | 2026-08-05 |
 | [Activiti/Activiti](https://github.com/Activiti/Activiti) | Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. | Java | 10,541 | 🤖 AI | 🔥 Active | 2026-08-08 |
 | [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) | :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~ | Java | 9,695 | 🤖 AI | 🕰️ Stable | 2023-12-17 |
@@ -49,7 +49,7 @@
 | [alibaba/fastjson2](https://github.com/alibaba/fastjson2) | 🚄 FASTJSON2 is a Java JSON  library with excellent performance. | Java | 4,393 | 🤖 AI | 🔥 Active | 2026-08-05 |
 | [dromara/hmily](https://github.com/dromara/hmily) | Distributed transaction solutions | Java | 4,171 | 🤖 AI | 🕰️ Stable | 2024-07-14 |
 | [lencx/nofwl](https://github.com/lencx/nofwl) | NoFWL Desktop Application | Rust | 4,149 | 🤖 AI | 🕰️ Stable | 2024-01-23 |
-| [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) | ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics / MMEngine / Keras etc. | Python | 4,130 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) | ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics / MMEngine / Keras etc. | Python | 4,131 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) | :cherries: Web server and web framework of Android platform. | Java | 3,860 | 🤖 AI | ⚠️ Stale | 2023-06-07 |
 | [GangZhuo/BaiduPCS](https://github.com/GangZhuo/BaiduPCS) | 百度网盘命令行工具。The terminal utility for Baidu Network Disk. | Roff | 3,547 | 🤖 AI | 📦 Archived | 2020-12-15 |
 | [supabase-community/database-build](https://github.com/supabase-community/database-build) | In-browser Postgres sandbox with AI assistance (formerly postgres.new) | TypeScript | 2,953 | 🤖 AI | 🔥 Active | 2026-06-03 |

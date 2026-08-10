@@ -5,10 +5,10 @@
 | Repository | Description | Lang | Stars | Classifier | Status | Last push |
 |---|---|---:|---:|---|---|---|
 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web \| iOS \| MacOS \| Android \|  Linux \| Windows | TypeScript | 88,602 | 🤖 AI | 🔥 Active | 2026-07-06 |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | Python | 87,329 | 🤖 AI | 🔥 Active | 2026-07-22 |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | Python | 87,328 | 🤖 AI | 🔥 Active | 2026-07-22 |
 | [halo-dev/halo](https://github.com/halo-dev/halo) | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 | Java | 39,480 | 🤖 AI | 🔥 Active | 2026-08-08 |
 | [deepinsight/insightface](https://github.com/deepinsight/insightface) | State-of-the-art 2D and 3D Face Analysis Project | Python | 29,451 | 🤖 AI | 🔥 Active | 2026-07-27 |
-| [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... | Python | 28,092 | 🤖 AI | 🔥 Active | 2026-08-10 |
+| [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... | Python | 28,093 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [danielgatis/rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background | Python | 24,207 | 🤖 AI | 🔥 Active | 2026-08-06 |
 | [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 | Python | 21,351 | 🤖 AI | 🔥 Active | 2026-07-03 |
 | [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 | PHP | 16,602 | 🤖 AI | ✅ Maintained | 2026-04-23 |

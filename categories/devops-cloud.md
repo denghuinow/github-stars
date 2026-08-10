@@ -13,7 +13,7 @@
 | [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) | Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 | HTML | 25,154 | 🤖 AI | 🔥 Active | 2026-08-06 |
 | [labring/sealos](https://github.com/labring/sealos) | Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. | TypeScript | 18,317 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [alibaba/DataX](https://github.com/alibaba/DataX) | DataX是阿里云DataWorks数据集成的开源版本。 | Java | 17,306 | 🤖 AI | 🔥 Active | 2026-07-07 |
-| [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | Shell | 12,712 | 🤖 AI | 🔥 Active | 2026-08-06 |
+| [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | Shell | 12,713 | 🤖 AI | 🔥 Active | 2026-08-06 |
 | [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) | Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. | Jinja | 12,123 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | Perl | 9,474 | 🤖 AI | 🔥 Active | 2026-08-10 |
 | [alibaba/otter](https://github.com/alibaba/otter) | 阿里巴巴分布式数据库同步系统(解决中美异地机房) | Java | 8,128 | 🤖 AI | 🕰️ Stable | 2024-05-25 |
