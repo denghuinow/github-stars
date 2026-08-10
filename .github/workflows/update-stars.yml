@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - "scripts/update_stars.py"
+      - "scripts/patch_update_stars.py"
       - "scripts/compact_markdown.py"
       - "overrides.json"
       - ".github/workflows/update-stars.yml"
@@ -34,13 +35,14 @@ jobs:
           AI_MODEL: ${{ vars.AI_MODEL }}
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
         run: |
+          python scripts/patch_update_stars.py
           python scripts/update_stars.py
           python scripts/compact_markdown.py
 
       - name: Commit changes
         run: |
-          if git diff --quiet; then
-            echo "No changes"
+          if git diff --quiet README.md data categories; then
+            echo "No generated changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
