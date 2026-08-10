@@ -2,28 +2,28 @@
 
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
-**总计 455 个项目** · 🤖 AI 0 · 📌 Manual 6 · ⚙️ Rule 449
+**总计 455 个项目** · 🤖 AI 449 · 📌 Manual 6 · ⚙️ Rule 0
 🔥 Active 208 · ⚠️ Stale 47 · 📦 Archived 16
 
-最后同步：`2026-08-10 07:51 UTC`
+最后同步：`2026-08-10 08:02 UTC`
 
 ## 分类
 
 | Category | Count | Index |
 |---|---:|---|
-| AI / Agents | 102 | [查看](categories/ai-agents.md) |
-| AI / LLM | 38 | [查看](categories/ai-llm.md) |
-| AI / LLM Serving | 19 | [查看](categories/ai-llm-serving.md) |
-| AI / RAG & Knowledge | 21 | [查看](categories/ai-rag-knowledge.md) |
-| AI / NL2SQL | 4 | [查看](categories/ai-nl2sql.md) |
-| Quant / Finance | 5 | [查看](categories/quant-finance.md) |
-| Data / Visualization | 15 | [查看](categories/data-visualization.md) |
-| Dev Tools | 31 | [查看](categories/dev-tools.md) |
-| DevOps / Cloud | 12 | [查看](categories/devops-cloud.md) |
-| Embedded / Hardware | 1 | [查看](categories/embedded-hardware.md) |
-| Networking / Security | 31 | [查看](categories/networking-security.md) |
-| Learning / Resources | 38 | [查看](categories/learning-resources.md) |
-| Other | 138 | [查看](categories/other.md) |
+| AI / Agents | 72 | [查看](categories/ai-agents.md) |
+| AI / LLM | 40 | [查看](categories/ai-llm.md) |
+| AI / LLM Serving | 25 | [查看](categories/ai-llm-serving.md) |
+| AI / RAG & Knowledge | 25 | [查看](categories/ai-rag-knowledge.md) |
+| AI / NL2SQL | 7 | [查看](categories/ai-nl2sql.md) |
+| Quant / Finance | 6 | [查看](categories/quant-finance.md) |
+| Data / Visualization | 12 | [查看](categories/data-visualization.md) |
+| Dev Tools | 81 | [查看](categories/dev-tools.md) |
+| DevOps / Cloud | 21 | [查看](categories/devops-cloud.md) |
+| Embedded / Hardware | 10 | [查看](categories/embedded-hardware.md) |
+| Networking / Security | 42 | [查看](categories/networking-security.md) |
+| Learning / Resources | 82 | [查看](categories/learning-resources.md) |
+| Other | 32 | [查看](categories/other.md) |
 
 ## 分类优先级
 
