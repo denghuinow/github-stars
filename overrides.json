@@ -1,0 +1,11 @@
+{
+  "categories": {
+    "msitarzewski/agency-agents": "AI / Agents",
+    "ZhuLinsen/daily_stock_analysis": "Quant / Finance",
+    "mljar/plotai": "Data / Visualization",
+    "nyanp/chat2plot": "Data / Visualization",
+    "hyungkwonko/chart-llm": "Data / Visualization",
+    "yechens/NL2SQL": "AI / NL2SQL"
+  },
+  "ignore": []
+}
