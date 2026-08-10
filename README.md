@@ -3,35 +3,39 @@
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
 **总计 455 个项目** · 🤖 AI 449 · 📌 Manual 6 · ⚙️ Rule 0
-🔥 Active 208 · ⚠️ Stale 47 · 📦 Archived 16
+中文描述 454/455 · 🔥 Active 208 · ⚠️ Stale 47 · 📦 Archived 16
 
-最后同步：`2026-08-10 08:12 UTC`
+最后同步：`2026-08-10 08:39 UTC`
 
 ## 分类
 
 | Category | Count | Index |
 |---|---:|---|
 | AI / Agents | 72 | [查看](categories/ai-agents.md) |
-| AI / LLM | 40 | [查看](categories/ai-llm.md) |
+| AI / LLM | 42 | [查看](categories/ai-llm.md) |
 | AI / LLM Serving | 25 | [查看](categories/ai-llm-serving.md) |
 | AI / RAG & Knowledge | 25 | [查看](categories/ai-rag-knowledge.md) |
 | AI / NL2SQL | 7 | [查看](categories/ai-nl2sql.md) |
 | Quant / Finance | 6 | [查看](categories/quant-finance.md) |
 | Data / Visualization | 12 | [查看](categories/data-visualization.md) |
-| Dev Tools | 81 | [查看](categories/dev-tools.md) |
+| Dev Tools | 82 | [查看](categories/dev-tools.md) |
 | DevOps / Cloud | 21 | [查看](categories/devops-cloud.md) |
 | Embedded / Hardware | 10 | [查看](categories/embedded-hardware.md) |
-| Networking / Security | 42 | [查看](categories/networking-security.md) |
+| Networking / Security | 41 | [查看](categories/networking-security.md) |
 | Learning / Resources | 82 | [查看](categories/learning-resources.md) |
-| Other | 32 | [查看](categories/other.md) |
+| Other | 30 | [查看](categories/other.md) |
+
+## AI 元数据
+
+AI 会同时生成项目分类和简体中文一句话描述。结果保存在 `data/ai_categories.json`，分类页同时保留 GitHub 原始 description 便于核对。
+
+旧版仅包含分类的缓存会自动迁移；缺少中文描述的旧项目会在下一次运行时一次性补齐。
 
 ## 分类优先级
 
-`overrides.json` 人工指定 > AI 缓存分类 > 关键词规则兜底。
+`overrides.json` 人工指定 > AI 缓存分类 > 关键词规则兜底。人工分类不会被 AI 覆盖。
 
-AI 分类结果保存在 `data/ai_categories.json`。已有项目不会每天重复调用 AI；新增 Star 才需要新的 AI 分类。
-
-首次或存在多个未缓存项目时，会优先把全部未缓存项目合并为一次 AI 请求；仅在请求失败或结果缺失时才对失败部分重试/拆分。
+首次或存在多个未缓存/未翻译项目时，会优先合并为一次 AI 请求；仅在请求失败或结果缺失时才对失败部分重试/拆分。
 
 ## 状态说明
 

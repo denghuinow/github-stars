@@ -1,451 +1,1822 @@
 {
-  "0voice/audio_video_streaming": "Learning / Resources",
-  "1517005260/graph-rag-agent": "AI / RAG & Knowledge",
-  "1Panel-dev/MaxKB": "AI / Agents",
-  "1c7/chinese-independent-developer": "Learning / Resources",
-  "567-labs/instructor": "AI / LLM",
-  "AI4WA/Docs2KG": "AI / RAG & Knowledge",
-  "Activiti/Activiti": "Dev Tools",
-  "AiHubCN/Awesome-Chinese-LLM": "Learning / Resources",
-  "Aider-AI/aider": "AI / Agents",
-  "AirtestProject/Airtest": "Dev Tools",
-  "AnyListen/maven-dependency-downloader": "Dev Tools",
-  "ArchiveBox/ArchiveBox": "Other",
-  "Arronlong/httpclientutil": "Dev Tools",
-  "AutoGPTQ/AutoGPTQ": "AI / LLM Serving",
-  "AuvaLab/itext2kg": "AI / RAG & Knowledge",
-  "Avik-Jain/100-Days-Of-ML-Code": "Learning / Resources",
-  "Avik-Jain/100-Days-of-ML-Code-Chinese-Version": "Learning / Resources",
-  "BerriAI/litellm": "AI / LLM Serving",
-  "ChanChiChoi/awesome-Face_Recognition": "Learning / Resources",
-  "ChatGPTNextWeb/NextChat": "Other",
-  "CherryHQ/cherry-studio": "AI / Agents",
-  "Chingliu/OfficeMaster_document_convert_system": "Dev Tools",
-  "CodFrm/cxmooc-tools": "Other",
-  "Comfy-Org/ComfyUI": "AI / LLM Serving",
-  "ConardLi/easy-dataset": "Dev Tools",
-  "DLTech21/ofd.js": "Dev Tools",
-  "DSXiangLi/DecryptPrompt": "Learning / Resources",
-  "EasyTier/EasyTier": "Networking / Security",
-  "EmbraceAGI/awesome-chatgpt-zh": "Learning / Resources",
-  "Evil0ctal/Douyin_TikTok_Download_API": "Dev Tools",
-  "FlagOpen/FlagEmbedding": "AI / RAG & Knowledge",
-  "FlowiseAI/Flowise": "AI / Agents",
-  "FoundationAgents/MetaGPT": "AI / Agents",
-  "FunctionClub/V2ray.Fun": "Networking / Security",
-  "GangZhuo/BaiduPCS": "Dev Tools",
-  "GanymedeNil/document.ai": "AI / RAG & Knowledge",
-  "Genymobile/gnirehtet": "Networking / Security",
-  "Genymobile/scrcpy": "Dev Tools",
-  "GitHubDaily/GitHubDaily": "Learning / Resources",
-  "HaujetZhao/CapsWriter-Offline": "AI / LLM",
-  "Ice-Storm/structure-and-interpretation-of-blockchain": "Learning / Resources",
-  "Infrasys-AI/AISystem": "Learning / Resources",
-  "InternLM/MindSearch": "AI / Agents",
-  "InternLM/lmdeploy": "AI / LLM Serving",
-  "InternScience/GraphGen": "AI / LLM",
-  "JDAI-CV/fast-reid": "Other",
-  "JamesZBL/java_design_patterns": "Learning / Resources",
-  "JeffLi1993/springboot-learning-example": "Learning / Resources",
-  "JingMatrix/Vector": "Dev Tools",
-  "Jinnrry/RobotHelper": "Networking / Security",
-  "Joooook/12306-mcp": "AI / Agents",
-  "Jrohy/multi-v2ray": "Networking / Security",
-  "KaringX/karing": "Networking / Security",
-  "Ksuriuri/index-tts-vllm": "AI / LLM Serving",
-  "LangGraph-GUI/LangGraph-GUI": "AI / Agents",
-  "LinnaWang76/githubcode_extractor_mnbvc": "Dev Tools",
-  "LlamaChinese/Llama-Chinese": "Learning / Resources",
-  "Louiszhai/canvas-draw": "Dev Tools",
-  "MeowLove/Network-Reinstall-System-Modify": "DevOps / Cloud",
-  "Netflixxp/N1HK1dabao": "Embedded / Hardware",
-  "Nicky213Zhang/WeChatAssist": "Networking / Security",
-  "NumbersStationAI/NSQL": "AI / NL2SQL",
-  "OpenBMB/ChatDev": "AI / Agents",
-  "OpenBMB/ToolBench": "AI / Agents",
-  "OpenByteInc/QuantDinger": "Quant / Finance",
-  "OpenHands/OpenHands": "AI / Agents",
-  "OpenHands/OpenHands-Server": "AI / Agents",
-  "Openwrt-Passwall/openwrt-passwall2": "Networking / Security",
-  "OtterMind/Chat2DB": "AI / NL2SQL",
-  "PaddlePaddle/PaddleDetection": "Other",
-  "PaddlePaddle/PaddleMIX": "AI / LLM",
-  "PaddlePaddle/PaddleOCR": "Other",
-  "PaddlePaddle/PaddleVideo": "Other",
-  "PaddlePaddle/PaddleX": "Dev Tools",
-  "PaddlePaddle/awesome-DeepLearning": "Learning / Resources",
-  "Pimzino/claude-code-spec-workflow": "AI / Agents",
-  "Pimzino/spec-workflow-mcp": "AI / Agents",
-  "PlayVoice/whisper-vits-svc": "AI / LLM",
-  "PlexPt/awesome-chatgpt-prompts-zh": "Learning / Resources",
-  "QuantumNous/new-api": "AI / LLM Serving",
-  "QuivrHQ/quivr": "AI / RAG & Knowledge",
-  "QwenLM/Qwen": "AI / LLM",
-  "QwenLM/Qwen-Agent": "AI / Agents",
-  "QwenLM/Qwen3": "AI / LLM",
-  "QwenLM/qwen-code": "AI / Agents",
-  "RapidAI/RapidOCR": "Other",
-  "Rockyzsu/stock": "Quant / Finance",
-  "RooCodeInc/Roo-Code": "AI / Agents",
-  "SYSTRAN/faster-whisper": "AI / LLM Serving",
-  "SecureAgentTools/AgentVault": "AI / Agents",
-  "Shubhamsaboo/awesome-llm-apps": "Learning / Resources",
-  "Significant-Gravitas/AutoGPT": "AI / Agents",
-  "Snailclimb/JavaGuide": "Learning / Resources",
-  "SophonPlus/ChineseNlpCorpus": "Learning / Resources",
-  "SqueezeAILab/LLMCompiler": "AI / LLM Serving",
-  "SuperMonster003/Ant-Forest": "Networking / Security",
-  "SwanHubX/SwanLab": "Dev Tools",
-  "THUDM/AgentTuning": "AI / Agents",
-  "THUDM/WebGLM": "AI / LLM",
-  "TauricResearch/TradingAgents": "Quant / Finance",
-  "TaxyAI/browser-extension": "Networking / Security",
-  "Tencent/APIJSON": "Dev Tools",
-  "The-PR-Agent/pr-agent": "Dev Tools",
-  "TheAlgorithms/Java": "Learning / Resources",
-  "TingsongYu/PyTorch-Tutorial-2nd": "Learning / Resources",
-  "TonyJiangWJ/Ant-Forest": "Other",
-  "TooTallNate/Java-WebSocket": "Networking / Security",
-  "Trisia/alg-sm2-demo": "Networking / Security",
-  "TurboWay/bigdata_analyse": "Other",
-  "Upsonic/Upsonic": "AI / Agents",
-  "Urinx/WeixinBot": "AI / Agents",
-  "VisActor/VMind": "Data / Visualization",
-  "Wan-Video/Wan2.2": "AI / LLM",
-  "WeActStudio/WeActStudio.USB2SerialV1": "Embedded / Hardware",
-  "WisdomShell/codeshell": "AI / LLM",
-  "Wizzercn/NutzWk": "Dev Tools",
-  "X-D-Lab/LangChain-ChatGLM-Webui": "AI / RAG & Knowledge",
-  "X-PLUG/CValues": "AI / LLM",
-  "XIU2/CloudflareSpeedTest": "Networking / Security",
-  "XiaoxinHe/Awesome-Graph-LLM": "Learning / Resources",
-  "Yuliang-Liu/MonkeyOCR": "AI / LLM",
-  "Zeyi-Lin/HivisionIDPhotos": "Other",
-  "a2aproject/A2A": "AI / Agents",
-  "aalansehaiyang/technology-talk": "Learning / Resources",
-  "abel533/Mapper": "Dev Tools",
-  "adhikasp/mcp-client-cli": "AI / Agents",
-  "adithya-s-k/marker-api": "Dev Tools",
-  "adithya-s-k/omniparse": "Dev Tools",
-  "ag-ui-protocol/ag-ui": "AI / Agents",
-  "ageitgey/face_recognition": "AI / LLM",
-  "agentscope-ai/agentscope": "AI / Agents",
-  "ahmetoner/whisper-asr-webservice": "AI / LLM Serving",
-  "ai-shifu/ChatALL": "Dev Tools",
-  "alex000kim/nsfw_data_scraper": "Dev Tools",
-  "alibaba/DataX": "DevOps / Cloud",
-  "alibaba/arthas": "Dev Tools",
-  "alibaba/canal": "DevOps / Cloud",
-  "alibaba/fastjson2": "Dev Tools",
-  "alibaba/lowcode-demo": "Dev Tools",
-  "alibaba/nacos": "DevOps / Cloud",
-  "alibaba/otter": "DevOps / Cloud",
-  "alibaba/p3c": "Dev Tools",
-  "alibaba/spring-cloud-alibaba": "DevOps / Cloud",
-  "android-hacker/VirtualXposed": "Dev Tools",
-  "anthropics/claude-agent-sdk-python": "AI / Agents",
-  "antiwork/shortest": "Dev Tools",
-  "apache/dubbo": "DevOps / Cloud",
-  "apache/dubbo-spring-boot-project": "Dev Tools",
-  "apolloconfig/apollo": "DevOps / Cloud",
-  "aturl/awesome-anti-gfw": "Networking / Security",
-  "baomidou/dynamic-datasource": "Dev Tools",
-  "barry-ran/QtScrcpy": "Dev Tools",
-  "beijixiaohu/CH9329_COMM": "Embedded / Hardware",
-  "bigcode-project/starcoder": "AI / LLM",
-  "bin456789/reinstall": "DevOps / Cloud",
-  "binary-husky/gpt_academic": "AI / LLM",
-  "bitlap/geocoding": "Other",
-  "breaking-brake/cc-wf-studio": "AI / Agents",
-  "brightmart/nlp_chinese_corpus": "Learning / Resources",
-  "browserwing/browserwing": "AI / Agents",
-  "business-science/ai-data-science-team": "AI / Agents",
-  "chatchat-space/Langchain-Chatchat": "AI / RAG & Knowledge",
-  "chefyuan/algorithm-base": "Learning / Resources",
-  "chrisk44/Hijacker": "Networking / Security",
-  "clearw5/Auto.js": "Dev Tools",
-  "coaidev/blob-service": "Dev Tools",
-  "coaidev/coai": "AI / LLM Serving",
-  "codefuse-ai/Test-Agent": "AI / Agents",
-  "coder-pig/WechatHelper": "Networking / Security",
-  "continuedev/continue": "AI / Agents",
-  "conwnet/wpa-dictionary": "Networking / Security",
-  "coze-dev/coze-studio": "AI / Agents",
-  "crossoverJie/SSM": "Learning / Resources",
-  "cyberp/simple-evdev-java": "Embedded / Hardware",
-  "d2l-ai/d2l-zh": "Learning / Resources",
-  "danielgatis/rembg": "Other",
-  "danny-avila/LibreChat": "AI / Agents",
-  "dataease/dataease": "Data / Visualization",
-  "dataelement/bisheng": "AI / Agents",
-  "datajuicer/data-juicer": "Data / Visualization",
-  "datawhalechina/happy-llm": "Learning / Resources",
-  "datawhalechina/hello-agents": "Learning / Resources",
-  "datawhalechina/self-llm": "Learning / Resources",
-  "datawhalechina/tiny-universe": "Learning / Resources",
-  "deepinsight/insightface": "Other",
-  "deepseek-ai/DeepSeek-R1": "AI / LLM",
-  "deepset-ai/haystack": "AI / RAG & Knowledge",
-  "deepspeedai/DeepSpeed": "AI / LLM Serving",
-  "defog-ai/sqlcoder": "AI / NL2SQL",
-  "didi/DoKit": "Dev Tools",
-  "dnomd343/XProxy": "Networking / Security",
-  "docling-project/docling": "Dev Tools",
-  "docling-project/docling-serve": "Dev Tools",
-  "dongyubin/DockerHub": "Learning / Resources",
-  "doocs/advanced-java": "Learning / Resources",
-  "dromara/Sa-Token": "Networking / Security",
-  "dromara/forest": "Dev Tools",
-  "dromara/hmily": "Dev Tools",
-  "dromara/mayfly-go": "DevOps / Cloud",
-  "dubboclub/dubbokeeper": "DevOps / Cloud",
-  "dyc87112/SpringBoot-Learning": "Learning / Resources",
-  "dzhng/deep-research": "AI / Agents",
-  "e1399579/autojs": "Dev Tools",
-  "easychen/opc-methodology": "Other",
-  "easychen/wecomchan": "Dev Tools",
-  "ehang-io/nps": "Networking / Security",
-  "eip-work/kuboard-press": "DevOps / Cloud",
-  "element-hq/element-web": "Other",
-  "emqx/MQTTX": "Networking / Security",
-  "eosphoros-ai/Awesome-Text2SQL": "AI / NL2SQL",
-  "eosphoros-ai/DB-GPT": "AI / Agents",
-  "eosphoros-ai/DB-GPT-Hub": "AI / NL2SQL",
-  "esbatmop/MNBVC": "Learning / Resources",
-  "espressif/vscode-esp-idf-extension": "Dev Tools",
-  "eugenp/tutorials": "Learning / Resources",
-  "ewen0930/IntelliJ-IDEA-Chinese": "Dev Tools",
-  "f/prompts.chat": "Learning / Resources",
-  "f2e-journey/treasure": "Learning / Resources",
-  "fatedier/frp": "Networking / Security",
-  "fengdu78/Coursera-ML-AndrewNg-Notes": "Learning / Resources",
-  "fengdu78/deeplearning_ai_books": "Learning / Resources",
-  "feyninc/chonkie": "AI / RAG & Knowledge",
-  "fighting41love/funNLP": "Learning / Resources",
-  "firecrawl/firecrawl": "Dev Tools",
-  "fish2018/YPrompt": "AI / LLM",
-  "flowable/flowable-engine": "Dev Tools",
-  "forezp/SpringCloudLearning": "Learning / Resources",
-  "fuzhengwei/itstack-demo-design": "Learning / Resources",
-  "geekcompany/ResumeSample": "Learning / Resources",
-  "geekxh/hello-algorithm": "Learning / Resources",
-  "gemgin/WeChatTools": "Dev Tools",
-  "ggml-org/llama.cpp": "AI / LLM Serving",
-  "ggml-org/whisper.cpp": "AI / LLM Serving",
-  "google/guava": "Dev Tools",
-  "gravitl/netmaker": "Networking / Security",
-  "growgraph/ontocast": "AI / RAG & Knowledge",
-  "guidance-ai/guidance": "AI / LLM",
-  "halo-dev/halo": "Other",
-  "hambuger/Andrew": "Other",
-  "hankcs/HanLP": "AI / LLM",
-  "hankinghu/literature-books": "Learning / Resources",
-  "happyapplehorse/agere": "AI / Agents",
-  "harness/harness": "DevOps / Cloud",
-  "hellowind777/helloagents": "AI / Agents",
-  "higress-group/higress": "AI / LLM Serving",
-  "hiyouga/LlamaFactory": "AI / LLM",
-  "hollischuang/toBeTopJavaer": "Learning / Resources",
-  "hq450/fancyss_history_package": "Networking / Security",
-  "hs-web/hsweb-framework": "Dev Tools",
-  "huchenxucs/ChatDB": "AI / RAG & Knowledge",
-  "huggingface/nanotron": "AI / LLM",
-  "huggingface/transformers": "AI / LLM",
-  "idosal/git-mcp": "AI / Agents",
-  "ikarus23/MifareClassicTool": "Embedded / Hardware",
-  "index-tts/index-tts": "AI / LLM",
-  "infiniflow/ragflow": "AI / RAG & Knowledge",
-  "intellism/vscode-comment-translate": "Dev Tools",
-  "ityouknow/spring-boot-examples": "Learning / Resources",
-  "jaaack-wang/ccnc": "Learning / Resources",
-  "jaywcjlove/reference": "Learning / Resources",
-  "jbarrez/spring-boot-with-activiti-example": "Learning / Resources",
-  "jeecgboot/JeecgBoot": "Dev Tools",
-  "jeinlee1991/chinese-llm-benchmark": "Learning / Resources",
-  "jingyaogong/minimind": "AI / LLM",
-  "juanfont/headscale": "Networking / Security",
-  "judasn/IntelliJ-IDEA-Tutorial": "Learning / Resources",
-  "jumpserver/jumpserver": "Networking / Security",
-  "justplus/llm-eval": "Dev Tools",
-  "kaikramer/keystore-explorer": "Dev Tools",
-  "kakuilan/china_area_mysql": "Other",
-  "kebijuelun/Awesome-LLM-Learning": "Learning / Resources",
-  "kingkongshot/Pensieve": "AI / Agents",
-  "kmahyyg/ztncui-aio": "Networking / Security",
-  "komako-workshop/digital-oracle": "Other",
-  "koolshare/ledesoft": "Embedded / Hardware",
-  "krahets/hello-algo": "Learning / Resources",
-  "labring/FastGPT": "AI / RAG & Knowledge",
-  "labring/sealos": "DevOps / Cloud",
-  "langchain-ai/langchain": "AI / Agents",
-  "langchain-ai/langgraph": "AI / Agents",
-  "langchain-ai/open-swe": "AI / Agents",
-  "langflow-ai/langflow": "AI / Agents",
-  "langgenius/dify": "AI / Agents",
-  "langroid/langroid": "AI / Agents",
-  "leeehui/a-practical-guide-to-tpm2-book-cn": "Learning / Resources",
-  "leigest519/ScreenCoder": "Dev Tools",
-  "lencx/nofwl": "Dev Tools",
-  "lepisma/matplotllm": "Data / Visualization",
-  "liguodongiot/llm-action": "Learning / Resources",
-  "lihengming/spring-boot-api-project-seed": "Dev Tools",
-  "linlinjava/litemall": "Learning / Resources",
-  "linshenkx/prompt-optimizer": "AI / LLM",
-  "linyqh/NarratoAI": "Other",
-  "littlecodersh/ItChat": "AI / Agents",
-  "liyifeng1994/ssm": "Learning / Resources",
-  "liyown/marknative": "Dev Tools",
-  "lizhe2004/Awesome-LLM-RAG-Application": "Learning / Resources",
-  "lm-sys/FastChat": "AI / LLM",
-  "lpg-it/BaiduYunVIP": "Other",
-  "luban-agi/Awesome-AIGC-Tutorials": "Learning / Resources",
-  "luxiaok/DNSmasqWeb": "Networking / Security",
-  "mack-a/v2ray-agent": "Networking / Security",
-  "major/MySQLTuner-perl": "DevOps / Cloud",
-  "marimo-team/marimo": "Dev Tools",
-  "memodb-io/memobase": "AI / RAG & Knowledge",
-  "mermaid-js/mermaid": "Data / Visualization",
-  "michaelroland/mfoc-android": "Networking / Security",
-  "microsoft/AI-For-Beginners": "Learning / Resources",
-  "microsoft/AI-System": "Learning / Resources",
-  "microsoft/OmniParser": "AI / Agents",
-  "microsoft/PIKE-RAG": "AI / RAG & Knowledge",
-  "microsoft/PromptWizard": "AI / Agents",
-  "microsoft/TaskWeaver": "AI / Agents",
-  "microsoft/UFO": "AI / Agents",
-  "microsoft/ai-agents-for-beginners": "Learning / Resources",
-  "microsoft/autogen": "AI / Agents",
-  "microsoft/data-formulator": "Data / Visualization",
-  "microsoft/generative-ai-for-beginners": "Learning / Resources",
-  "microsoft/graphrag": "AI / RAG & Knowledge",
-  "microsoft/markitdown": "Dev Tools",
-  "microsoft/promptflow": "Dev Tools",
-  "mikeroyal/Self-Hosting-Guide": "Learning / Resources",
-  "mit-han-lab/streaming-llm": "AI / LLM Serving",
-  "mljar/mercury": "Data / Visualization",
-  "modelscope/FunASR": "AI / LLM",
-  "modelscope/FunClip": "Other",
-  "modelscope/modelscope-classroom": "Learning / Resources",
-  "modelscope/ms-agent": "AI / Agents",
-  "modelscope/ms-swift": "AI / LLM",
-  "modood/Administrative-divisions-of-China": "Learning / Resources",
-  "mozilla/pdf.js": "Dev Tools",
-  "mshumer/gpt-llm-trainer": "AI / LLM",
-  "mudler/LocalAI": "AI / LLM Serving",
-  "myhhub/KnowledgeGraph": "AI / RAG & Knowledge",
-  "myhhub/stock": "Quant / Finance",
-  "mymusise/ChatGLM-Tuning": "AI / LLM",
-  "mzlogin/awesome-adb": "Learning / Resources",
-  "nanbingxyz/5ire": "AI / Agents",
-  "neo4j-labs/llm-graph-builder": "AI / RAG & Knowledge",
-  "netbirdio/netbird": "Networking / Security",
-  "netbootxyz/netboot.xyz": "DevOps / Cloud",
-  "nfc-tools/mfoc": "Networking / Security",
-  "nillith/UniPinyin": "Dev Tools",
-  "nodemcu/nodemcu-firmware": "Embedded / Hardware",
-  "novicezk/midjourney-proxy": "Dev Tools",
-  "ocsjs/ocsjs": "Other",
-  "ofdrw/ofdrw": "Dev Tools",
-  "open-webui/open-webui": "AI / LLM Serving",
-  "openai/codex": "AI / Agents",
-  "openai/openai-realtime-agents": "AI / Agents",
-  "opendatalab/LabelLLM": "Dev Tools",
-  "opendatalab/MinerU": "AI / RAG & Knowledge",
-  "opendatalab/labelU": "Dev Tools",
-  "opendatalab/labelU-Kit": "Dev Tools",
-  "opengoofy/hippo4j": "Dev Tools",
-  "openimsdk/open-im-server": "Dev Tools",
-  "ownthink/Jiagu": "AI / LLM",
-  "ownthink/KnowledgeGraphData": "Learning / Resources",
-  "pab1it0/awesome-a2a": "Learning / Resources",
-  "pcingola/a2a_min": "AI / Agents",
-  "peng-zhihui/HoloCubic": "Embedded / Hardware",
-  "pentaho/pentaho-kettle": "Dev Tools",
-  "phodal/auto-dev": "AI / Agents",
-  "phodal/chapi": "Dev Tools",
-  "pingcap/autoflow": "AI / RAG & Knowledge",
-  "pqpo/SmartCropper": "Other",
-  "princeton-nlp/tree-of-thought-llm": "AI / LLM",
-  "proxysu/ProxySU": "Networking / Security",
-  "punkpeye/awesome-mcp-servers": "Learning / Resources",
-  "pyecharts/pyecharts": "Data / Visualization",
-  "qiurunze123/miaosha": "Learning / Resources",
-  "rasbt/LLMs-from-scratch": "Learning / Resources",
-  "reading-plus-ai/mcp-server-data-exploration": "AI / Agents",
-  "redisson/redisson": "Dev Tools",
-  "rememberber/WePush": "Dev Tools",
-  "reworkd/AgentGPT": "AI / Agents",
-  "rhasspy/piper": "AI / LLM",
-  "rootphantomer/Blasting_dictionary": "Networking / Security",
-  "ruanyf/weekly": "Learning / Resources",
-  "run-llama/llama_index": "AI / RAG & Knowledge",
-  "sameersbn/docker-bind": "DevOps / Cloud",
-  "sanbuphy/learn-coding-agent": "AI / Agents",
-  "seanlook/pydbsync": "DevOps / Cloud",
-  "sherlockchou86/VideoPipe": "Other",
-  "shibing624/pycorrector": "AI / LLM",
-  "shibing624/text2vec": "AI / RAG & Knowledge",
-  "shuzheng/zheng": "Dev Tools",
-  "shyiko/mysql-binlog-connector-java": "Dev Tools",
-  "sinaptik-ai/pandas-ai": "AI / NL2SQL",
-  "siteboon/claudecodeui": "Dev Tools",
-  "songquanpeng/one-api": "AI / LLM Serving",
-  "speaches-ai/speaches": "AI / LLM Serving",
-  "spring-projects/spring-boot": "Dev Tools",
-  "stair-lab/kg-gen": "AI / RAG & Knowledge",
-  "substratusai/stapi": "AI / LLM Serving",
-  "supabase-community/database-build": "Dev Tools",
-  "tech-shrimp/docker_installer": "DevOps / Cloud",
-  "terryso/claude-code-playwright-mcp-test": "Dev Tools",
-  "themanojdesai/python-a2a": "AI / Agents",
-  "thunlp/MatPlotAgent": "AI / Agents",
-  "tingxueronghua/ChartLlama-code": "Data / Visualization",
-  "titanwings/colleague-skill": "AI / Agents",
-  "tmoonlight/NSmartProxy": "Networking / Security",
-  "tradecatlabs/vibe-coding-cn": "Learning / Resources",
-  "ty4z2008/Qix": "Learning / Resources",
-  "ufologist/puer-mock": "Dev Tools",
-  "ultraworkers/claw-code": "AI / Agents",
-  "ultraworkers/claw-code-parity": "AI / Agents",
-  "unifreq/openwrt_packit": "Embedded / Hardware",
-  "unit-mesh/unit-gen": "Dev Tools",
-  "v5tech/cas-server-webapp": "Networking / Security",
-  "v5tech/oltu-oauth2-example": "Networking / Security",
-  "vaxilu/x-ui": "Networking / Security",
-  "veip007/dd": "DevOps / Cloud",
-  "vipstone/faceai": "Other",
-  "vllm-project/guidellm": "AI / LLM Serving",
-  "vllm-project/vllm": "AI / LLM Serving",
-  "vllm-project/vllm-ascend": "AI / LLM Serving",
-  "vufa/deepin-wine-wechat-arch": "Other",
-  "w2016561536/android_virtual_cam": "Embedded / Hardware",
-  "wdndev/llm_interview_note": "Learning / Resources",
-  "wechaty/wechaty": "AI / Agents",
-  "wildfirechat/im-server": "Other",
-  "wquguru/harness-books": "Learning / Resources",
-  "wulabing/Xray_onekey": "Networking / Security",
-  "x1xhlol/system-prompts-and-models-of-ai-tools": "Learning / Resources",
-  "xai-org/grok-1": "AI / LLM",
-  "xiaomingzhid/sskd": "AI / LLM",
-  "xiaoyunjie/openvpn-cms-flask": "Networking / Security",
-  "xlang-ai/OpenAgents": "AI / Agents",
-  "xorbitsai/inference": "AI / LLM Serving",
-  "xubiaolin/docker-zerotier-planet": "Networking / Security",
-  "xusenlinzy/api-for-open-llm": "AI / LLM Serving",
-  "y0ngb1n/dockerized": "DevOps / Cloud",
-  "yahoo/open_nsfw": "Other",
-  "yanzhenjie/AndServer": "Dev Tools",
-  "yaphone/itchat4j": "AI / Agents",
-  "yinxin630/fiora": "Other",
-  "yizt/cv-papers": "Learning / Resources",
-  "yutiansut/QUANTAXIS": "Quant / Finance",
-  "zai-org/ChatGLM-6B": "AI / LLM",
-  "zai-org/ChatGLM2-6B": "AI / LLM",
-  "zai-org/ChatGLM3": "AI / LLM",
-  "zai-org/CodeGeeX": "AI / LLM",
-  "zfl9/ss-tproxy": "Networking / Security",
-  "zgwl/chinese-buy-us-stock-guide": "Learning / Resources",
-  "zhayujie/CowAgent": "AI / Agents",
-  "zilliztech/deep-searcher": "AI / RAG & Knowledge",
-  "zu1k/tg-keyword-reply-bot": "Other"
+  "0voice/audio_video_streaming": {
+    "category": "Learning / Resources",
+    "description_zh": "音视频流媒体技术资料整理，包含文章论文与实践项目"
+  },
+  "1517005260/graph-rag-agent": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "融合GraphRAG LightRAG和Neo4j的知识图谱构建搜索工具，整合DeepSearch实现私域RAG推理"
+  },
+  "1Panel-dev/MaxKB": {
+    "category": "AI / Agents",
+    "description_zh": "开源企业级智能体平台，支持知识库RAG和MCP服务器"
+  },
+  "1c7/chinese-independent-developer": {
+    "category": "Learning / Resources",
+    "description_zh": "中国独立开发者项目列表，分享大家都在做什么项目"
+  },
+  "567-labs/instructor": {
+    "category": "AI / LLM",
+    "description_zh": "为LLM提供结构化输出的Python库，支持Pydantic验证"
+  },
+  "AI4WA/Docs2KG": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "人机协作从异构文档构建统一知识图谱的方法与工具"
+  },
+  "Activiti/Activiti": {
+    "category": "Dev Tools",
+    "description_zh": "轻量级工作流和业务流程管理平台，基于BPMN 2标准"
+  },
+  "AiHubCN/Awesome-Chinese-LLM": {
+    "category": "Learning / Resources",
+    "description_zh": "整理开源中文大语言模型及相关数据集、微调方案与教程"
+  },
+  "Aider-AI/aider": {
+    "category": "AI / Agents",
+    "description_zh": "终端中的AI结对编程工具，支持多种LLM模型进行代码编辑"
+  },
+  "AirtestProject/Airtest": {
+    "category": "Dev Tools",
+    "description_zh": "面向游戏和应用的UI自动化测试框架"
+  },
+  "AnyListen/maven-dependency-downloader": {
+    "category": "Dev Tools",
+    "description_zh": "用于下载Maven依赖的命令行工具"
+  },
+  "ArchiveBox/ArchiveBox": {
+    "category": "Other",
+    "description_zh": "开源自托管网页归档工具，可保存HTML、PDF、媒体等多种格式内容"
+  },
+  "Arronlong/httpclientutil": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "AutoGPTQ/AutoGPTQ": {
+    "category": "AI / LLM Serving",
+    "description_zh": "基于GPTQ算法的大语言模型量化包"
+  },
+  "AuvaLab/itext2kg": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "从文本构建知识图谱的工具，支持时序知识图谱"
+  },
+  "Avik-Jain/100-Days-Of-ML-Code": {
+    "category": "Learning / Resources",
+    "description_zh": "100天机器学习编码挑战教程，涵盖多种ML算法实现"
+  },
+  "Avik-Jain/100-Days-of-ML-Code-Chinese-Version": {
+    "category": "Learning / Resources",
+    "description_zh": "机器学习信息图的中文翻译版本"
+  },
+  "BerriAI/litellm": {
+    "category": "AI / LLM Serving",
+    "description_zh": "最轻量的AI网关，支持100多种LLM API的统一调用和成本追踪"
+  },
+  "ChanChiChoi/awesome-Face_Recognition": {
+    "category": "Learning / Resources",
+    "description_zh": "人脸识别相关论文与开源资源精选列表"
+  },
+  "ChatGPTNextWeb/NextChat": {
+    "category": "AI / LLM",
+    "description_zh": "轻量快速的AI助手，支持多平台多模型接入的聊天界面"
+  },
+  "CherryHQ/cherry-studio": {
+    "category": "AI / Agents",
+    "description_zh": "AI生产力工作室，支持智能聊天自主智能体和300多个助手，统一访问前沿LLM"
+  },
+  "Chingliu/OfficeMaster_document_convert_system": {
+    "category": "Dev Tools",
+    "description_zh": "多格式文档转换系统，支持Word Excel PPT转PDF OFD及相互转换"
+  },
+  "CodFrm/cxmooc-tools": {
+    "category": "Other",
+    "description_zh": "超星学习通等网课平台的浏览器自动化辅助脚本，支持视频倍速和自动答题"
+  },
+  "Comfy-Org/ComfyUI": {
+    "category": "AI / LLM Serving",
+    "description_zh": "最强大模块化的扩散模型GUI和后端，支持图节点界面"
+  },
+  "ConardLi/easy-dataset": {
+    "category": "Dev Tools",
+    "description_zh": "用于创建LLM微调RAG和评估数据集的强大工具"
+  },
+  "DLTech21/ofd.js": {
+    "category": "Dev Tools",
+    "description_zh": "OFD板式文件的HTML渲染方案及组件，支持OFD转PDF SVG等"
+  },
+  "DSXiangLi/DecryptPrompt": {
+    "category": "Learning / Resources",
+    "description_zh": "汇总Prompt与LLM相关论文、开源数据及AIGC应用资源"
+  },
+  "EasyTier/EasyTier": {
+    "category": "Networking / Security",
+    "description_zh": "简单去中心化的Mesh VPN，支持WireGuard协议和NAT穿透"
+  },
+  "EmbraceAGI/awesome-chatgpt-zh": {
+    "category": "Learning / Resources",
+    "description_zh": "ChatGPT中文使用指南与精选资源清单，涵盖提示词与应用开发"
+  },
+  "Evil0ctal/Douyin_TikTok_Download_API": {
+    "category": "Dev Tools",
+    "description_zh": "高性能异步抖音快手TikTok Bilibili数据爬取工具，支持API调用和在线批量解析下载"
+  },
+  "FlagOpen/FlagEmbedding": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "检索与检索增强大语言模型的文本嵌入工具"
+  },
+  "FlowiseAI/Flowise": {
+    "category": "AI / Agents",
+    "description_zh": "可视化构建AI智能体的低代码平台，支持多智能体系统和RAG"
+  },
+  "FoundationAgents/MetaGPT": {
+    "category": "AI / Agents",
+    "description_zh": "多智能体协作框架，实现自然语言编程与软件开发"
+  },
+  "FunctionClub/V2ray.Fun": {
+    "category": "Networking / Security",
+    "description_zh": ""
+  },
+  "GangZhuo/BaiduPCS": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "GanymedeNil/document.ai": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "基于向量数据库和GPT的通用本地知识库方案"
+  },
+  "Genymobile/gnirehtet": {
+    "category": "Networking / Security",
+    "description_zh": "为Android设备提供反向网络共享的工具"
+  },
+  "Genymobile/scrcpy": {
+    "category": "Dev Tools",
+    "description_zh": "Android设备屏幕显示和控制工具，支持录制和镜像功能"
+  },
+  "GitHubDaily/GitHubDaily": {
+    "category": "Learning / Resources",
+    "description_zh": "分享GitHub上高质量有趣实用的开源技术教程开发者工具和技术资讯"
+  },
+  "HaujetZhao/CapsWriter-Offline": {
+    "category": "AI / LLM",
+    "description_zh": "PC端离线语音输入工具，支持高准确率低延迟识别、热词和LLM润色"
+  },
+  "Ice-Storm/structure-and-interpretation-of-blockchain": {
+    "category": "Learning / Resources",
+    "description_zh": "区块链的构造和解释教程，涵盖比特币以太坊和Hyperledger Fabric"
+  },
+  "Infrasys-AI/AISystem": {
+    "category": "Learning / Resources",
+    "description_zh": "AI系统全栈底层技术资源，涵盖AI芯片编译器和训练推理框架"
+  },
+  "InternLM/MindSearch": {
+    "category": "AI / Agents",
+    "description_zh": "基于LLM的多智能体网络搜索引擎框架，类似Perplexity和SearchGPT"
+  },
+  "InternLM/lmdeploy": {
+    "category": "AI / LLM Serving",
+    "description_zh": "用于压缩部署和服务LLM的工具包，支持多种模型和CUDA内核优化"
+  },
+  "InternScience/GraphGen": {
+    "category": "AI / LLM",
+    "description_zh": "基于知识图谱的合成数据生成方法，用于增强LLM监督微调"
+  },
+  "JDAI-CV/fast-reid": {
+    "category": "Other",
+    "description_zh": "行人重识别方法研究与工具箱，支持多种SOTA算法"
+  },
+  "JamesZBL/java_design_patterns": {
+    "category": "Learning / Resources",
+    "description_zh": "Java设计模式示例代码，涵盖创建型、结构型和行为型模式"
+  },
+  "JeffLi1993/springboot-learning-example": {
+    "category": "Learning / Resources",
+    "description_zh": "Spring Boot实践学习案例与核心技术示例"
+  },
+  "JingMatrix/Vector": {
+    "category": "Dev Tools",
+    "description_zh": "现代Xposed框架，支持Arthook和Zygisk等特性"
+  },
+  "Jinnrry/RobotHelper": {
+    "category": "Networking / Security",
+    "description_zh": "面向安卓游戏开发的自动化脚本框架"
+  },
+  "Joooook/12306-mcp": {
+    "category": "AI / Agents",
+    "description_zh": "基于MCP协议的12306火车票查询服务器，支持AI代理调用"
+  },
+  "Jrohy/multi-v2ray": {
+    "category": "Networking / Security",
+    "description_zh": ""
+  },
+  "KaringX/karing": {
+    "category": "Networking / Security",
+    "description_zh": "简单强大的代理工具，支持clash和sing-box路由规则"
+  },
+  "Ksuriuri/index-tts-vllm": {
+    "category": "AI / LLM Serving",
+    "description_zh": "为IndexTTS添加vLLM支持以实现更快的语音合成推理"
+  },
+  "LangGraph-GUI/LangGraph-GUI": {
+    "category": "AI / Agents",
+    "description_zh": "LangGraph的可视化节点边图编辑器，支持本地LLM和在线API运行"
+  },
+  "LinnaWang76/githubcode_extractor_mnbvc": {
+    "category": "Dev Tools",
+    "description_zh": "提取GitHub代码ZIP文件内容并保存为JSONL格式的工具"
+  },
+  "LlamaChinese/Llama-Chinese": {
+    "category": "Learning / Resources",
+    "description_zh": "Llama中文社区，汇总学习资料并构建中文Llama大模型开源生态"
+  },
+  "Louiszhai/canvas-draw": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "MeowLove/Network-Reinstall-System-Modify": {
+    "category": "DevOps / Cloud",
+    "description_zh": "通过网络远程重装多种操作系统的Shell脚本"
+  },
+  "Netflixxp/N1HK1dabao": {
+    "category": "Embedded / Hardware",
+    "description_zh": "自动打包N1和HK1电视盒子固件的Shell脚本"
+  },
+  "Nicky213Zhang/WeChatAssist": {
+    "category": "Networking / Security",
+    "description_zh": "基于辅助服务自动操作微信的Android应用"
+  },
+  "NumbersStationAI/NSQL": {
+    "category": "AI / NL2SQL",
+    "description_zh": "Numbers Station文本转SQL模型代码实现"
+  },
+  "OpenBMB/ChatDev": {
+    "category": "AI / Agents",
+    "description_zh": "基于大语言模型多智能体协作的软件开发平台"
+  },
+  "OpenBMB/ToolBench": {
+    "category": "AI / Agents",
+    "description_zh": "大语言模型工具学习训练服务与评估的开放平台"
+  },
+  "OpenByteInc/QuantDinger": {
+    "category": "Quant / Finance",
+    "description_zh": "AI量化交易平台，支持加密货币股票外汇的回测实盘交易和多智能体研究"
+  },
+  "OpenHands/OpenHands": {
+    "category": "AI / Agents",
+    "description_zh": "AI驱动的开发平台，支持智能体自主完成软件开发任务"
+  },
+  "OpenHands/OpenHands-Server": {
+    "category": "AI / Agents",
+    "description_zh": "OpenHands服务器的功能实现，用于创建和管理AI开发服务器"
+  },
+  "Openwrt-Passwall/openwrt-passwall2": {
+    "category": "Networking / Security",
+    "description_zh": "OpenWrt路由器上的网络代理和科学上网插件"
+  },
+  "OtterMind/Chat2DB": {
+    "category": "AI / NL2SQL",
+    "description_zh": "AI驱动的数据库工具与SQL客户端，支持多种数据库"
+  },
+  "PaddlePaddle/PaddleDetection": {
+    "category": "Other",
+    "description_zh": "基于飞桨的目标检测工具箱，支持检测分割与跟踪"
+  },
+  "PaddlePaddle/PaddleMIX": {
+    "category": "AI / LLM",
+    "description_zh": "飞桨多模态集成与探索平台，支持主流多模态任务"
+  },
+  "PaddlePaddle/PaddleOCR": {
+    "category": "Other",
+    "description_zh": "轻量级OCR工具包，支持图像和PDF文档的文字识别与结构化数据提取"
+  },
+  "PaddlePaddle/PaddleVideo": {
+    "category": "Other",
+    "description_zh": "基于飞桨的视频理解工具箱，支持动作识别与视频标注"
+  },
+  "PaddlePaddle/PaddleX": {
+    "category": "Dev Tools",
+    "description_zh": "基于PaddlePaddle的一站式开发工具，支持分类检测OCR语音识别等AI任务"
+  },
+  "PaddlePaddle/awesome-DeepLearning": {
+    "category": "Learning / Resources",
+    "description_zh": "深度学习课程案例与知识百科资源集合"
+  },
+  "Pimzino/claude-code-spec-workflow": {
+    "category": "AI / Agents",
+    "description_zh": "Claude Code的自动化工作流，支持规范驱动开发和快速缺陷修复流程"
+  },
+  "Pimzino/spec-workflow-mcp": {
+    "category": "AI / Agents",
+    "description_zh": "提供结构化规范驱动开发工作流的MCP服务器，含实时Web仪表板和VSCode扩展"
+  },
+  "PlayVoice/whisper-vits-svc": {
+    "category": "AI / LLM",
+    "description_zh": "歌声转换和歌声克隆的核心引擎，基于VITS和扩散模型"
+  },
+  "PlexPt/awesome-chatgpt-prompts-zh": {
+    "category": "Learning / Resources",
+    "description_zh": "ChatGPT中文提示词指南，涵盖多种使用场景的调教方法"
+  },
+  "QuantumNous/new-api": {
+    "category": "AI / LLM Serving",
+    "description_zh": "统一AI模型聚合分发平台，支持多种LLM转换为OpenAI兼容格式"
+  },
+  "QuivrHQ/quivr": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "面向应用集成的RAG框架，支持多种LLM和向量数据库"
+  },
+  "QwenLM/Qwen": {
+    "category": "AI / LLM",
+    "description_zh": "阿里云通义千问大语言模型官方仓库，包含预训练与对话模型"
+  },
+  "QwenLM/Qwen-Agent": {
+    "category": "AI / Agents",
+    "description_zh": "基于通义千问的智能体框架，支持函数调用、MCP、代码解释器和RAG"
+  },
+  "QwenLM/Qwen3": {
+    "category": "AI / LLM",
+    "description_zh": "阿里云通义千问团队开发的Qwen3大语言模型系列"
+  },
+  "QwenLM/qwen-code": {
+    "category": "AI / Agents",
+    "description_zh": "开源AI编码智能体，运行在终端中，支持MCP协议和多种开发任务"
+  },
+  "RapidAI/RapidOCR": {
+    "category": "Other",
+    "description_zh": "基于多种推理引擎的OCR多语言工具包"
+  },
+  "Rockyzsu/stock": {
+    "category": "Quant / Finance",
+    "description_zh": "30天掌握量化交易的教程项目，持续更新中"
+  },
+  "RooCodeInc/Roo-Code": {
+    "category": "AI / Agents",
+    "description_zh": "在代码编辑器中提供整个AI开发团队的多智能体编程工具"
+  },
+  "SYSTRAN/faster-whisper": {
+    "category": "AI / LLM Serving",
+    "description_zh": "基于CTranslate2的加速Whisper转录服务，支持量化推理"
+  },
+  "SecureAgentTools/AgentVault": {
+    "category": "AI / Agents",
+    "description_zh": "开源安全去中心化AI代理互操作工具包，支持A2A和MCP协议"
+  },
+  "Shubhamsaboo/awesome-llm-apps": {
+    "category": "Learning / Resources",
+    "description_zh": "100多个AI智能体智能技能和RAG应用的开源项目集合"
+  },
+  "Significant-Gravitas/AutoGPT": {
+    "category": "AI / Agents",
+    "description_zh": "自主AI智能体，可自动规划并执行复杂任务链"
+  },
+  "Snailclimb/JavaGuide": {
+    "category": "Learning / Resources",
+    "description_zh": ""
+  },
+  "SophonPlus/ChineseNlpCorpus": {
+    "category": "Learning / Resources",
+    "description_zh": "搜集整理并发布中文自然语言处理语料与数据集，促进中文NLP发展"
+  },
+  "SqueezeAILab/LLMCompiler": {
+    "category": "AI / LLM Serving",
+    "description_zh": "LLM编译器，支持并行函数调用的高效推理优化"
+  },
+  "SuperMonster003/Ant-Forest": {
+    "category": "Other",
+    "description_zh": "基于AutoJs6的蚂蚁森林能量自动收取脚本"
+  },
+  "SwanHubX/SwanLab": {
+    "category": "Dev Tools",
+    "description_zh": "开源AI训练跟踪和可视化工具，支持云和自托管，集成多种深度学习框架"
+  },
+  "THUDM/AgentTuning": {
+    "category": "AI / Agents",
+    "description_zh": "为大语言模型赋予通用智能体能力的微调方法"
+  },
+  "THUDM/WebGLM": {
+    "category": "AI / LLM",
+    "description_zh": "基于Web增强的问答系统，结合网络搜索与大语言模型进行知识问答"
+  },
+  "TauricResearch/TradingAgents": {
+    "category": "Quant / Finance",
+    "description_zh": "基于多智能体LLM的金融交易框架，用于自动化交易决策"
+  },
+  "TaxyAI/browser-extension": {
+    "category": "Networking / Security",
+    "description_zh": "使用GPT-4自动化浏览器操作的浏览器扩展"
+  },
+  "Tencent/APIJSON": {
+    "category": "Dev Tools",
+    "description_zh": "腾讯开源的零代码ORM库，后端无需写接口即可自动生成API和文档"
+  },
+  "The-PR-Agent/pr-agent": {
+    "category": "Dev Tools",
+    "description_zh": "开源PR代码审查工具，自动审查Pull Request并提供改进建议"
+  },
+  "TheAlgorithms/Java": {
+    "category": "Learning / Resources",
+    "description_zh": "用Java实现的各种算法和数据结构集合，适合学习参考"
+  },
+  "TingsongYu/PyTorch-Tutorial-2nd": {
+    "category": "Learning / Resources",
+    "description_zh": "PyTorch实用教程第二版，涵盖CV NLP LLM项目应用和工程化部署"
+  },
+  "TonyJiangWJ/Ant-Forest": {
+    "category": "Other",
+    "description_zh": "基于AutoJS的蚂蚁森林自动收取能量脚本"
+  },
+  "TooTallNate/Java-WebSocket": {
+    "category": "Networking / Security",
+    "description_zh": "纯Java实现的WebSocket客户端和服务端库"
+  },
+  "Trisia/alg-sm2-demo": {
+    "category": "Networking / Security",
+    "description_zh": ""
+  },
+  "TurboWay/bigdata_analyse": {
+    "category": "Other",
+    "description_zh": "大数据分析项目，涉及HQL、Python和SQL"
+  },
+  "Upsonic/Upsonic": {
+    "category": "AI / Agents",
+    "description_zh": "Python中构建自主AI智能体的框架，支持MCP和计算机使用能力"
+  },
+  "Urinx/WeixinBot": {
+    "category": "AI / Agents",
+    "description_zh": "网页版微信API封装，提供终端版微信及微信机器人功能"
+  },
+  "VisActor/VMind": {
+    "category": "Data / Visualization",
+    "description_zh": "基于LLM的智能数据可视化系统，支持自动和智能图表生成"
+  },
+  "Wan-Video/Wan2.2": {
+    "category": "AI / LLM",
+    "description_zh": "开放先进的视频生成大模型，支持高质量视频内容生成"
+  },
+  "WeActStudio/WeActStudio.USB2SerialV1": {
+    "category": "Embedded / Hardware",
+    "description_zh": "带DTR和RTS的迷你USB转串口模块，最高6Mbps传输速率"
+  },
+  "WisdomShell/codeshell": {
+    "category": "AI / LLM",
+    "description_zh": "北大KCL团队开发的代码大语言模型系列"
+  },
+  "Wizzercn/NutzWk": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "X-D-Lab/LangChain-ChatGLM-Webui": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "基于LangChain和ChatGLM的本地知识库问答系统"
+  },
+  "X-PLUG/CValues": {
+    "category": "AI / LLM",
+    "description_zh": "面向中文大模型价值观的评估与对齐研究，提供中文LLM价值观基准"
+  },
+  "XIU2/CloudflareSpeedTest": {
+    "category": "Networking / Security",
+    "description_zh": "测试Cloudflare CDN延迟和速度，获取最优IP地址的工具"
+  },
+  "XiaoxinHe/Awesome-Graph-LLM": {
+    "category": "Learning / Resources",
+    "description_zh": "图相关大语言模型的awesome资源集合"
+  },
+  "Yuliang-Liu/MonkeyOCR": {
+    "category": "AI / LLM",
+    "description_zh": "轻量级基于多模态大模型的文档解析模型"
+  },
+  "Zeyi-Lin/HivisionIDPhotos": {
+    "category": "Other",
+    "description_zh": "轻量级AI证件照制作算法，支持人脸检测和抠图换背景"
+  },
+  "ZhuLinsen/daily_stock_analysis": {
+    "category": "Quant / Finance",
+    "description_zh": "LLM驱动的多市场股票智能分析系统，支持多源行情、实时新闻、决策看板与自动推送"
+  },
+  "a2aproject/A2A": {
+    "category": "AI / Agents",
+    "description_zh": "Agent2Agent开放协议，实现不透明智能体应用间的通信和互操作"
+  },
+  "aalansehaiyang/technology-talk": {
+    "category": "Learning / Resources",
+    "description_zh": "Java程序员技术指南，包含面试题、系统架构和中间件知识"
+  },
+  "abel533/Mapper": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "adhikasp/mcp-client-cli": {
+    "category": "AI / Agents",
+    "description_zh": "简单的MCP客户端CLI工具，支持运行LLM提示词和MCP协议"
+  },
+  "adithya-s-k/marker-api": {
+    "category": "Dev Tools",
+    "description_zh": "快速准确地将PDF转换为Markdown的可部署API服务"
+  },
+  "adithya-s-k/omniparse": {
+    "category": "Dev Tools",
+    "description_zh": "摄取解析和优化任意数据格式的工具，支持文档多媒体到GenAI框架"
+  },
+  "ag-ui-protocol/ag-ui": {
+    "category": "AI / Agents",
+    "description_zh": "智能体用户交互协议，将AI代理集成到前端应用程序中"
+  },
+  "ageitgey/face_recognition": {
+    "category": "Other",
+    "description_zh": "简单易用的Python人脸识别API和命令行工具"
+  },
+  "agentscope-ai/agentscope": {
+    "category": "AI / Agents",
+    "description_zh": "构建和运行可理解可信任的智能体框架，支持多模态和多智能体"
+  },
+  "ahmetoner/whisper-asr-webservice": {
+    "category": "AI / LLM Serving",
+    "description_zh": "OpenAI Whisper ASR的Web服务API，支持Docker部署"
+  },
+  "ai-shifu/ChatALL": {
+    "category": "Dev Tools",
+    "description_zh": "同时与多个AI模型对话的桌面应用，便于对比不同模型的回答"
+  },
+  "alex000kim/nsfw_data_scraper": {
+    "category": "Dev Tools",
+    "description_zh": "聚合图像数据用于训练NSFW图像分类器的脚本集合"
+  },
+  "alibaba/DataX": {
+    "category": "DevOps / Cloud",
+    "description_zh": "阿里云DataWorks数据集成的开源版本，支持多种数据源迁移"
+  },
+  "alibaba/arthas": {
+    "category": "Dev Tools",
+    "description_zh": "阿里巴巴开源的Java诊断工具，支持在线监控、热更新和JVM问题排查"
+  },
+  "alibaba/canal": {
+    "category": "DevOps / Cloud",
+    "description_zh": "阿里巴巴MySQL binlog增量订阅和消费组件"
+  },
+  "alibaba/fastjson2": {
+    "category": "Dev Tools",
+    "description_zh": "高性能Java JSON序列化与反序列化库，支持JSONPath查询"
+  },
+  "alibaba/lowcode-demo": {
+    "category": "Dev Tools",
+    "description_zh": "面向扩展设计的企业级低代码技术体系与演示项目"
+  },
+  "alibaba/nacos": {
+    "category": "DevOps / Cloud",
+    "description_zh": ""
+  },
+  "alibaba/otter": {
+    "category": "DevOps / Cloud",
+    "description_zh": "阿里巴巴分布式数据库同步系统，解决异地机房数据同步问题"
+  },
+  "alibaba/p3c": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "alibaba/spring-cloud-alibaba": {
+    "category": "DevOps / Cloud",
+    "description_zh": "Spring Cloud Alibaba分布式解决方案，提供一站式微服务开发能力"
+  },
+  "android-hacker/VirtualXposed": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "anthropics/claude-agent-sdk-python": {
+    "category": "AI / Agents",
+    "description_zh": "Anthropic官方Claude智能体Python SDK开发工具包"
+  },
+  "antiwork/shortest": {
+    "category": "Dev Tools",
+    "description_zh": "通过自然语言AI进行端到端测试的自动化测试框架"
+  },
+  "apache/dubbo": {
+    "category": "DevOps / Cloud",
+    "description_zh": "分布式RPC和微服务框架，支持服务治理、监控和追踪"
+  },
+  "apache/dubbo-spring-boot-project": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "apolloconfig/apollo": {
+    "category": "DevOps / Cloud",
+    "description_zh": ""
+  },
+  "aturl/awesome-anti-gfw": {
+    "category": "Networking / Security",
+    "description_zh": "突破网络审查和封锁的开源工具清单，涵盖VPN代理隧道等"
+  },
+  "baomidou/dynamic-datasource": {
+    "category": "Dev Tools",
+    "description_zh": "Spring Boot多数据源动态切换框架，支持主从分离和读写分离"
+  },
+  "barry-ran/QtScrcpy": {
+    "category": "Dev Tools",
+    "description_zh": "基于Qt的Android设备实时投屏与远程控制软件"
+  },
+  "beijixiaohu/CH9329_COMM": {
+    "category": "Embedded / Hardware",
+    "description_zh": "提供CH9329芯片快捷通信方法的Python包，支持键盘鼠标通信"
+  },
+  "bigcode-project/starcoder": {
+    "category": "AI / LLM",
+    "description_zh": "StarCoder代码大模型的微调与推理工具"
+  },
+  "bin456789/reinstall": {
+    "category": "DevOps / Cloud",
+    "description_zh": "一键重装VPS操作系统的Shell脚本，支持多种Linux发行版和Windows"
+  },
+  "binary-husky/gpt_academic": {
+    "category": "AI / LLM",
+    "description_zh": "面向学术场景的LLM交互工具，支持论文阅读润色写作与多模型并行"
+  },
+  "bitlap/geocoding": {
+    "category": "Other",
+    "description_zh": "地理编码技术，提供地址标准化和相似度计算"
+  },
+  "breaking-brake/cc-wf-studio": {
+    "category": "AI / Agents",
+    "description_zh": "Claude Code工作流工作室，支持子代理、MCP工具和VSCode扩展的自动化工作流"
+  },
+  "brightmart/nlp_chinese_corpus": {
+    "category": "Learning / Resources",
+    "description_zh": "大规模中文自然语言处理语料库，涵盖分类、问答、预训练等多种任务"
+  },
+  "browserwing/browserwing": {
+    "category": "AI / Agents",
+    "description_zh": "将浏览器操作转换为MCP命令或Claude Skill，使AI代理高效控制浏览器实现自动化"
+  },
+  "business-science/ai-data-science-team": {
+    "category": "AI / Agents",
+    "description_zh": "AI驱动的数据科学智能体团队，帮助快速完成常见数据科学任务"
+  },
+  "chatchat-space/Langchain-Chatchat": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "基于Langchain与本地大模型的RAG与Agent应用，支持知识库问答"
+  },
+  "chefyuan/algorithm-base": {
+    "category": "Learning / Resources",
+    "description_zh": "用动画讲解算法的程序员面试学习资源"
+  },
+  "chrisk44/Hijacker": {
+    "category": "Networking / Security",
+    "description_zh": "Android平台无线安全工具GUI应用，集成Aircrack和Reaver等工具"
+  },
+  "clearw5/Auto.js": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "coaidev/blob-service": {
+    "category": "Dev Tools",
+    "description_zh": "开箱即用的文件解析服务，支持文本PDF图片音频等多种格式和OCR"
+  },
+  "coaidev/coai": {
+    "category": "AI / LLM Serving",
+    "description_zh": "下一代多租户AI一站式解决方案，支持200多种模型和35多个提供商的统一网关"
+  },
+  "codefuse-ai/Test-Agent": {
+    "category": "AI / Agents",
+    "description_zh": "基于LLM的软件测试智能体，赋能软件测试自动化"
+  },
+  "coder-pig/WechatHelper": {
+    "category": "Networking / Security",
+    "description_zh": "利用辅助服务实现微信自动加好友和拉群"
+  },
+  "continuedev/continue": {
+    "category": "AI / Agents",
+    "description_zh": "开源编码智能体，辅助开发者编写代码"
+  },
+  "conwnet/wpa-dictionary": {
+    "category": "Networking / Security",
+    "description_zh": "用于WiFi密码暴力破解的WPA和WPA2密码字典"
+  },
+  "coze-dev/coze-studio": {
+    "category": "AI / Agents",
+    "description_zh": "AI智能体开发平台，提供可视化工具简化智能体创建调试和部署"
+  },
+  "crossoverJie/SSM": {
+    "category": "Learning / Resources",
+    "description_zh": ""
+  },
+  "cyberp/simple-evdev-java": {
+    "category": "Embedded / Hardware",
+    "description_zh": "Java读取Linux输入设备事件的简单库，支持键盘鼠标手柄等"
+  },
+  "d2l-ai/d2l-zh": {
+    "category": "Learning / Resources",
+    "description_zh": "动手学深度学习中文版教材，可运行可讨论"
+  },
+  "danielgatis/rembg": {
+    "category": "Other",
+    "description_zh": "使用深度学习模型自动去除图片背景的工具"
+  },
+  "danny-avila/LibreChat": {
+    "category": "AI / Agents",
+    "description_zh": "增强版ChatGPT克隆，支持多模型切换与智能体功能"
+  },
+  "dataease/dataease": {
+    "category": "Data / Visualization",
+    "description_zh": "人人可用的开源BI工具，支持数据可视化和商业智能分析"
+  },
+  "dataelement/bisheng": {
+    "category": "AI / Agents",
+    "description_zh": "企业级LLM开发运维平台，支持RAG智能体与工作流"
+  },
+  "datajuicer/data-juicer": {
+    "category": "Data / Visualization",
+    "description_zh": "面向基础模型的数据处理工具，支持数据分析和可视化流水线"
+  },
+  "datawhalechina/happy-llm": {
+    "category": "Learning / Resources",
+    "description_zh": "从零开始构建大模型的教程项目，涵盖LLM原理与实践"
+  },
+  "datawhalechina/hello-agents": {
+    "category": "Learning / Resources",
+    "description_zh": "从零开始构建智能体的原理与实践教程，涵盖Agent LLM和RAG"
+  },
+  "datawhalechina/self-llm": {
+    "category": "Learning / Resources",
+    "description_zh": "开源大模型食用指南，涵盖Linux环境下快速微调部署国内外开源大模型教程"
+  },
+  "datawhalechina/tiny-universe": {
+    "category": "Learning / Resources",
+    "description_zh": "大模型白盒子构建指南，全手搓的Tiny-Universe教程"
+  },
+  "deepinsight/insightface": {
+    "category": "AI / LLM",
+    "description_zh": "先进的2D和3D人脸分析开源项目"
+  },
+  "deepseek-ai/DeepSeek-R1": {
+    "category": "AI / LLM",
+    "description_zh": "深度求索推出的推理大模型，支持复杂推理任务"
+  },
+  "deepset-ai/haystack": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "开源AI编排框架，用于构建生产级LLM应用"
+  },
+  "deepspeedai/DeepSpeed": {
+    "category": "AI / LLM Serving",
+    "description_zh": "深度学习优化库，支持分布式训练和推理的并行压缩和高效计算"
+  },
+  "defog-ai/sqlcoder": {
+    "category": "AI / NL2SQL",
+    "description_zh": "将自然语言问题转换为SQL查询的大语言模型"
+  },
+  "didi/DoKit": {
+    "category": "Dev Tools",
+    "description_zh": "面向泛前端产品研发全生命周期的效率平台，支持性能监控与调试"
+  },
+  "dnomd343/XProxy": {
+    "category": "Networking / Security",
+    "description_zh": "虚拟旁路由网关，支持内网设备IPv4和IPv6双栈透明代理"
+  },
+  "docling-project/docling": {
+    "category": "Dev Tools",
+    "description_zh": "将文档转换为生成式AI就绪格式的工具，支持PDF Word PPT等格式"
+  },
+  "docling-project/docling-serve": {
+    "category": "Dev Tools",
+    "description_zh": "将Docling文档解析工具作为API服务运行"
+  },
+  "dongyubin/DockerHub": {
+    "category": "Learning / Resources",
+    "description_zh": "国内可用Docker镜像源汇总和DockerHub镜像加速器列表"
+  },
+  "doocs/advanced-java": {
+    "category": "Learning / Resources",
+    "description_zh": "Java后端工程师进阶知识整理，涵盖高并发、分布式、微服务等核心领域"
+  },
+  "dromara/Sa-Token": {
+    "category": "Networking / Security",
+    "description_zh": "一站式Java权限认证框架支持登录鉴权与单点登录"
+  },
+  "dromara/forest": {
+    "category": "Dev Tools",
+    "description_zh": "Java声明式HTTP客户端框架，简化Java中的HTTP请求发送"
+  },
+  "dromara/hmily": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "dromara/mayfly-go": {
+    "category": "DevOps / Cloud",
+    "description_zh": "基于Web的服务器数据库Redis等统一管理和运维平台"
+  },
+  "dubboclub/dubbokeeper": {
+    "category": "DevOps / Cloud",
+    "description_zh": ""
+  },
+  "dyc87112/SpringBoot-Learning": {
+    "category": "Learning / Resources",
+    "description_zh": "Spring Boot基础教程与实战示例"
+  },
+  "dzhng/deep-research": {
+    "category": "AI / Agents",
+    "description_zh": "AI驱动的深度研究助手，结合搜索引擎网页抓取和LLM进行迭代式深度研究"
+  },
+  "e1399579/autojs": {
+    "category": "Dev Tools",
+    "description_zh": "Auto.js自动化脚本，实现支付宝和京东签到功能"
+  },
+  "easychen/opc-methodology": {
+    "category": "Other",
+    "description_zh": "一人企业方法论第二版，适合自媒体电商数字商品等非技术人群"
+  },
+  "easychen/wecomchan": {
+    "category": "Dev Tools",
+    "description_zh": "微信推送服务Server酱的开源替代，通过企业微信向微信推送消息"
+  },
+  "ehang-io/nps": {
+    "category": "Networking / Security",
+    "description_zh": "轻量级高性能内网穿透代理服务器，支持多种协议转发和Web管理端"
+  },
+  "eip-work/kuboard-press": {
+    "category": "DevOps / Cloud",
+    "description_zh": "基于Kubernetes的微服务管理界面，附带中文教程和安装手册"
+  },
+  "element-hq/element-web": {
+    "category": "Other",
+    "description_zh": "基于Matrix协议的Web端协作客户端"
+  },
+  "emqx/MQTTX": {
+    "category": "Networking / Security",
+    "description_zh": "功能强大的MQTT 5.0客户端工具箱，支持桌面CLI和WebSocket"
+  },
+  "eosphoros-ai/Awesome-Text2SQL": {
+    "category": "AI / NL2SQL",
+    "description_zh": "Text2SQL及相关技术的教程与资源精选集合"
+  },
+  "eosphoros-ai/DB-GPT": {
+    "category": "AI / Agents",
+    "description_zh": "开源的Agentic AI数据助手，面向下一代AI与数据产品"
+  },
+  "eosphoros-ai/DB-GPT-Hub": {
+    "category": "AI / NL2SQL",
+    "description_zh": "包含DB-GPT的模型、数据集和微调技术，用于提升Text-to-SQL性能"
+  },
+  "esbatmop/MNBVC": {
+    "category": "Learning / Resources",
+    "description_zh": "超大规模中文语料集，包含新闻小说书籍论文等多种形式的纯文本中文数据"
+  },
+  "espressif/vscode-esp-idf-extension": {
+    "category": "Dev Tools",
+    "description_zh": "ESP-IDF项目的Visual Studio Code扩展插件"
+  },
+  "eugenp/tutorials": {
+    "category": "Learning / Resources",
+    "description_zh": ""
+  },
+  "ewen0930/IntelliJ-IDEA-Chinese": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "f/prompts.chat": {
+    "category": "Learning / Resources",
+    "description_zh": "社区共享的ChatGPT提示词收藏与发现平台"
+  },
+  "f2e-journey/treasure": {
+    "category": "Learning / Resources",
+    "description_zh": "前端开发者的百宝箱，收集实用工具和资源"
+  },
+  "fatedier/frp": {
+    "category": "Networking / Security",
+    "description_zh": "快速内网穿透反向代理工具，支持NAT和防火墙后的服务暴露"
+  },
+  "fengdu78/Coursera-ML-AndrewNg-Notes": {
+    "category": "Learning / Resources",
+    "description_zh": "吴恩达机器学习课程的个人学习笔记与资源整理"
+  },
+  "fengdu78/deeplearning_ai_books": {
+    "category": "Learning / Resources",
+    "description_zh": "吴恩达深度学习课程的笔记与学习资源整理"
+  },
+  "feyninc/chonkie": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "轻量级文档摄取库，为RAG流水线提供快速高效的文本分块和检索能力"
+  },
+  "fighting41love/funNLP": {
+    "category": "Learning / Resources",
+    "description_zh": "中文自然语言处理工具数据集与资源大全"
+  },
+  "firecrawl/firecrawl": {
+    "category": "Dev Tools",
+    "description_zh": "大规模搜索抓取和交互网页的上下文API，支持HTML转Markdown"
+  },
+  "fish2018/YPrompt": {
+    "category": "AI / LLM",
+    "description_zh": "通过对话挖掘需求自动生成专业提示词，支持优化对比版本管理和绘图改图"
+  },
+  "flowable/flowable-engine": {
+    "category": "Dev Tools",
+    "description_zh": "高效的工作流与业务流程管理平台，支持BPMN标准"
+  },
+  "forezp/SpringCloudLearning": {
+    "category": "Learning / Resources",
+    "description_zh": ""
+  },
+  "fuzhengwei/itstack-demo-design": {
+    "category": "Learning / Resources",
+    "description_zh": "重学Java设计模式实战书籍，包含22个真实业务场景的设计模式案例"
+  },
+  "geekcompany/ResumeSample": {
+    "category": "Learning / Resources",
+    "description_zh": "面向中国程序员的各类技术岗位简历模板集合"
+  },
+  "geekxh/hello-algorithm": {
+    "category": "Learning / Resources",
+    "description_zh": "面向初学者的算法训练资源，包含大厂面经、力扣图解和开源电子书"
+  },
+  "gemgin/WeChatTools": {
+    "category": "Dev Tools",
+    "description_zh": "微信域名检测、小程序状态检测及域名备案查询等工具集合"
+  },
+  "ggml-org/llama.cpp": {
+    "category": "AI / LLM Serving",
+    "description_zh": "用C/C++实现的大语言模型推理引擎"
+  },
+  "ggml-org/whisper.cpp": {
+    "category": "AI / LLM Serving",
+    "description_zh": "OpenAI Whisper模型的C/C++移植版本"
+  },
+  "google/guava": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "gravitl/netmaker": {
+    "category": "Networking / Security",
+    "description_zh": "基于WireGuard的自动化虚拟网络工具，支持零信任和安全远程访问"
+  },
+  "growgraph/ontocast": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "基于智能体的本体辅助语义三元组抽取框架，用于知识图谱构建"
+  },
+  "guidance-ai/guidance": {
+    "category": "AI / LLM",
+    "description_zh": "用于控制大语言模型输出的指导语言框架"
+  },
+  "halo-dev/halo": {
+    "category": "Other",
+    "description_zh": "开源建站工具，支持个人博客知识库企业官网等多种场景"
+  },
+  "hambuger/Andrew": {
+    "category": "Other",
+    "description_zh": "以电影《变人记》中Andrew为目标的个人项目"
+  },
+  "hankcs/HanLP": {
+    "category": "AI / LLM",
+    "description_zh": "中文自然语言处理工具包，支持分词、命名实体识别、句法分析等"
+  },
+  "hankinghu/literature-books": {
+    "category": "Learning / Resources",
+    "description_zh": "文学书籍TXT文本合集"
+  },
+  "happyapplehorse/agere": {
+    "category": "AI / Agents",
+    "description_zh": "用于构建和驱动AI工作流与智能体的工具"
+  },
+  "harness/harness": {
+    "category": "DevOps / Cloud",
+    "description_zh": "端到端开发者平台，包含源码管理、CI/CD流水线、托管开发环境和制品仓库"
+  },
+  "hellowind777/helloagents": {
+    "category": "AI / Agents",
+    "description_zh": "自主高级智能伙伴，持续分析问题直到完成实现和验证"
+  },
+  "higress-group/higress": {
+    "category": "AI / LLM Serving",
+    "description_zh": "AI原生API网关，基于Envoy的云原生AI网关"
+  },
+  "hiyouga/LlamaFactory": {
+    "category": "AI / LLM",
+    "description_zh": "统一高效微调100多种LLM和VLM的工具"
+  },
+  "hollischuang/toBeTopJavaer": {
+    "category": "Learning / Resources",
+    "description_zh": "Java工程师进阶学习指南与知识体系"
+  },
+  "hq450/fancyss_history_package": {
+    "category": "Networking / Security",
+    "description_zh": "科学上网代理插件的离线安装包存储仓库"
+  },
+  "hs-web/hsweb-framework": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "huchenxucs/ChatDB": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "将数据库作为LLM符号记忆进行增强的研究项目"
+  },
+  "huggingface/nanotron": {
+    "category": "AI / LLM",
+    "description_zh": "极简的大语言模型3D并行训练框架"
+  },
+  "huggingface/transformers": {
+    "category": "AI / LLM",
+    "description_zh": "支持文本视觉音频等多模态模型的深度学习框架，涵盖训练与推理"
+  },
+  "hyungkwonko/chart-llm": {
+    "category": "Data / Visualization",
+    "description_zh": "使用LLM生成Vega-Lite图表数据集和自然语言描述的框架"
+  },
+  "idosal/git-mcp": {
+    "category": "AI / Agents",
+    "description_zh": "面向任何GitHub项目的远程MCP服务器，消除代码幻觉问题"
+  },
+  "ikarus23/MifareClassicTool": {
+    "category": "Embedded / Hardware",
+    "description_zh": "用于读取、写入和分析MIFARE Classic RFID标签的Android NFC应用"
+  },
+  "index-tts/index-tts": {
+    "category": "AI / LLM",
+    "description_zh": "工业级可控高效零样本文本转语音系统，支持跨语言和声音克隆"
+  },
+  "infiniflow/ragflow": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "领先的开源RAG引擎，融合前沿RAG与智能体能力为LLM创建上下文层"
+  },
+  "intellism/vscode-comment-translate": {
+    "category": "Dev Tools",
+    "description_zh": "翻译代码注释和字符串的VS Code扩展插件"
+  },
+  "ityouknow/spring-boot-examples": {
+    "category": "Learning / Resources",
+    "description_zh": ""
+  },
+  "jaaack-wang/ccnc": {
+    "category": "Learning / Resources",
+    "description_zh": "大型中文姓名语料库，包含365万姓名语例"
+  },
+  "jaywcjlove/reference": {
+    "category": "Learning / Resources",
+    "description_zh": "面向开发者的技术速查清单集合，涵盖多种技术与工具"
+  },
+  "jbarrez/spring-boot-with-activiti-example": {
+    "category": "Learning / Resources",
+    "description_zh": ""
+  },
+  "jeecgboot/JeecgBoot": {
+    "category": "Dev Tools",
+    "description_zh": "企业级AI低代码平台，支持一键生成前后端代码，内置AI聊天、知识库、流程编排等功能"
+  },
+  "jeinlee1991/chinese-llm-benchmark": {
+    "category": "Learning / Resources",
+    "description_zh": "中文AI大模型能力评测排行榜，涵盖374个大模型和超200万缺陷库"
+  },
+  "jingyaogong/minimind": {
+    "category": "AI / LLM",
+    "description_zh": "2小时从零训练64M参数小模型LLM的教程项目"
+  },
+  "juanfont/headscale": {
+    "category": "Networking / Security",
+    "description_zh": "开源自托管的Tailscale控制服务器实现，支持WireGuard"
+  },
+  "judasn/IntelliJ-IDEA-Tutorial": {
+    "category": "Learning / Resources",
+    "description_zh": ""
+  },
+  "jumpserver/jumpserver": {
+    "category": "Networking / Security",
+    "description_zh": "开源堡垒机平台，提供SSH、RDP、Kubernetes等终端的安全访问管理"
+  },
+  "justplus/llm-eval": {
+    "category": "Dev Tools",
+    "description_zh": "大语言模型评估平台，支持多种评估基准自定义数据集和RAG评估"
+  },
+  "kaikramer/keystore-explorer": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "kakuilan/china_area_mysql": {
+    "category": "Other",
+    "description_zh": "中国五级行政区域MySQL数据库"
+  },
+  "kebijuelun/Awesome-LLM-Learning": {
+    "category": "Learning / Resources",
+    "description_zh": "大语言模型学习资源集合，涵盖LLM相关知识"
+  },
+  "kingkongshot/Pensieve": {
+    "category": "AI / Agents",
+    "description_zh": "存储决策和原则的工具，Claude读取后做出更好的选择"
+  },
+  "kmahyyg/ztncui-aio": {
+    "category": "Networking / Security",
+    "description_zh": "自托管ZeroTier虚拟网络解决方案，支持SD-WAN功能"
+  },
+  "komako-workshop/digital-oracle": {
+    "category": "Other",
+    "description_zh": "暂无描述信息的项目仓库"
+  },
+  "koolshare/ledesoft": {
+    "category": "Embedded / Hardware",
+    "description_zh": "酷软路由器固件相关项目，基于OpenWrt的嵌入式系统开发"
+  },
+  "krahets/hello-algo": {
+    "category": "Learning / Resources",
+    "description_zh": "动画图解数据结构与算法教程，支持多种编程语言实现，提供简中繁中等多语言版本"
+  },
+  "labring/FastGPT": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "基于大语言模型的知识库平台，支持RAG检索与AI工作流"
+  },
+  "labring/sealos": {
+    "category": "DevOps / Cloud",
+    "description_zh": "基于Kubernetes的AI驱动项目部署与运维平台"
+  },
+  "langchain-ai/langchain": {
+    "category": "AI / Agents",
+    "description_zh": "用于构建AI Agent的开源工程平台与框架，支持多模型与多Agent协作"
+  },
+  "langchain-ai/langgraph": {
+    "category": "AI / Agents",
+    "description_zh": "构建弹性智能体的框架，支持多智能体协作"
+  },
+  "langchain-ai/open-swe": {
+    "category": "AI / Agents",
+    "description_zh": "开源异步编码智能体框架，用于内部代码开发自动化"
+  },
+  "langflow-ai/langflow": {
+    "category": "AI / Agents",
+    "description_zh": "用于构建和部署AI智能体与工作流的可视化工具"
+  },
+  "langgenius/dify": {
+    "category": "AI / Agents",
+    "description_zh": "支持智能体工作流和RAG管道的AI应用开发平台"
+  },
+  "langroid/langroid": {
+    "category": "AI / Agents",
+    "description_zh": "多智能体编程框架，支持LLM驱动的信息检索和RAG应用"
+  },
+  "leeehui/a-practical-guide-to-tpm2-book-cn": {
+    "category": "Learning / Resources",
+    "description_zh": "TPM2实用指南的中文阅读笔记"
+  },
+  "leigest519/ScreenCoder": {
+    "category": "Dev Tools",
+    "description_zh": "将任意UI截图转换为干净可编辑的HTML和CSS代码的工具"
+  },
+  "lencx/nofwl": {
+    "category": "Dev Tools",
+    "description_zh": "基于Tauri框架的跨平台桌面应用程序"
+  },
+  "lepisma/matplotllm": {
+    "category": "Data / Visualization",
+    "description_zh": "LLM辅助的数据可视化系统，基于Matplotlib实现"
+  },
+  "liguodongiot/llm-action": {
+    "category": "Learning / Resources",
+    "description_zh": "分享大模型技术原理和实战经验的项目，涵盖工程化和应用落地"
+  },
+  "lihengming/spring-boot-api-project-seed": {
+    "category": "Dev Tools",
+    "description_zh": "基于Spring Boot和MyBatis的种子项目，用于快速构建RESTful API"
+  },
+  "linlinjava/litemall": {
+    "category": "Learning / Resources",
+    "description_zh": "基于Spring Boot和Vue的小商城完整项目示例，含小程序端"
+  },
+  "linshenkx/prompt-optimizer": {
+    "category": "AI / LLM",
+    "description_zh": "AI提示词优化工具，帮助编写更好的提示词获得更好的AI结果"
+  },
+  "linyqh/NarratoAI": {
+    "category": "Other",
+    "description_zh": "利用AI大模型一键解说并剪辑视频的工具"
+  },
+  "littlecodersh/ItChat": {
+    "category": "AI / Agents",
+    "description_zh": "微信个人号接口封装，支持微信机器人及命令行微信操作"
+  },
+  "liyifeng1994/ssm": {
+    "category": "Learning / Resources",
+    "description_zh": "手把手教你整合SSM框架（SpringMVC + Spring + MyBatis）的教程项目"
+  },
+  "liyown/marknative": {
+    "category": "Dev Tools",
+    "description_zh": "无需浏览器和DOM的Markdown渲染引擎，可生成分页PNG和SVG输出"
+  },
+  "lizhe2004/Awesome-LLM-RAG-Application": {
+    "category": "Learning / Resources",
+    "description_zh": "基于LLM和RAG模式的应用资源集合"
+  },
+  "lm-sys/FastChat": {
+    "category": "AI / LLM",
+    "description_zh": "大语言模型训练服务与评估的开放平台"
+  },
+  "lpg-it/BaiduYunVIP": {
+    "category": "Other",
+    "description_zh": "百度网盘超级会员账号及不限速下载工具分享"
+  },
+  "luban-agi/Awesome-AIGC-Tutorials": {
+    "category": "Learning / Resources",
+    "description_zh": "整理大语言模型、AI绘画等领域的教程与学习资源"
+  },
+  "luxiaok/DNSmasqWeb": {
+    "category": "Networking / Security",
+    "description_zh": "基于DNSmasq的DNS解析与DHCP地址分配管理系统"
+  },
+  "mack-a/v2ray-agent": {
+    "category": "Networking / Security",
+    "description_zh": "支持多种代理协议的一键安装脚本工具"
+  },
+  "major/MySQLTuner-perl": {
+    "category": "DevOps / Cloud",
+    "description_zh": "MySQL配置优化脚本，分析当前配置并提供性能提升建议"
+  },
+  "marimo-team/marimo": {
+    "category": "Dev Tools",
+    "description_zh": "Python响应式笔记本，支持可复现实验SQL查询脚本执行和Git版本控制"
+  },
+  "memodb-io/memobase": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "基于用户画像的AI聊天机器人长期记忆系统，支持检索增强"
+  },
+  "mermaid-js/mermaid": {
+    "category": "Data / Visualization",
+    "description_zh": "从文本生成流程图时序图等图表的可视化工具，类似Markdown语法"
+  },
+  "michaelroland/mfoc-android": {
+    "category": "Networking / Security",
+    "description_zh": ""
+  },
+  "microsoft/AI-For-Beginners": {
+    "category": "Learning / Resources",
+    "description_zh": "微软12周24课AI入门教程，涵盖计算机视觉深度学习和NLP"
+  },
+  "microsoft/AI-System": {
+    "category": "Learning / Resources",
+    "description_zh": "微软AI教育资源系统，提供AI学习材料"
+  },
+  "microsoft/OmniParser": {
+    "category": "AI / Agents",
+    "description_zh": "面向纯视觉GUI智能体的屏幕解析工具"
+  },
+  "microsoft/PIKE-RAG": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "专业知识和推理增强生成框架，面向工业AI领域应用"
+  },
+  "microsoft/PromptWizard": {
+    "category": "AI / Agents",
+    "description_zh": "任务感知的智能体驱动提示词优化框架"
+  },
+  "microsoft/TaskWeaver": {
+    "category": "AI / Agents",
+    "description_zh": "首个代码优先的智能体框架，用于规划和执行数据分析任务"
+  },
+  "microsoft/UFO": {
+    "category": "AI / Agents",
+    "description_zh": "数字智能体星系框架，支持Windows GUI自动化和智能体协作"
+  },
+  "microsoft/ai-agents-for-beginners": {
+    "category": "Learning / Resources",
+    "description_zh": "微软出品的18课AI智能体入门教程，涵盖智能体框架和构建实践"
+  },
+  "microsoft/autogen": {
+    "category": "AI / Agents",
+    "description_zh": "用于构建多智能体AI应用的编程框架"
+  },
+  "microsoft/data-formulator": {
+    "category": "Data / Visualization",
+    "description_zh": "AI驱动的数据分析系统，支持数据连接探索和可视化"
+  },
+  "microsoft/generative-ai-for-beginners": {
+    "category": "Learning / Resources",
+    "description_zh": "微软21课生成式AI入门教程，涵盖ChatGPT DALL-E和Prompt工程"
+  },
+  "microsoft/graphrag": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "模块化基于图的检索增强生成系统，支持知识图谱RAG"
+  },
+  "microsoft/markitdown": {
+    "category": "Dev Tools",
+    "description_zh": "将文件和Office文档转换为Markdown格式的Python工具"
+  },
+  "microsoft/promptflow": {
+    "category": "Dev Tools",
+    "description_zh": "从原型到生产部署的LLM应用开发工具"
+  },
+  "mikeroyal/Self-Hosting-Guide": {
+    "category": "Learning / Resources",
+    "description_zh": "自托管指南，涵盖本地部署管理云LLM WireGuard自动化等主题"
+  },
+  "mit-han-lab/streaming-llm": {
+    "category": "AI / LLM Serving",
+    "description_zh": "基于注意力机制的高效流式语言模型"
+  },
+  "mljar/mercury": {
+    "category": "Data / Visualization",
+    "description_zh": "将Jupyter笔记本转换为可分享Web应用的工具，无需前端重写"
+  },
+  "mljar/plotai": {
+    "category": "Data / Visualization",
+    "description_zh": "使用ChatGPT在Python脚本或笔记本中直接创建Matplotlib图表的助手"
+  },
+  "modelscope/FunASR": {
+    "category": "AI / LLM",
+    "description_zh": "开源语音识别工具包，支持训练推理流式ASR VAD标点说话人分离等"
+  },
+  "modelscope/FunClip": {
+    "category": "Other",
+    "description_zh": "基于FunASR的视频转写字幕生成和LLM辅助剪辑工具，提供本地Gradio界面"
+  },
+  "modelscope/modelscope-classroom": {
+    "category": "Learning / Resources",
+    "description_zh": "ModelScope课堂教程资源"
+  },
+  "modelscope/ms-agent": {
+    "category": "AI / Agents",
+    "description_zh": "轻量级智能体框架，支持复杂任务的自主执行与深度研究"
+  },
+  "modelscope/ms-swift": {
+    "category": "AI / LLM",
+    "description_zh": "支持600多种LLM和300多种多模态大模型的微调框架，支持PEFT和全参数训练"
+  },
+  "modood/Administrative-divisions-of-China": {
+    "category": "Learning / Resources",
+    "description_zh": "中国省市区镇村五级行政区划数据集合"
+  },
+  "mozilla/pdf.js": {
+    "category": "Dev Tools",
+    "description_zh": "基于JavaScript的PDF文档渲染与阅读库"
+  },
+  "mshumer/gpt-llm-trainer": {
+    "category": "AI / LLM",
+    "description_zh": "用于训练GPT和大型语言模型的Jupyter Notebook工具"
+  },
+  "msitarzewski/agency-agents": {
+    "category": "AI / Agents",
+    "description_zh": "包含多种专业化AI代理的完整AI代理机构，每个代理具有独特人格和交付能力"
+  },
+  "mudler/LocalAI": {
+    "category": "AI / LLM Serving",
+    "description_zh": "开源AI引擎，支持在任意硬件上运行LLM视觉语音图像视频模型，无需GPU"
+  },
+  "myhhub/KnowledgeGraph": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "从零开始构建知识图谱的教程和工具，支持实体识别和关系抽取"
+  },
+  "myhhub/stock": {
+    "category": "Quant / Finance",
+    "description_zh": "股票数据获取指标计算筹码分布形态识别选股策略回测和自动交易工具"
+  },
+  "mymusise/ChatGLM-Tuning": {
+    "category": "AI / LLM",
+    "description_zh": "基于ChatGLM-6B和LoRA技术的模型微调方案"
+  },
+  "mzlogin/awesome-adb": {
+    "category": "Learning / Resources",
+    "description_zh": "ADB用法大全，涵盖Android调试桥的各种使用场景和命令"
+  },
+  "nanbingxyz/5ire": {
+    "category": "AI / Agents",
+    "description_zh": "跨平台桌面AI助手和MCP客户端，支持本地知识库和多种模型服务"
+  },
+  "neo4j-labs/llm-graph-builder": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "使用LLM从非结构化数据构建Neo4j图数据库的工具"
+  },
+  "netbirdio/netbird": {
+    "category": "Networking / Security",
+    "description_zh": "基于WireGuard的安全覆盖网络，支持SSO MFA和细粒度访问控制"
+  },
+  "netbootxyz/netboot.xyz": {
+    "category": "DevOps / Cloud",
+    "description_zh": "基于iPXE的网络启动操作系统安装器，支持多种操作系统裸机部署"
+  },
+  "nfc-tools/mfoc": {
+    "category": "Networking / Security",
+    "description_zh": ""
+  },
+  "nillith/UniPinyin": {
+    "category": "Dev Tools",
+    "description_zh": "Java汉语拼音查询工具，支持CJK基本字符集及扩充区汉字"
+  },
+  "nodemcu/nodemcu-firmware": {
+    "category": "Embedded / Hardware",
+    "description_zh": "面向ESP8266和ESP32的Lua交互式固件"
+  },
+  "novicezk/midjourney-proxy": {
+    "category": "Dev Tools",
+    "description_zh": "代理MidJourney的Discord频道，实现API形式调用AI绘图"
+  },
+  "nyanp/chat2plot": {
+    "category": "Data / Visualization",
+    "description_zh": "通过对话与LLM交互生成数据可视化图表的工具"
+  },
+  "ocsjs/ocsjs": {
+    "category": "Other",
+    "description_zh": "网课刷课助手，支持超星学习通、智慧树等平台的自动化脚本"
+  },
+  "ofdrw/ofdrw": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "open-webui/open-webui": {
+    "category": "AI / LLM Serving",
+    "description_zh": "用户友好的AI界面，支持Ollama和OpenAI API等多种模型后端"
+  },
+  "openai/codex": {
+    "category": "AI / Agents",
+    "description_zh": "OpenAI推出的轻量级终端编码智能体，支持命令行编程辅助"
+  },
+  "openai/openai-realtime-agents": {
+    "category": "AI / Agents",
+    "description_zh": "基于Realtime API的高级智能体模式演示项目"
+  },
+  "opendatalab/LabelLLM": {
+    "category": "Dev Tools",
+    "description_zh": "开源数据标注平台，支持LLM相关数据标注任务"
+  },
+  "opendatalab/MinerU": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "将PDF和Office文档转换为LLM就绪的Markdown和JSON格式的工具"
+  },
+  "opendatalab/labelU": {
+    "category": "Dev Tools",
+    "description_zh": "开源多模态数据标注平台，支持AI自动标注"
+  },
+  "opendatalab/labelU-Kit": {
+    "category": "Dev Tools",
+    "description_zh": "数据标注组件库，以NPM包形式提供"
+  },
+  "opengoofy/hippo4j": {
+    "category": "Dev Tools",
+    "description_zh": "支持动态变更监控报警的异步线程池框架，无需修改代码即可引入"
+  },
+  "openimsdk/open-im-server": {
+    "category": "Dev Tools",
+    "description_zh": "开源即时通讯服务器，支持聊天消息推送和群组功能"
+  },
+  "ownthink/Jiagu": {
+    "category": "AI / LLM",
+    "description_zh": "深度学习自然语言处理工具，支持知识图谱关系抽取、中文分词、命名实体识别等"
+  },
+  "ownthink/KnowledgeGraphData": {
+    "category": "Learning / Resources",
+    "description_zh": "史上最大规模1.4亿中文知识图谱开源数据集"
+  },
+  "pab1it0/awesome-a2a": {
+    "category": "Learning / Resources",
+    "description_zh": "Agent2Agent协议的awesome列表，收集A2A代理工具服务器和客户端"
+  },
+  "pcingola/a2a_min": {
+    "category": "AI / Agents",
+    "description_zh": "A2A协议的极简实现"
+  },
+  "peng-zhihui/HoloCubic": {
+    "category": "Embedded / Hardware",
+    "description_zh": "带网络功能的伪全息透明显示桌面站硬件项目"
+  },
+  "pentaho/pentaho-kettle": {
+    "category": "Dev Tools",
+    "description_zh": "Pentaho数据集成ETL工具，用于数据抽取转换和加载"
+  },
+  "phodal/auto-dev": {
+    "category": "AI / Agents",
+    "description_zh": "AI原生多智能体开发平台，覆盖SDLC全部7个阶段"
+  },
+  "phodal/chapi": {
+    "category": "Dev Tools",
+    "description_zh": "通用层次抽象解析器，将不同编程语言源代码转换为统一抽象模型"
+  },
+  "pingcap/autoflow": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "基于GraphRAG的对话式知识库工具，使用TiDB Serverless向量存储"
+  },
+  "pqpo/SmartCropper": {
+    "category": "Dev Tools",
+    "description_zh": "智能图片裁剪库，自动识别边框并通过透视变换矫正裁剪区域"
+  },
+  "princeton-nlp/tree-of-thought-llm": {
+    "category": "AI / LLM",
+    "description_zh": "思维树方法，让大语言模型进行深思熟虑的问题求解"
+  },
+  "proxysu/ProxySU": {
+    "category": "Networking / Security",
+    "description_zh": "支持多种代理协议的一键安装工具，适用于Windows系统"
+  },
+  "punkpeye/awesome-mcp-servers": {
+    "category": "Learning / Resources",
+    "description_zh": "MCP服务器的awesome列表集合"
+  },
+  "pyecharts/pyecharts": {
+    "category": "Data / Visualization",
+    "description_zh": "Python Echarts绘图库，支持丰富的交互式图表可视化"
+  },
+  "qiurunze123/miaosha": {
+    "category": "Learning / Resources",
+    "description_zh": "秒杀系统设计与实现教程，互联网工程师进阶学习资料"
+  },
+  "rasbt/LLMs-from-scratch": {
+    "category": "Learning / Resources",
+    "description_zh": "从零开始在PyTorch中逐步实现ChatGPT类大语言模型的教程"
+  },
+  "reading-plus-ai/mcp-server-data-exploration": {
+    "category": "AI / Agents",
+    "description_zh": "用于数据探索的MCP服务器"
+  },
+  "redisson/redisson": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "rememberber/WePush": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "reworkd/AgentGPT": {
+    "category": "AI / Agents",
+    "description_zh": "在浏览器中组装配置和部署自主AI智能体"
+  },
+  "rhasspy/piper": {
+    "category": "AI / LLM",
+    "description_zh": "快速本地神经网络文本转语音系统"
+  },
+  "rootphantomer/Blasting_dictionary": {
+    "category": "Networking / Security",
+    "description_zh": "用于暴力破解的密码字典集合"
+  },
+  "ruanyf/weekly": {
+    "category": "Learning / Resources",
+    "description_zh": "阮一峰科技爱好者周刊，每周五发布技术资讯"
+  },
+  "run-llama/llama_index": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "领先的文档智能体和OCR平台，支持RAG向量数据库和多智能体应用"
+  },
+  "sameersbn/docker-bind": {
+    "category": "DevOps / Cloud",
+    "description_zh": "使用Docker容器化部署BIND DNS服务器"
+  },
+  "sanbuphy/learn-coding-agent": {
+    "category": "AI / Agents",
+    "description_zh": "关于编码智能体的研究项目"
+  },
+  "seanlook/pydbsync": {
+    "category": "DevOps / Cloud",
+    "description_zh": "基于Maxwell和RabbitMQ的Python数据同步工具，将数据同步到MySQL"
+  },
+  "sherlockchou86/VideoPipe": {
+    "category": "Other",
+    "description_zh": "基于CV模型和多模态大语言模型的视频分析框架"
+  },
+  "shibing624/pycorrector": {
+    "category": "AI / LLM",
+    "description_zh": "文本纠错工具包，支持Kenlm T5 MacBERT ChatGLM3 Qwen2.5等模型"
+  },
+  "shibing624/text2vec": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "文本向量表征工具，支持Word2Vec和Sentence-BERT等模型"
+  },
+  "shuzheng/zheng": {
+    "category": "Dev Tools",
+    "description_zh": "基于Spring的分布式微服务开发架构，提供权限管理、支付等公共模块"
+  },
+  "shyiko/mysql-binlog-connector-java": {
+    "category": "Dev Tools",
+    "description_zh": "MySQL二进制日志连接器，用于解析和消费binlog"
+  },
+  "sinaptik-ai/pandas-ai": {
+    "category": "AI / NL2SQL",
+    "description_zh": "通过自然语言与数据库或数据湖对话进行数据分析的工具，支持SQL CSV Parquet"
+  },
+  "siteboon/claudecodeui": {
+    "category": "Dev Tools",
+    "description_zh": "Claude Code的Web和移动端GUI界面，支持远程管理Claude Code会话和项目"
+  },
+  "songquanpeng/one-api": {
+    "category": "AI / LLM Serving",
+    "description_zh": "LLM API管理与分发系统，统一适配多种模型提供商"
+  },
+  "speaches-ai/speaches": {
+    "category": "AI / LLM Serving",
+    "description_zh": "基于Faster Whisper的转录服务，提供OpenAI兼容API"
+  },
+  "spring-projects/spring-boot": {
+    "category": "Dev Tools",
+    "description_zh": ""
+  },
+  "stair-lab/kg-gen": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "从任意文本生成知识图谱的NeurIPS论文方法实现"
+  },
+  "substratusai/stapi": {
+    "category": "AI / LLM Serving",
+    "description_zh": "Sentence Transformers的OpenAI兼容嵌入API服务器"
+  },
+  "supabase-community/database-build": {
+    "category": "Dev Tools",
+    "description_zh": "浏览器内Postgres沙箱，支持AI辅助的数据库操作"
+  },
+  "tech-shrimp/docker_installer": {
+    "category": "DevOps / Cloud",
+    "description_zh": "Docker官方安装包，解决国内网络无法安装Docker的问题"
+  },
+  "terryso/claude-code-playwright-mcp-test": {
+    "category": "Dev Tools",
+    "description_zh": "基于YAML的Playwright MCP自动化测试框架，专为Claude Code设计"
+  },
+  "themanojdesai/python-a2a": {
+    "category": "AI / Agents",
+    "description_zh": "实现Google A2A协议的Python库，支持AI代理间无缝通信和协作"
+  },
+  "thunlp/MatPlotAgent": {
+    "category": "AI / Agents",
+    "description_zh": "基于LLM的Matplotlib绘图智能体"
+  },
+  "tingxueronghua/ChartLlama-code": {
+    "category": "Data / Visualization",
+    "description_zh": "ChartLlama图表理解与生成相关代码实现"
+  },
+  "titanwings/colleague-skill": {
+    "category": "AI / Agents",
+    "description_zh": "将离别的记忆转化为温暖技能的数字生命项目"
+  },
+  "tmoonlight/NSmartProxy": {
+    "category": "Networking / Security",
+    "description_zh": "基于.NET Core的开源内网穿透工具"
+  },
+  "tradecatlabs/vibe-coding-cn": {
+    "category": "Learning / Resources",
+    "description_zh": "Vibe Coding从入门到精通教程，涵盖AI结对编程工作流和Prompt Skill实战指南"
+  },
+  "ty4z2008/Qix": {
+    "category": "Learning / Resources",
+    "description_zh": "机器学习、深度学习、分布式系统、PostgreSQL等技术领域的资源合集"
+  },
+  "ufologist/puer-mock": {
+    "category": "Dev Tools",
+    "description_zh": "基于Puer和Mock.js的可配置Mock服务器，支持随机数据生成"
+  },
+  "ultraworkers/claw-code": {
+    "category": "AI / Agents",
+    "description_zh": "由AI代理自主构建和维护的Rust博物馆展览项目，无人工干预"
+  },
+  "ultraworkers/claw-code-parity": {
+    "category": "AI / Agents",
+    "description_zh": "claw-code的Rust移植并行工作，用于仓库迁移期间的临时开发"
+  },
+  "unifreq/openwrt_packit": {
+    "category": "Embedded / Hardware",
+    "description_zh": "面向OpenWrt路由器的固件打包源码工具"
+  },
+  "unit-mesh/unit-gen": {
+    "category": "Dev Tools",
+    "description_zh": "从现有代码库生成微调数据的框架，支持代码补全测试生成和文档生成"
+  },
+  "v5tech/cas-server-webapp": {
+    "category": "Networking / Security",
+    "description_zh": ""
+  },
+  "v5tech/oltu-oauth2-example": {
+    "category": "Networking / Security",
+    "description_zh": "基于Apache Oltu搭建OAuth2授权服务器与客户端示例"
+  },
+  "vaxilu/x-ui": {
+    "category": "Networking / Security",
+    "description_zh": "支持多协议多用户的Xray代理管理面板"
+  },
+  "veip007/dd": {
+    "category": "DevOps / Cloud",
+    "description_zh": "Linux系统一键重装DD脚本，支持快速部署和系统重装"
+  },
+  "vipstone/faceai": {
+    "category": "AI / LLM",
+    "description_zh": "入门级人脸视频文字检测与识别项目"
+  },
+  "vllm-project/guidellm": {
+    "category": "AI / LLM Serving",
+    "description_zh": "用于评估和优化LLM部署的工具，帮助满足真实推理需求"
+  },
+  "vllm-project/vllm": {
+    "category": "AI / LLM Serving",
+    "description_zh": "高吞吐内存高效的LLM推理和服务引擎，支持多种硬件和模型"
+  },
+  "vllm-project/vllm-ascend": {
+    "category": "AI / LLM Serving",
+    "description_zh": "vLLM在昇腾硬件上的社区维护插件，支持昇腾推理加速"
+  },
+  "vufa/deepin-wine-wechat-arch": {
+    "category": "Other",
+    "description_zh": "在Arch Linux上通过Deepin Wine运行腾讯微信的兼容方案"
+  },
+  "w2016561536/android_virtual_cam": {
+    "category": "Embedded / Hardware",
+    "description_zh": "基于Xposed框架的安卓虚拟摄像头模块，通过hook实现虚拟摄像头功能"
+  },
+  "wdndev/llm_interview_note": {
+    "category": "Learning / Resources",
+    "description_zh": "大语言模型算法和应用工程师相关知识及面试题整理"
+  },
+  "wechaty/wechaty": {
+    "category": "AI / Agents",
+    "description_zh": "跨平台聊天机器人开发框架，支持微信、QQ、WhatsApp等多种聊天平台"
+  },
+  "wildfirechat/im-server": {
+    "category": "Other",
+    "description_zh": "即时通讯系统，支持IM和VoIP功能"
+  },
+  "wquguru/harness-books": {
+    "category": "Learning / Resources",
+    "description_zh": "两本关于harness工程设计的书籍，涵盖Claude Code和Codex的设计哲学与多智能体验证"
+  },
+  "wulabing/Xray_onekey": {
+    "category": "Networking / Security",
+    "description_zh": ""
+  },
+  "x1xhlol/system-prompts-and-models-of-ai-tools": {
+    "category": "Learning / Resources",
+    "description_zh": "收集各类AI工具的系统提示词内部工具和AI模型信息"
+  },
+  "xai-org/grok-1": {
+    "category": "AI / LLM",
+    "description_zh": "xAI公司开源的Grok大语言模型"
+  },
+  "xiaomingzhid/sskd": {
+    "category": "AI / LLM",
+    "description_zh": "半监督知识蒸馏方法的研究实现"
+  },
+  "xiaoyunjie/openvpn-cms-flask": {
+    "category": "Networking / Security",
+    "description_zh": "基于OpenVPN的Web管理系统，前后端分离设计"
+  },
+  "xlang-ai/OpenAgents": {
+    "category": "AI / Agents",
+    "description_zh": "面向真实场景的语言智能体开放平台，支持工具学习和语义解析"
+  },
+  "xorbitsai/inference": {
+    "category": "AI / LLM Serving",
+    "description_zh": "统一推理API，支持在云端本地或笔记本上运行开源语音和多模态模型"
+  },
+  "xubiaolin/docker-zerotier-planet": {
+    "category": "Networking / Security",
+    "description_zh": "使用Docker快速私有部署ZeroTier Planet服务"
+  },
+  "xusenlinzy/api-for-open-llm": {
+    "category": "AI / LLM Serving",
+    "description_zh": "为开源大模型提供OpenAI风格统一API接口，支持多种模型"
+  },
+  "y0ngb1n/dockerized": {
+    "category": "DevOps / Cloud",
+    "description_zh": "基于Docker和Docker Compose的容器化应用部署配置集合"
+  },
+  "yahoo/open_nsfw": {
+    "category": "Other",
+    "description_zh": "使用深度神经网络Caffe模型进行NSFW内容分类"
+  },
+  "yanzhenjie/AndServer": {
+    "category": "Dev Tools",
+    "description_zh": "Android平台的Web服务器与Web框架"
+  },
+  "yaphone/itchat4j": {
+    "category": "AI / Agents",
+    "description_zh": "用Java扩展个人微信号能力的微信机器人框架"
+  },
+  "yechens/NL2SQL": {
+    "category": "AI / NL2SQL",
+    "description_zh": "Text2SQL语义解析的数据集、解决方案与论文资源整合项目"
+  },
+  "yinxin630/fiora": {
+    "category": "Other",
+    "description_zh": "基于Node.js和React的开源聊天室应用"
+  },
+  "yizt/cv-papers": {
+    "category": "Learning / Resources",
+    "description_zh": "计算机视觉论文整理合集，涵盖图像分类、目标检测、人脸识别等领域"
+  },
+  "yutiansut/QUANTAXIS": {
+    "category": "Quant / Finance",
+    "description_zh": "支持任务调度和分布式部署的股票期货期权数据回测模拟交易可视化量化解决方案"
+  },
+  "zai-org/ChatGLM-6B": {
+    "category": "AI / LLM",
+    "description_zh": "开源双语对话语言模型，支持中英文自然语言交互与生成"
+  },
+  "zai-org/ChatGLM2-6B": {
+    "category": "AI / LLM",
+    "description_zh": "开源双语对话大语言模型，支持中英文自然语言交互与问答"
+  },
+  "zai-org/ChatGLM3": {
+    "category": "AI / LLM",
+    "description_zh": "智谱AI开源的双语对话大语言模型系列"
+  },
+  "zai-org/CodeGeeX": {
+    "category": "AI / LLM",
+    "description_zh": "开源多语言代码生成模型，支持多种编程语言的代码补全与生成"
+  },
+  "zfl9/ss-tproxy": {
+    "category": "Networking / Security",
+    "description_zh": "支持Shadowsocks、V2Ray、Trojan等多种协议的透明代理配置脚本"
+  },
+  "zgwl/chinese-buy-us-stock-guide": {
+    "category": "Learning / Resources",
+    "description_zh": "面向中文用户的美股投资指南"
+  },
+  "zhayujie/CowAgent": {
+    "category": "AI / Agents",
+    "description_zh": "开源超级AI助手和智能体框架，支持多模型多渠道和记忆知识自进化"
+  },
+  "zilliztech/deep-searcher": {
+    "category": "AI / RAG & Knowledge",
+    "description_zh": "开源深度研究工具，在私有数据上进行推理和搜索，替代商业深度研究服务"
+  },
+  "zu1k/tg-keyword-reply-bot": {
+    "category": "Other",
+    "description_zh": ""
+  }
 }
