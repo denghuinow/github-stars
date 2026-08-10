@@ -127,14 +127,37 @@ def rule_classify(repo):
     return "Other"
 
 
-def repo_for_ai(repo):
-    return {
+def normalize_ai_cache(raw):
+    """Accept both legacy name->category strings and the new structured cache."""
+    out = {}
+    if not isinstance(raw, dict):
+        return out
+    for name, value in raw.items():
+        if isinstance(value, str):
+            if value in VALID_CATEGORIES:
+                out[name] = {"category": value, "description_zh": ""}
+        elif isinstance(value, dict):
+            category = value.get("category")
+            description_zh = (value.get("description_zh") or "").strip()
+            if category in VALID_CATEGORIES:
+                out[name] = {
+                    "category": category,
+                    "description_zh": description_zh,
+                }
+    return out
+
+
+def repo_for_ai(repo, category_hint=""):
+    item = {
         "full_name": repo.get("full_name"),
         "description": repo.get("description") or "",
         "language": repo.get("language") or "",
         "topics": repo.get("topics") or [],
         "homepage": repo.get("homepage") or "",
     }
+    if category_hint in VALID_CATEGORIES:
+        item["existing_category"] = category_hint
+    return item
 
 
 def extract_json_object(text):
@@ -152,13 +175,16 @@ def extract_json_object(text):
     return json.loads(text[start:end + 1])
 
 
-def ai_classify_once(repos):
+def ai_analyze_once(repos, category_hints):
     categories = "\n".join(f"- {c}" for c in CATEGORY_ORDER)
     system = (
-        "You classify GitHub repositories for a personal technical bookmark library. "
-        "Choose exactly one category for every repository. Classify by the repository's PRIMARY PURPOSE, not incidental keywords. "
+        "You organize GitHub repositories for a Chinese personal technical bookmark library. "
+        "For EVERY supplied repository, return exactly one allowed category and one concise Simplified Chinese description. "
+        "Classify by PRIMARY PURPOSE, not incidental keywords. If existing_category is supplied, preserve it unless it is clearly invalid. "
+        "The Chinese description must explain what the project is/does in natural Chinese, preferably 15-45 Chinese characters, "
+        "without marketing fluff, emojis, markdown, or a trailing period. "
         "You MUST include every supplied full_name exactly once. "
-        "Return ONLY a JSON object mapping full_name to one allowed category, with no markdown or commentary."
+        "Return ONLY a JSON object. Each value must be an object with keys category and description_zh."
     )
     user = (
         f"Allowed categories:\n{categories}\n\n"
@@ -176,8 +202,10 @@ def ai_classify_once(repos):
         "Networking / Security = networking, proxy/VPN, security, pentest, firewall/browser automation.\n"
         "Learning / Resources = tutorials, awesome lists, books, courses, datasets/reference collections.\n"
         "Other = none of the above.\n\n"
-        f"Classify all {len(repos)} repositories below in one response:\n"
-        f"{json.dumps([repo_for_ai(r) for r in repos], ensure_ascii=False, separators=(',', ':'))}"
+        "Required output shape example:\n"
+        '{"owner/repo":{"category":"Dev Tools","description_zh":"面向开发者的代码分析与自动化工具"}}\n\n'
+        f"Analyze all {len(repos)} repositories below in one response:\n"
+        f"{json.dumps([repo_for_ai(r, category_hints.get(r['full_name'], '')) for r in repos], ensure_ascii=False, separators=(',', ':'))}"
     )
     payload = {
         "model": AI_MODEL,
@@ -201,75 +229,102 @@ def ai_classify_once(repos):
     parsed = extract_json_object(content)
     out = {}
     expected = {r["full_name"] for r in repos}
-    for name, category in parsed.items():
-        if name in expected and category in VALID_CATEGORIES:
-            out[name] = category
+    for name, value in parsed.items():
+        if name not in expected or not isinstance(value, dict):
+            continue
+        category = value.get("category")
+        description_zh = (value.get("description_zh") or "").strip()
+        if category in VALID_CATEGORIES and description_zh:
+            out[name] = {
+                "category": category,
+                "description_zh": description_zh,
+            }
     return out
 
 
-def ai_classify_resilient(repos, depth=0):
+def ai_analyze_resilient(repos, category_hints, depth=0):
     """Prefer one paid request; retry only missing items, split only after a hard failure."""
     if not repos:
         return {}
 
     indent = "  " * depth
     try:
-        print(f"{indent}AI request: {len(repos)} repositories")
-        classified = ai_classify_once(repos)
-        missing = [r for r in repos if r["full_name"] not in classified]
-        print(f"{indent}AI returned {len(classified)}/{len(repos)} valid classifications")
+        print(f"{indent}AI request: {len(repos)} repositories (category + Chinese description)")
+        analyzed = ai_analyze_once(repos, category_hints)
+        missing = [r for r in repos if r["full_name"] not in analyzed]
+        print(f"{indent}AI returned {len(analyzed)}/{len(repos)} valid results")
 
         if not missing:
-            return classified
+            return analyzed
 
         if depth >= AI_MAX_SPLIT_DEPTH:
-            print(f"{indent}{len(missing)} repositories still missing; rule fallback will be used")
-            return classified
+            print(f"{indent}{len(missing)} repositories still missing; local fallback will be used")
+            return analyzed
 
         print(f"{indent}Retrying only {len(missing)} missing repositories")
-        classified.update(ai_classify_resilient(missing, depth + 1))
-        return classified
+        analyzed.update(ai_analyze_resilient(missing, category_hints, depth + 1))
+        return analyzed
 
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, KeyError, ValueError, json.JSONDecodeError) as exc:
         print(f"{indent}AI request failed: {exc}")
         if len(repos) <= 1 or depth >= AI_MAX_SPLIT_DEPTH:
-            print(f"{indent}Rule fallback will be used for these repositories")
+            print(f"{indent}Local fallback will be used for these repositories")
             return {}
 
-        # Only split after the preferred all-in-one request actually fails.
         midpoint = len(repos) // 2
         left, right = repos[:midpoint], repos[midpoint:]
         print(f"{indent}Splitting failed request into {len(left)} + {len(right)} repositories")
-        out = ai_classify_resilient(left, depth + 1)
-        out.update(ai_classify_resilient(right, depth + 1))
+        out = ai_analyze_resilient(left, category_hints, depth + 1)
+        out.update(ai_analyze_resilient(right, category_hints, depth + 1))
         return out
 
 
-def build_categories(repos, overrides):
-    cache = load_json(AI_CACHE_FILE, {})
-    cache = {k: v for k, v in cache.items() if v in VALID_CATEGORIES}
+def build_metadata(repos, overrides):
+    cache = normalize_ai_cache(load_json(AI_CACHE_FILE, {}))
     override_categories = overrides.get("categories", {})
+
+    category_hints = {}
+    for repo in repos:
+        name = repo["full_name"]
+        if override_categories.get(name) in VALID_CATEGORIES:
+            category_hints[name] = override_categories[name]
+        elif name in cache:
+            category_hints[name] = cache[name]["category"]
+        else:
+            category_hints[name] = rule_classify(repo)
+
+    # AI is required not only for new repos, but also once for legacy cached repos
+    # that already have a category but do not yet have a Chinese description.
     need_ai = [
         r for r in repos
-        if r["full_name"] not in override_categories and r["full_name"] not in cache
+        if r["full_name"] not in cache or not cache[r["full_name"]].get("description_zh")
     ]
 
     ai_ok = bool(AI_API_KEY and AI_MODEL and AI_BASE_URL)
     if ai_ok and need_ai:
         print(
-            f"AI classification: {len(need_ai)} uncached repositories using {AI_MODEL}. "
-            "Trying all uncached repositories in ONE request."
+            f"AI enrichment: {len(need_ai)} repositories using {AI_MODEL}. "
+            "Trying all missing metadata in ONE request."
         )
-        classified = ai_classify_resilient(need_ai)
-        cache.update(classified)
-        print(f"AI classification complete: {len(classified)}/{len(need_ai)} newly cached")
+        analyzed = ai_analyze_resilient(need_ai, category_hints)
+        for name, value in analyzed.items():
+            # Manual category remains authoritative; only the Chinese description is taken from AI.
+            category = override_categories.get(name)
+            if category not in VALID_CATEGORIES:
+                category = value["category"]
+            cache[name] = {
+                "category": category,
+                "description_zh": value["description_zh"],
+            }
+        print(f"AI enrichment complete: {len(analyzed)}/{len(need_ai)} newly enriched")
     elif need_ai:
         print(
-            "AI is not configured; using keyword rules as fallback. "
-            "Set AI_API_KEY to enable semantic classification."
+            "AI is not configured; category rules and original descriptions will be used as fallback. "
+            "Set AI_API_KEY to enable semantic classification and Chinese descriptions."
         )
 
     categories = {}
+    descriptions_zh = {}
     sources = {}
     for repo in repos:
         name = repo["full_name"]
@@ -277,11 +332,16 @@ def build_categories(repos, overrides):
             categories[name] = override_categories[name]
             sources[name] = "override"
         elif name in cache:
-            categories[name] = cache[name]
+            categories[name] = cache[name]["category"]
             sources[name] = "ai"
         else:
             categories[name] = rule_classify(repo)
             sources[name] = "rule"
+
+        if name in cache and cache[name].get("description_zh"):
+            descriptions_zh[name] = cache[name]["description_zh"]
+        else:
+            descriptions_zh[name] = repo.get("description") or "-"
 
     if ai_ok:
         DATA_DIR.mkdir(exist_ok=True)
@@ -289,7 +349,7 @@ def build_categories(repos, overrides):
             json.dumps(dict(sorted(cache.items())), ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
-    return categories, sources
+    return categories, descriptions_zh, sources
 
 
 def status(repo, now):
@@ -313,26 +373,28 @@ def esc(s):
     return (s or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
-def render_table(repos, now, sources):
+def render_table(repos, now, sources, descriptions_zh):
     lines = [
-        "| Repository | Description | Lang | Stars | Classifier | Status | Last push |",
-        "|---|---|---:|---:|---|---|---|",
+        "| Repository | 中文描述 | Original description | Lang | Stars | Classifier | Status | Last push |",
+        "|---|---|---|---:|---:|---|---|---|",
     ]
     for r in sorted(
         repos,
         key=lambda x: (x.get("stargazers_count", 0), x["full_name"]),
         reverse=True,
     ):
+        name = r["full_name"]
         pushed = (r.get("pushed_at") or "")[:10] or "-"
+        desc_zh = esc(descriptions_zh.get(name)) or "-"
         desc = esc(r.get("description")) or "-"
         lang = esc(r.get("language")) or "-"
         source = {
             "ai": "🤖 AI",
             "override": "📌 Manual",
             "rule": "⚙️ Rule",
-        }.get(sources.get(r["full_name"]), "-")
+        }.get(sources.get(name), "-")
         lines.append(
-            f"| [{r['full_name']}]({r['html_url']}) | {desc} | {lang} | "
+            f"| [{name}]({r['html_url']}) | {desc_zh} | {desc} | {lang} | "
             f"{r.get('stargazers_count', 0):,} | {source} | {status(r, now)} | {pushed} |"
         )
     return "\n".join(lines)
@@ -346,7 +408,7 @@ def main():
     DATA_DIR.mkdir(exist_ok=True)
     CATEGORIES_DIR.mkdir(exist_ok=True)
 
-    categories, sources = build_categories(repos, overrides)
+    categories, descriptions_zh, sources = build_metadata(repos, overrides)
     grouped = defaultdict(list)
     for repo in repos:
         grouped[categories[repo["full_name"]]].append(repo)
@@ -358,6 +420,7 @@ def main():
             "full_name": name,
             "html_url": r.get("html_url"),
             "description": r.get("description"),
+            "description_zh": descriptions_zh.get(name),
             "language": r.get("language"),
             "stargazers_count": r.get("stargazers_count"),
             "forks_count": r.get("forks_count"),
@@ -380,7 +443,7 @@ def main():
         if items:
             body = (
                 f"# {cat}\n\n共 **{len(items)}** 个收藏。\n\n"
-                f"{render_table(items, now, sources)}\n"
+                f"{render_table(items, now, sources, descriptions_zh)}\n"
             )
             (CATEGORIES_DIR / f"{SLUGS[cat]}.md").write_text(body, encoding="utf-8")
 
@@ -395,6 +458,7 @@ def main():
     ai_count = sum(1 for s in sources.values() if s == "ai")
     rule_count = sum(1 for s in sources.values() if s == "rule")
     manual_count = sum(1 for s in sources.values() if s == "override")
+    zh_count = sum(1 for d in descriptions_zh.values() if d and d != "-")
     updated = now.strftime("%Y-%m-%d %H:%M UTC")
 
     readme = [
@@ -403,7 +467,7 @@ def main():
         f"自动整理 [@{USER}](https://github.com/{USER}) 的 GitHub Star 收藏。",
         "",
         f"**总计 {len(repos)} 个项目** · 🤖 AI {ai_count} · 📌 Manual {manual_count} · ⚙️ Rule {rule_count}",
-        f"🔥 Active {active} · ⚠️ Stale {stale} · 📦 Archived {archived}",
+        f"中文描述 {zh_count}/{len(repos)} · 🔥 Active {active} · ⚠️ Stale {stale} · 📦 Archived {archived}",
         "",
         f"最后同步：`{updated}`",
         "",
@@ -419,13 +483,17 @@ def main():
             )
     readme += [
         "",
+        "## AI 元数据",
+        "",
+        "AI 会同时生成项目分类和简体中文一句话描述。结果保存在 `data/ai_categories.json`，分类页同时保留 GitHub 原始 description 便于核对。",
+        "",
+        "旧版仅包含分类的缓存会自动迁移；缺少中文描述的旧项目会在下一次运行时一次性补齐。",
+        "",
         "## 分类优先级",
         "",
-        "`overrides.json` 人工指定 > AI 缓存分类 > 关键词规则兜底。",
+        "`overrides.json` 人工指定 > AI 缓存分类 > 关键词规则兜底。人工分类不会被 AI 覆盖。",
         "",
-        "AI 分类结果保存在 `data/ai_categories.json`。已有项目不会每天重复调用 AI；新增 Star 才需要新的 AI 分类。",
-        "",
-        "首次或存在多个未缓存项目时，会优先把全部未缓存项目合并为一次 AI 请求；仅在请求失败或结果缺失时才对失败部分重试/拆分。",
+        "首次或存在多个未缓存/未翻译项目时，会优先合并为一次 AI 请求；仅在请求失败或结果缺失时才对失败部分重试/拆分。",
         "",
         "## 状态说明",
         "",
