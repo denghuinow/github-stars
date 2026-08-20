@@ -979,6 +979,10 @@
     "category": "AI / Agents",
     "description_zh": "自主高级智能伙伴，持续分析问题直到完成实现和验证"
   },
+  "herdrdev/herdr": {
+    "category": "AI / Agents",
+    "description_zh": "为编码智能体提供运行时的终端多路复用器和工作区管理工具"
+  },
   "higress-group/higress": {
     "category": "AI / LLM Serving",
     "description_zh": "AI原生API网关，基于Envoy的云原生AI网关"
