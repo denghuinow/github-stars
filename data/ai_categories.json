@@ -1631,6 +1631,10 @@
     "category": "AI / Agents",
     "description_zh": "将离别的记忆转化为温暖技能的数字生命项目"
   },
+  "titanwings/distilly": {
+    "category": "AI / Agents",
+    "description_zh": "将思维过程提炼为可复用的技能，供各类 AI Agent 或 Bot 使用"
+  },
   "tmoonlight/NSmartProxy": {
     "category": "Networking / Security",
     "description_zh": "基于.NET Core的开源内网穿透工具"
