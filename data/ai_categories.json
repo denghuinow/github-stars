@@ -1595,6 +1595,10 @@
     "category": "Dev Tools",
     "description_zh": "Spring Boot 框架，用于快速构建生产级 Spring 应用与服务"
   },
+  "stablyai/orca": {
+    "category": "AI / Agents",
+    "description_zh": "用于管理并行代理车队的开发环境，支持运行各类编码代理，提供桌面、移动及 VPS 版本"
+  },
   "stair-lab/kg-gen": {
     "category": "AI / RAG & Knowledge",
     "description_zh": "从任意文本生成知识图谱的NeurIPS论文方法实现"
