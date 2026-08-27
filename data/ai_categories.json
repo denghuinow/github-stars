@@ -447,6 +447,10 @@
     "category": "Data / Visualization",
     "description_zh": "基于LLM的智能数据可视化系统，支持自动和智能图表生成"
   },
+  "Waishnav/devspace": {
+    "category": "AI / Agents",
+    "description_zh": "将 ChatGPT 或 Claude Web 转变为类似 Codex 或 Claude Code 的编程代理"
+  },
   "Wan-Video/Wan2.2": {
     "category": "AI / LLM",
     "description_zh": "开放先进的视频生成大模型，支持高质量视频内容生成"
@@ -1502,6 +1506,10 @@
   "pyecharts/pyecharts": {
     "category": "Data / Visualization",
     "description_zh": "Python Echarts绘图库，支持丰富的交互式图表可视化"
+  },
+  "qdhenry/Claude-Command-Suite": {
+    "category": "AI / Agents",
+    "description_zh": "为 Claude Code 提供专业斜杠命令，支持代码审查、功能开发、安全审计等结构化工作流"
   },
   "qiurunze123/miaosha": {
     "category": "Learning / Resources",
