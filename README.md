@@ -2,10 +2,10 @@
 
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
-**总计 459 个项目** · 🤖 AI 453 · 📌 Manual 6 · ⚙️ Rule 0
-中文描述 459/459 · 🔥 Active 207 · ⚠️ Stale 47 · 📦 Archived 17
+**总计 460 个项目** · 🤖 AI 454 · 📌 Manual 6 · ⚙️ Rule 0
+中文描述 460/460 · 🔥 Active 208 · ⚠️ Stale 47 · 📦 Archived 17
 
-最后同步：`2026-08-29 09:07 UTC`
+最后同步：`2026-08-30 08:22 UTC`
 
 ## 分类
 
@@ -16,7 +16,7 @@
 | AI / LLM Serving | 大模型推理、部署、加速与服务框架 | 25 | [查看](categories/ai-llm-serving.md) |
 | AI / RAG & Knowledge | RAG、知识库、向量检索与 GraphRAG | 25 | [查看](categories/ai-rag-knowledge.md) |
 | AI / NL2SQL | 自然语言转 SQL 与智能数据查询 | 7 | [查看](categories/ai-nl2sql.md) |
-| Quant / Finance | 量化交易、行情、投资组合与金融分析 | 6 | [查看](categories/quant-finance.md) |
+| Quant / Finance | 量化交易、行情、投资组合与金融分析 | 7 | [查看](categories/quant-finance.md) |
 | Data / Visualization | 数据分析、图表、BI 与可视化工具 | 12 | [查看](categories/data-visualization.md) |
 | Dev Tools | IDE、CLI、调试、代码分析与开发效率工具 | 82 | [查看](categories/dev-tools.md) |
 | DevOps / Cloud | 容器、云原生、基础设施与运维自动化 | 21 | [查看](categories/devops-cloud.md) |

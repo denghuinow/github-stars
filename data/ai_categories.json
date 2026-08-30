@@ -231,6 +231,10 @@
     "category": "Dev Tools",
     "description_zh": "基于Canvas的手写签名与绘图组件，支持PC和移动端及横屏显示"
   },
+  "Lumiwealth/lumibot": {
+    "category": "Quant / Finance",
+    "description_zh": "支持回测的AI交易代理与Python算法交易策略框架，覆盖股票、期权、加密货币等多资产类别"
+  },
   "MeowLove/Network-Reinstall-System-Modify": {
     "category": "DevOps / Cloud",
     "description_zh": "通过网络远程重装多种操作系统的Shell脚本"
