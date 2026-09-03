@@ -5,9 +5,9 @@
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
 | [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) | 面向ESP8266和ESP32的Lua交互式固件 | 7,944 | 🤖 AI | 🔥 Active | 2026-06-07 |
-| [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) | 带网络功能的伪全息透明显示桌面站硬件项目 | 6,710 | 🤖 AI | 🕰️ Stable | 2023-10-29 |
-| [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) | 用于读取、写入和分析MIFARE Classic RFID标签的Android NFC应用 | 6,333 | 🤖 AI | 🔥 Active | 2026-06-21 |
-| [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) | 基于Xposed框架的安卓虚拟摄像头模块，通过hook实现虚拟摄像头功能 | 2,049 | 🤖 AI | 🕰️ Stable | 2024-06-14 |
+| [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) | 带网络功能的伪全息透明显示桌面站硬件项目 | 6,711 | 🤖 AI | 🕰️ Stable | 2023-10-29 |
+| [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) | 用于读取、写入和分析MIFARE Classic RFID标签的Android NFC应用 | 6,337 | 🤖 AI | 🔥 Active | 2026-06-21 |
+| [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) | 基于Xposed框架的安卓虚拟摄像头模块，通过hook实现虚拟摄像头功能 | 2,050 | 🤖 AI | 🕰️ Stable | 2024-06-14 |
 | [unifreq/openwrt_packit](https://github.com/unifreq/openwrt_packit) | 面向OpenWrt路由器的固件打包源码工具 | 1,683 | 🤖 AI | 🔥 Active | 2026-09-01 |
 | [koolshare/ledesoft](https://github.com/koolshare/ledesoft) | 酷软路由器固件相关项目，基于OpenWrt的嵌入式系统开发 | 1,333 | 🤖 AI | ✅ Maintained | 2025-10-24 |
 | [Netflixxp/N1HK1dabao](https://github.com/Netflixxp/N1HK1dabao) | 自动打包N1和HK1电视盒子固件的Shell脚本 | 333 | 🤖 AI | 🕰️ Stable | 2023-10-25 |
