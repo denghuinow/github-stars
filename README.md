@@ -2,16 +2,16 @@
 
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
-**总计 462 个项目** · 🤖 AI 453 · 📌 Manual 6 · ⚙️ Rule 3
-中文描述 462/462 · 🔥 Active 212 · ⚠️ Stale 47 · 📦 Archived 17
+**总计 465 个项目** · 🤖 AI 453 · 📌 Manual 6 · ⚙️ Rule 6
+中文描述 465/465 · 🔥 Active 215 · ⚠️ Stale 47 · 📦 Archived 17
 
-最后同步：`2026-09-03 07:13 UTC`
+最后同步：`2026-09-04 07:16 UTC`
 
 ## 分类
 
 | Category | 中文说明 | Count | Index |
 |---|---|---:|---|
-| AI / Agents | 智能体、编码助手、MCP 与工具调用生态 | 78 | [查看](categories/ai-agents.md) |
+| AI / Agents | 智能体、编码助手、MCP 与工具调用生态 | 81 | [查看](categories/ai-agents.md) |
 | AI / LLM | 大语言模型、训练微调、NLP 与语音相关项目 | 42 | [查看](categories/ai-llm.md) |
 | AI / LLM Serving | 大模型推理、部署、加速与服务框架 | 25 | [查看](categories/ai-llm-serving.md) |
 | AI / RAG & Knowledge | RAG、知识库、向量检索与 GraphRAG | 25 | [查看](categories/ai-rag-knowledge.md) |
