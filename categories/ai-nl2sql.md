@@ -4,8 +4,8 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | AI驱动的数据库工具与SQL客户端，支持多种数据库 | 28,074 | 🤖 AI | 🔥 Active | 2026-09-03 |
-| [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | 通过自然语言与数据库或数据湖对话进行数据分析的工具，支持SQL CSV Parquet | 23,789 | 🤖 AI | ✅ Maintained | 2025-10-28 |
+| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | AI驱动的数据库工具与SQL客户端，支持多种数据库 | 28,078 | 🤖 AI | 🔥 Active | 2026-09-03 |
+| [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | 通过自然语言与数据库或数据湖对话进行数据分析的工具，支持SQL CSV Parquet | 23,788 | 🤖 AI | ✅ Maintained | 2025-10-28 |
 | [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) | 将自然语言问题转换为SQL查询的大语言模型 | 4,045 | 🤖 AI | 🕰️ Stable | 2024-05-23 |
 | [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) | Text2SQL及相关技术的教程与资源精选集合 | 3,750 | 🤖 AI | ✅ Maintained | 2026-01-26 |
 | [eosphoros-ai/DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) | 包含DB-GPT的模型、数据集和微调技术，用于提升Text-to-SQL性能 | 2,012 | 🤖 AI | 🕰️ Stable | 2025-07-02 |
