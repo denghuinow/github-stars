@@ -4,29 +4,29 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [fatedier/frp](https://github.com/fatedier/frp) | 快速内网穿透反向代理工具，支持NAT和防火墙后的服务暴露 | 109,333 | 🤖 AI | 🔥 Active | 2026-09-09 |
-| [juanfont/headscale](https://github.com/juanfont/headscale) | 开源自托管的Tailscale控制服务器实现，支持WireGuard | 43,744 | 🤖 AI | 🔥 Active | 2026-09-10 |
-| [ehang-io/nps](https://github.com/ehang-io/nps) | 轻量级高性能内网穿透代理服务器，支持多种协议转发和Web管理端 | 34,217 | 🤖 AI | 🕰️ Stable | 2024-05-30 |
-| [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | 开源堡垒机平台，提供SSH、RDP、Kubernetes等终端的安全访问管理 | 31,520 | 🤖 AI | 🔥 Active | 2026-09-11 |
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 基于WireGuard的安全覆盖网络，支持SSO MFA和细粒度访问控制 | 29,109 | 🤖 AI | 🔥 Active | 2026-09-11 |
-| [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 测试Cloudflare CDN延迟和速度，获取最优IP地址的工具 | 28,997 | 🤖 AI | 🔥 Active | 2026-08-23 |
-| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 支持多种代理协议的一键安装脚本工具 | 21,839 | 🤖 AI | 🔥 Active | 2026-09-09 |
-| [vaxilu/x-ui](https://github.com/vaxilu/x-ui) | 支持多协议多用户的Xray代理管理面板 | 19,078 | 🤖 AI | 🕰️ Stable | 2024-08-19 |
-| [dromara/Sa-Token](https://github.com/dromara/Sa-Token) | 一站式Java权限认证框架支持登录鉴权与单点登录 | 19,041 | 🤖 AI | 🔥 Active | 2026-09-11 |
-| [KaringX/karing](https://github.com/KaringX/karing) | 简单强大的代理工具，支持clash和sing-box路由规则 | 14,817 | 🤖 AI | 🔥 Active | 2026-09-10 |
-| [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 简单去中心化的Mesh VPN，支持WireGuard协议和NAT穿透 | 13,590 | 🤖 AI | 🔥 Active | 2026-09-10 |
-| [gravitl/netmaker](https://github.com/gravitl/netmaker) | 基于WireGuard的自动化虚拟网络工具，支持零信任和安全远程访问 | 11,779 | 🤖 AI | 🔥 Active | 2026-09-11 |
+| [fatedier/frp](https://github.com/fatedier/frp) | 快速内网穿透反向代理工具，支持NAT和防火墙后的服务暴露 | 109,354 | 🤖 AI | 🔥 Active | 2026-09-09 |
+| [juanfont/headscale](https://github.com/juanfont/headscale) | 开源自托管的Tailscale控制服务器实现，支持WireGuard | 43,773 | 🤖 AI | 🔥 Active | 2026-09-10 |
+| [ehang-io/nps](https://github.com/ehang-io/nps) | 轻量级高性能内网穿透代理服务器，支持多种协议转发和Web管理端 | 34,216 | 🤖 AI | 🕰️ Stable | 2024-05-30 |
+| [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | 开源堡垒机平台，提供SSH、RDP、Kubernetes等终端的安全访问管理 | 31,523 | 🤖 AI | 🔥 Active | 2026-09-11 |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 基于WireGuard的安全覆盖网络，支持SSO MFA和细粒度访问控制 | 29,139 | 🤖 AI | 🔥 Active | 2026-09-12 |
+| [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 测试Cloudflare CDN延迟和速度，获取最优IP地址的工具 | 29,005 | 🤖 AI | 🔥 Active | 2026-08-23 |
+| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 支持多种代理协议的一键安装脚本工具 | 21,842 | 🤖 AI | 🔥 Active | 2026-09-09 |
+| [vaxilu/x-ui](https://github.com/vaxilu/x-ui) | 支持多协议多用户的Xray代理管理面板 | 19,077 | 🤖 AI | 🕰️ Stable | 2024-08-19 |
+| [dromara/Sa-Token](https://github.com/dromara/Sa-Token) | 一站式Java权限认证框架支持登录鉴权与单点登录 | 19,040 | 🤖 AI | 🔥 Active | 2026-09-12 |
+| [KaringX/karing](https://github.com/KaringX/karing) | 简单强大的代理工具，支持clash和sing-box路由规则 | 14,834 | 🤖 AI | 🔥 Active | 2026-09-10 |
+| [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 简单去中心化的Mesh VPN，支持WireGuard协议和NAT穿透 | 13,609 | 🤖 AI | 🔥 Active | 2026-09-12 |
+| [gravitl/netmaker](https://github.com/gravitl/netmaker) | 基于WireGuard的自动化虚拟网络工具，支持零信任和安全远程访问 | 11,780 | 🤖 AI | 🔥 Active | 2026-09-11 |
 | [hq450/fancyss_history_package](https://github.com/hq450/fancyss_history_package) | 科学上网代理插件的离线安装包存储仓库 | 11,003 | 🤖 AI | ✅ Maintained | 2026-05-20 |
 | [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) | 纯Java实现的WebSocket客户端和服务端库 | 10,806 | 🤖 AI | ✅ Maintained | 2026-01-13 |
 | [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) | 基于Nginx的Xray VLESS+XTLS代理一键安装脚本 | 9,254 | 🤖 AI | 🔥 Active | 2026-08-15 |
-| [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) | 为Android设备提供反向网络共享的工具 | 7,897 | 🤖 AI | 🕰️ Stable | 2024-08-11 |
+| [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) | 为Android设备提供反向网络共享的工具 | 7,899 | 🤖 AI | 🕰️ Stable | 2024-08-11 |
 | [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray) | v2ray和xray多用户管理部署程序，支持多种协议 | 6,967 | 🤖 AI | 🕰️ Stable | 2024-02-24 |
-| [proxysu/ProxySU](https://github.com/proxysu/ProxySU) | 支持多种代理协议的一键安装工具，适用于Windows系统 | 5,705 | 🤖 AI | 🔥 Active | 2026-08-12 |
-| [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) | 用于暴力破解的密码字典集合 | 5,289 | 🤖 AI | ⚠️ Stale | 2022-03-21 |
-| [emqx/MQTTX](https://github.com/emqx/MQTTX) | 功能强大的MQTT 5.0客户端工具箱，支持桌面CLI和WebSocket | 5,049 | 🤖 AI | 🔥 Active | 2026-08-17 |
+| [proxysu/ProxySU](https://github.com/proxysu/ProxySU) | 支持多种代理协议的一键安装工具，适用于Windows系统 | 5,706 | 🤖 AI | 🔥 Active | 2026-08-12 |
+| [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) | 用于暴力破解的密码字典集合 | 5,290 | 🤖 AI | ⚠️ Stale | 2022-03-21 |
+| [emqx/MQTTX](https://github.com/emqx/MQTTX) | 功能强大的MQTT 5.0客户端工具箱，支持桌面CLI和WebSocket | 5,051 | 🤖 AI | 🔥 Active | 2026-08-17 |
 | [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) | 使用Docker快速私有部署ZeroTier Planet服务 | 4,081 | 🤖 AI | 🔥 Active | 2026-08-11 |
-| [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) | 用于WiFi密码暴力破解的WPA和WPA2密码字典 | 3,820 | 🤖 AI | ⚠️ Stale | 2022-01-25 |
-| [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | OpenWrt路由器上的网络代理和科学上网插件 | 3,566 | 🤖 AI | 🔥 Active | 2026-09-10 |
+| [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) | 用于WiFi密码暴力破解的WPA和WPA2密码字典 | 3,823 | 🤖 AI | ⚠️ Stale | 2022-01-25 |
+| [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | OpenWrt路由器上的网络代理和科学上网插件 | 3,566 | 🤖 AI | 🔥 Active | 2026-09-11 |
 | [chrisk44/Hijacker](https://github.com/chrisk44/Hijacker) | Android平台无线安全工具GUI应用，集成Aircrack和Reaver等工具 | 2,546 | 🤖 AI | 📦 Archived | 2020-08-26 |
 | [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) | 支持Shadowsocks、V2Ray、Trojan等多种协议的透明代理配置脚本 | 2,392 | 🤖 AI | ✅ Maintained | 2026-01-15 |
 | [FunctionClub/V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) | 基于 V2ray 协议的网络代理工具开发项目 | 1,955 | 🤖 AI | 📦 Archived | 2022-12-26 |
