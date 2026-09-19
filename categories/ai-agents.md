@@ -4,73 +4,73 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 由AI代理自主构建和维护的Rust博物馆展览项目，无人工干预 | 195,266 | 🤖 AI | 🔥 Active | 2026-08-16 |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 自主AI智能体，可自动规划并执行复杂任务链 | 187,424 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [langgenius/dify](https://github.com/langgenius/dify) | 支持智能体工作流和RAG管道的AI应用开发平台 | 156,236 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 用于构建和部署AI智能体与工作流的可视化工具 | 154,960 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 包含多种专业化AI代理的完整AI代理机构，每个代理具有独特人格和交付能力 | 153,230 | 📌 Manual | 🔥 Active | 2026-09-12 |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 用于构建AI Agent的开源工程平台与框架，支持多模型与多Agent协作 | 146,574 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [openai/codex](https://github.com/openai/codex) | OpenAI推出的轻量级终端编码智能体，支持命令行编程辅助 | 125,009 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI驱动的开发平台，支持智能体自主完成软件开发任务 | 88,372 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [stablyai/orca](https://github.com/stablyai/orca) | 用于管理并行代理车队的开发环境，支持运行各类编码代理，提供桌面、移动及 VPS 版本 | 71,357 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 多智能体协作框架，实现自然语言编程与软件开发 | 70,484 | 🤖 AI | ✅ Maintained | 2026-01-21 |
-| [microsoft/autogen](https://github.com/microsoft/autogen) | 用于构建多智能体AI应用的编程框架 | 61,035 | 🤖 AI | ✅ Maintained | 2026-04-15 |
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 可视化构建AI智能体的低代码平台，支持多智能体系统和RAG | 55,466 | 🤖 AI | 📦 Archived | 2026-08-13 |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI生产力工作室，支持智能聊天自主智能体和300多个助手，统一访问前沿LLM | 51,944 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 终端中的AI结对编程工具，支持多种LLM模型进行代码编辑 | 49,036 | 🤖 AI | ✅ Maintained | 2026-05-22 |
-| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 开源超级AI助手和智能体框架，支持多模型多渠道和记忆知识自进化 | 47,024 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 增强版ChatGPT克隆，支持多模型切换与智能体功能 | 44,264 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 构建弹性智能体的框架，支持多智能体协作 | 41,866 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 为编码智能体提供运行时的终端多路复用器和工作区管理工具 | 39,316 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | 在浏览器中组装配置和部署自主AI智能体 | 36,295 | 🤖 AI | 📦 Archived | 2025-04-29 |
-| [continuedev/continue](https://github.com/continuedev/continue) | 开源编码智能体，辅助开发者编写代码 | 35,945 | 🤖 AI | 🔥 Active | 2026-09-16 |
-| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 基于大语言模型多智能体协作的软件开发平台 | 34,337 | 🤖 AI | 🔥 Active | 2026-07-24 |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 构建和运行可理解可信任的智能体框架，支持多模态和多智能体 | 31,906 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 开源AI编码智能体，运行在终端中，支持MCP协议和多种开发任务 | 27,940 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) | 微信个人号接口封装，支持微信机器人及命令行微信操作 | 26,467 | 🤖 AI | 🕰️ Stable | 2023-09-28 |
-| [a2aproject/A2A](https://github.com/a2aproject/A2A) | Agent2Agent开放协议，实现不透明智能体应用间的通信和互操作 | 25,830 | 🤖 AI | 🔥 Active | 2026-09-16 |
-| [microsoft/OmniParser](https://github.com/microsoft/OmniParser) | 面向纯视觉GUI智能体的屏幕解析工具 | 25,404 | 🤖 AI | 🔥 Active | 2026-07-20 |
-| [titanwings/distilly](https://github.com/titanwings/distilly) | 将思维过程提炼为可复用的技能，供各类 AI Agent 或 Bot 使用 | 24,840 | 🤖 AI | 🔥 Active | 2026-09-16 |
-| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 在代码编辑器中提供整个AI开发团队的多智能体编程工具 | 24,302 | 🤖 AI | 📦 Archived | 2026-05-15 |
-| [wechaty/wechaty](https://github.com/wechaty/wechaty) | 跨平台聊天机器人开发框架，支持微信、QQ、WhatsApp等多种聊天平台 | 23,274 | 🤖 AI | ✅ Maintained | 2025-12-21 |
-| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 开源企业级智能体平台，支持知识库RAG和MCP服务器 | 22,829 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | AI智能体开发平台，提供可视化工具简化智能体创建调试和部署 | 21,608 | 🤖 AI | 🔥 Active | 2026-07-29 |
-| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 开源的Agentic AI数据助手，面向下一代AI与数据产品 | 20,004 | 🤖 AI | 🔥 Active | 2026-09-16 |
-| [dzhng/deep-research](https://github.com/dzhng/deep-research) | AI驱动的深度研究助手，结合搜索引擎网页抓取和LLM进行迭代式深度研究 | 19,694 | 🤖 AI | ✅ Maintained | 2026-04-11 |
-| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 基于通义千问的智能体框架，支持函数调用、MCP、代码解释器和RAG | 17,106 | 🤖 AI | ✅ Maintained | 2026-03-04 |
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 智能体用户交互协议，将AI代理集成到前端应用程序中 | 15,939 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 关于编码智能体的研究项目 | 12,275 | 🤖 AI | ✅ Maintained | 2026-04-01 |
-| [dataelement/bisheng](https://github.com/dataelement/bisheng) | 企业级LLM开发运维平台，支持RAG智能体与工作流 | 11,977 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 开源异步编码智能体框架，用于内部代码开发自动化 | 10,734 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [microsoft/UFO](https://github.com/microsoft/UFO) | 数字智能体星系框架，支持Windows GUI自动化和智能体协作 | 9,755 | 🤖 AI | 🔥 Active | 2026-09-15 |
-| [idosal/git-mcp](https://github.com/idosal/git-mcp) | 面向任何GitHub项目的远程MCP服务器，消除代码幻觉问题 | 8,406 | 🤖 AI | ✅ Maintained | 2026-05-08 |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | Anthropic官方Claude智能体Python SDK开发工具包 | 8,126 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python中构建自主AI智能体的框架，支持MCP和计算机使用能力 | 7,957 | 🤖 AI | ✅ Maintained | 2026-06-18 |
-| [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) | 网页版微信API封装，提供终端版微信及微信机器人功能 | 7,403 | 🤖 AI | ⚠️ Stale | 2019-11-27 |
-| [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) | 基于Realtime API的高级智能体模式演示项目 | 6,985 | 🤖 AI | ✅ Maintained | 2026-01-07 |
-| [InternLM/MindSearch](https://github.com/InternLM/MindSearch) | 基于LLM的多智能体网络搜索引擎框架，类似Perplexity和SearchGPT | 6,928 | 🤖 AI | 🕰️ Stable | 2025-07-04 |
-| [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) | claw-code的Rust移植并行工作，用于仓库迁移期间的临时开发 | 6,638 | 🤖 AI | 📦 Archived | 2026-04-05 |
-| [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) | 首个代码优先的智能体框架，用于规划和执行数据分析任务 | 6,171 | 🤖 AI | 📦 Archived | 2026-03-23 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 由AI代理自主构建和维护的Rust博物馆展览项目，无人工干预 | 195,257 | 🤖 AI | 🔥 Active | 2026-08-16 |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 自主AI智能体，可自动规划并执行复杂任务链 | 187,443 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 支持智能体工作流和RAG管道的AI应用开发平台 | 156,395 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 用于构建和部署AI智能体与工作流的可视化工具 | 154,999 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 包含多种专业化AI代理的完整AI代理机构，每个代理具有独特人格和交付能力 | 153,433 | 📌 Manual | 🔥 Active | 2026-09-12 |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 用于构建AI Agent的开源工程平台与框架，支持多模型与多Agent协作 | 146,638 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [openai/codex](https://github.com/openai/codex) | OpenAI推出的轻量级终端编码智能体，支持命令行编程辅助 | 125,210 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI驱动的开发平台，支持智能体自主完成软件开发任务 | 88,471 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [stablyai/orca](https://github.com/stablyai/orca) | 用于管理并行代理车队的开发环境，支持运行各类编码代理，提供桌面、移动及 VPS 版本 | 72,143 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 多智能体协作框架，实现自然语言编程与软件开发 | 70,494 | 🤖 AI | ✅ Maintained | 2026-01-21 |
+| [microsoft/autogen](https://github.com/microsoft/autogen) | 用于构建多智能体AI应用的编程框架 | 61,057 | 🤖 AI | ✅ Maintained | 2026-04-15 |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 可视化构建AI智能体的低代码平台，支持多智能体系统和RAG | 55,468 | 🤖 AI | 📦 Archived | 2026-08-13 |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI生产力工作室，支持智能聊天自主智能体和300多个助手，统一访问前沿LLM | 51,982 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 终端中的AI结对编程工具，支持多种LLM模型进行代码编辑 | 49,047 | 🤖 AI | ✅ Maintained | 2026-05-22 |
+| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 开源超级AI助手和智能体框架，支持多模型多渠道和记忆知识自进化 | 47,035 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 增强版ChatGPT克隆，支持多模型切换与智能体功能 | 44,349 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 构建弹性智能体的框架，支持多智能体协作 | 41,918 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 为编码智能体提供运行时的终端多路复用器和工作区管理工具 | 39,496 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) | 在浏览器中组装配置和部署自主AI智能体 | 36,293 | 🤖 AI | 📦 Archived | 2025-04-29 |
+| [continuedev/continue](https://github.com/continuedev/continue) | 开源编码智能体，辅助开发者编写代码 | 35,953 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 基于大语言模型多智能体协作的软件开发平台 | 34,339 | 🤖 AI | 🔥 Active | 2026-07-24 |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 构建和运行可理解可信任的智能体框架，支持多模态和多智能体 | 31,954 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 开源AI编码智能体，运行在终端中，支持MCP协议和多种开发任务 | 27,976 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) | 微信个人号接口封装，支持微信机器人及命令行微信操作 | 26,465 | 🤖 AI | 🕰️ Stable | 2023-09-28 |
+| [a2aproject/A2A](https://github.com/a2aproject/A2A) | Agent2Agent开放协议，实现不透明智能体应用间的通信和互操作 | 25,845 | 🤖 AI | 🔥 Active | 2026-09-16 |
+| [microsoft/OmniParser](https://github.com/microsoft/OmniParser) | 面向纯视觉GUI智能体的屏幕解析工具 | 25,415 | 🤖 AI | 🔥 Active | 2026-07-20 |
+| [titanwings/distilly](https://github.com/titanwings/distilly) | 将思维过程提炼为可复用的技能，供各类 AI Agent 或 Bot 使用 | 24,873 | 🤖 AI | 🔥 Active | 2026-09-16 |
+| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 在代码编辑器中提供整个AI开发团队的多智能体编程工具 | 24,301 | 🤖 AI | 📦 Archived | 2026-05-15 |
+| [wechaty/wechaty](https://github.com/wechaty/wechaty) | 跨平台聊天机器人开发框架，支持微信、QQ、WhatsApp等多种聊天平台 | 23,286 | 🤖 AI | ✅ Maintained | 2025-12-21 |
+| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 开源企业级智能体平台，支持知识库RAG和MCP服务器 | 22,839 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | AI智能体开发平台，提供可视化工具简化智能体创建调试和部署 | 21,611 | 🤖 AI | 🔥 Active | 2026-07-29 |
+| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | 开源的Agentic AI数据助手，面向下一代AI与数据产品 | 20,014 | 🤖 AI | 🔥 Active | 2026-09-16 |
+| [dzhng/deep-research](https://github.com/dzhng/deep-research) | AI驱动的深度研究助手，结合搜索引擎网页抓取和LLM进行迭代式深度研究 | 19,700 | 🤖 AI | ✅ Maintained | 2026-04-11 |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 基于通义千问的智能体框架，支持函数调用、MCP、代码解释器和RAG | 17,108 | 🤖 AI | ✅ Maintained | 2026-03-04 |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 智能体用户交互协议，将AI代理集成到前端应用程序中 | 15,950 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | 关于编码智能体的研究项目 | 12,274 | 🤖 AI | ✅ Maintained | 2026-04-01 |
+| [dataelement/bisheng](https://github.com/dataelement/bisheng) | 企业级LLM开发运维平台，支持RAG智能体与工作流 | 11,979 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 开源异步编码智能体框架，用于内部代码开发自动化 | 10,736 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [microsoft/UFO](https://github.com/microsoft/UFO) | 数字智能体星系框架，支持Windows GUI自动化和智能体协作 | 9,767 | 🤖 AI | 🔥 Active | 2026-09-15 |
+| [idosal/git-mcp](https://github.com/idosal/git-mcp) | 面向任何GitHub项目的远程MCP服务器，消除代码幻觉问题 | 8,410 | 🤖 AI | ✅ Maintained | 2026-05-08 |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | Anthropic官方Claude智能体Python SDK开发工具包 | 8,130 | 🤖 AI | 🔥 Active | 2026-09-19 |
+| [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | Python中构建自主AI智能体的框架，支持MCP和计算机使用能力 | 7,959 | 🤖 AI | ✅ Maintained | 2026-06-18 |
+| [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) | 网页版微信API封装，提供终端版微信及微信机器人功能 | 7,402 | 🤖 AI | ⚠️ Stale | 2019-11-27 |
+| [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) | 基于Realtime API的高级智能体模式演示项目 | 6,983 | 🤖 AI | ✅ Maintained | 2026-01-07 |
+| [InternLM/MindSearch](https://github.com/InternLM/MindSearch) | 基于LLM的多智能体网络搜索引擎框架，类似Perplexity和SearchGPT | 6,930 | 🤖 AI | 🕰️ Stable | 2025-07-04 |
+| [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) | claw-code的Rust移植并行工作，用于仓库迁移期间的临时开发 | 6,636 | 🤖 AI | 📦 Archived | 2026-04-05 |
+| [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) | 首个代码优先的智能体框架，用于规划和执行数据分析任务 | 6,170 | 🤖 AI | 📦 Archived | 2026-03-23 |
 | [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) | Claude Code + OpenClaw + Codex + WorkBuddy 中文教程 \ | 1500+实操示例 \ | AI Coding / Agent 四线学习路径（编程+助手+Agent+办公） | Claude Code + OpenClaw + Codex + WorkBuddy 中文教程 \ | 50篇完整教程 + 1张速查卡 \ |
 | [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) | 大语言模型工具学习训练服务与评估的开放平台 | 5,742 | 🤖 AI | 🕰️ Stable | 2025-05-21 |
 | [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | AI驱动的数据科学智能体团队，帮助快速完成常见数据科学任务 | 5,422 | 🤖 AI | ✅ Maintained | 2026-01-28 |
 | [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) | Claude Code工作流工作室，支持子代理、MCP工具和VSCode扩展的自动化工作流 | 5,383 | 🤖 AI | 🔥 Active | 2026-09-13 |
-| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 跨平台桌面AI助手和MCP客户端，支持本地知识库和多种模型服务 | 5,352 | 🤖 AI | 🔥 Active | 2026-09-14 |
-| [Waishnav/devspace](https://github.com/Waishnav/devspace) | 将 ChatGPT 或 Claude Web 转变为类似 Codex 或 Claude Code 的编程代理 | 4,894 | 🤖 AI | 🔥 Active | 2026-09-15 |
+| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 跨平台桌面AI助手和MCP客户端，支持本地知识库和多种模型服务 | 5,355 | 🤖 AI | 🔥 Active | 2026-09-14 |
+| [Waishnav/devspace](https://github.com/Waishnav/devspace) | 将 ChatGPT 或 Claude Web 转变为类似 Codex 或 Claude Code 的编程代理 | 4,926 | 🤖 AI | 🔥 Active | 2026-09-18 |
 | [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) | 面向真实场景的语言智能体开放平台，支持工具学习和语义解析 | 4,861 | 🤖 AI | 🕰️ Stable | 2024-11-18 |
 | [phodal/auto-dev](https://github.com/phodal/auto-dev) | AI原生多智能体开发平台，覆盖SDLC全部7个阶段 | 4,544 | 🤖 AI | 🔥 Active | 2026-08-04 |
-| [modelscope/ms-agent](https://github.com/modelscope/ms-agent) | 轻量级智能体框架，支持复杂任务的自主执行与深度研究 | 4,389 | 🤖 AI | 🔥 Active | 2026-09-18 |
-| [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 提供结构化规范驱动开发工作流的MCP服务器，含实时Web仪表板和VSCode扩展 | 4,291 | 🤖 AI | 🔥 Active | 2026-07-03 |
+| [modelscope/ms-agent](https://github.com/modelscope/ms-agent) | 轻量级智能体框架，支持复杂任务的自主执行与深度研究 | 4,390 | 🤖 AI | 🔥 Active | 2026-09-18 |
+| [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 提供结构化规范驱动开发工作流的MCP服务器，含实时Web仪表板和VSCode扩展 | 4,292 | 🤖 AI | 🔥 Active | 2026-07-03 |
 | [langroid/langroid](https://github.com/langroid/langroid) | 多智能体编程框架，支持LLM驱动的信息检索和RAG应用 | 4,103 | 🤖 AI | 🔥 Active | 2026-09-17 |
-| [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) | 任务感知的智能体驱动提示词优化框架 | 4,009 | 🤖 AI | ✅ Maintained | 2025-10-13 |
-| [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) | Claude Code的自动化工作流，支持规范驱动开发和快速缺陷修复流程 | 3,857 | 🤖 AI | 🕰️ Stable | 2025-09-07 |
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | 3,661 | ⚙️ Rule | 🔥 Active | 2026-09-18 |
-| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。 | 3,067 | ⚙️ Rule | 🔥 Active | 2026-09-14 |
-| [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) | Run MCP stdio servers over SSE and SSE over stdio. AI gateway. | 2,849 | ⚙️ Rule | 🔥 Active | 2026-09-18 |
-| [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) | A bridge between Streamable HTTP and stdio MCP transports | 2,758 | ⚙️ Rule | 🔥 Active | 2026-07-20 |
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | A smarter, self-hosted AI assistant — multi-user, multi-agent. | 4,052 | ⚙️ Rule | 🔥 Active | 2026-09-19 |
+| [microsoft/PromptWizard](https://github.com/microsoft/PromptWizard) | 任务感知的智能体驱动提示词优化框架 | 4,010 | 🤖 AI | ✅ Maintained | 2025-10-13 |
+| [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) | Claude Code的自动化工作流，支持规范驱动开发和快速缺陷修复流程 | 3,858 | 🤖 AI | 🕰️ Stable | 2025-09-07 |
+| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。 | 3,098 | ⚙️ Rule | 🔥 Active | 2026-09-18 |
+| [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) | Run MCP stdio servers over SSE and SSE over stdio. AI gateway. | 2,851 | ⚙️ Rule | 🔥 Active | 2026-09-19 |
+| [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) | A bridge between Streamable HTTP and stdio MCP transports | 2,761 | ⚙️ Rule | 🔥 Active | 2026-07-20 |
 | [kingkongshot/Pensieve](https://github.com/kingkongshot/Pensieve) | 存储决策和原则的工具，Claude读取后做出更好的选择 | 2,512 | 🤖 AI | ✅ Maintained | 2026-05-08 |
 | [yaphone/itchat4j](https://github.com/yaphone/itchat4j) | 用Java扩展个人微信号能力的微信机器人框架 | 2,111 | 🤖 AI | 🕰️ Stable | 2024-04-11 |
-| [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) | 基于MCP协议的12306火车票查询服务器，支持AI代理调用 | 1,582 | 🤖 AI | 🔥 Active | 2026-07-31 |
+| [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) | 基于MCP协议的12306火车票查询服务器，支持AI代理调用 | 1,588 | 🤖 AI | 🔥 Active | 2026-07-31 |
 | [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) | 为大语言模型赋予通用智能体能力的微调方法 | 1,504 | 🤖 AI | 🕰️ Stable | 2023-10-31 |
 | [browserwing/browserwing](https://github.com/browserwing/browserwing) | 将浏览器操作转换为MCP命令或Claude Skill，使AI代理高效控制浏览器实现自动化 | 1,413 | 🤖 AI | 🔥 Active | 2026-08-08 |
 | [qdhenry/Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite) | 为 Claude Code 提供专业斜杠命令，支持代码审查、功能开发、安全审计等结构化工作流 | 1,336 | 🤖 AI | ✅ Maintained | 2026-03-01 |
