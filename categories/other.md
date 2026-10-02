@@ -4,26 +4,26 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 轻量级OCR工具包，支持图像和PDF文档的文字识别与结构化数据提取 | 90,482 | 🤖 AI | 🔥 Active | 2026-09-16 |
-| [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) | 简单易用的Python人脸识别API和命令行工具 | 56,788 | 🤖 AI | ✅ Maintained | 2026-06-25 |
-| [halo-dev/halo](https://github.com/halo-dev/halo) | 开源建站工具，支持个人博客知识库企业官网等多种场景 | 39,928 | 🤖 AI | 🔥 Active | 2026-09-30 |
-| [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 开源自托管网页归档工具，可保存HTML、PDF、媒体等多种格式内容 | 28,661 | 🤖 AI | 🔥 Active | 2026-09-30 |
-| [danielgatis/rembg](https://github.com/danielgatis/rembg) | 使用深度学习模型自动去除图片背景的工具 | 24,938 | 🤖 AI | 🔥 Active | 2026-09-20 |
-| [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | 轻量级AI证件照制作算法，支持人脸检测和抠图换背景 | 21,582 | 🤖 AI | 🔥 Active | 2026-07-03 |
-| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 一人企业方法论第二版，适合自媒体电商数字商品等非技术人群 | 16,831 | 🤖 AI | ✅ Maintained | 2026-04-23 |
-| [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | 基于飞桨的目标检测工具箱，支持检测分割与跟踪 | 14,437 | 🤖 AI | ✅ Maintained | 2026-05-28 |
-| [element-hq/element-web](https://github.com/element-hq/element-web) | 基于Matrix协议的Web端协作客户端 | 13,531 | 🤖 AI | 🔥 Active | 2026-10-01 |
-| [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) | 利用AI大模型一键解说并剪辑视频的工具 | 11,266 | 🤖 AI | 🔥 Active | 2026-09-17 |
-| [wildfirechat/im-server](https://github.com/wildfirechat/im-server) | 即时通讯系统，支持IM和VoIP功能 | 8,558 | 🤖 AI | 🔥 Active | 2026-09-08 |
-| [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | 基于多种推理引擎的OCR多语言工具包 | 8,020 | 🤖 AI | 🔥 Active | 2026-10-01 |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 轻量级OCR工具包，支持图像和PDF文档的文字识别与结构化数据提取 | 90,506 | 🤖 AI | 🔥 Active | 2026-09-16 |
+| [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) | 简单易用的Python人脸识别API和命令行工具 | 56,790 | 🤖 AI | ✅ Maintained | 2026-06-25 |
+| [halo-dev/halo](https://github.com/halo-dev/halo) | 开源建站工具，支持个人博客知识库企业官网等多种场景 | 39,929 | 🤖 AI | 🔥 Active | 2026-09-30 |
+| [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 开源自托管网页归档工具，可保存HTML、PDF、媒体等多种格式内容 | 28,671 | 🤖 AI | 🔥 Active | 2026-09-30 |
+| [danielgatis/rembg](https://github.com/danielgatis/rembg) | 使用深度学习模型自动去除图片背景的工具 | 24,946 | 🤖 AI | 🔥 Active | 2026-09-20 |
+| [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | 轻量级AI证件照制作算法，支持人脸检测和抠图换背景 | 21,587 | 🤖 AI | ✅ Maintained | 2026-07-03 |
+| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 一人企业方法论第二版，适合自媒体电商数字商品等非技术人群 | 16,833 | 🤖 AI | ✅ Maintained | 2026-04-23 |
+| [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | 基于飞桨的目标检测工具箱，支持检测分割与跟踪 | 14,439 | 🤖 AI | ✅ Maintained | 2026-05-28 |
+| [element-hq/element-web](https://github.com/element-hq/element-web) | 基于Matrix协议的Web端协作客户端 | 13,535 | 🤖 AI | 🔥 Active | 2026-10-02 |
+| [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) | 利用AI大模型一键解说并剪辑视频的工具 | 11,272 | 🤖 AI | 🔥 Active | 2026-09-17 |
+| [wildfirechat/im-server](https://github.com/wildfirechat/im-server) | 即时通讯系统，支持IM和VoIP功能 | 8,559 | 🤖 AI | 🔥 Active | 2026-09-08 |
+| [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | 基于多种推理引擎的OCR多语言工具包 | 8,027 | 🤖 AI | 🔥 Active | 2026-10-02 |
 | [yinxin630/fiora](https://github.com/yinxin630/fiora) | 基于Node.js和React的开源聊天室应用 | 7,164 | 🤖 AI | 🕰️ Stable | 2024-02-27 |
-| [modelscope/FunClip](https://github.com/modelscope/FunClip) | 基于FunASR的视频转写字幕生成和LLM辅助剪辑工具，提供本地Gradio界面 | 6,359 | 🤖 AI | 🔥 Active | 2026-09-16 |
+| [modelscope/FunClip](https://github.com/modelscope/FunClip) | 基于FunASR的视频转写字幕生成和LLM辅助剪辑工具，提供本地Gradio界面 | 6,363 | 🤖 AI | 🔥 Active | 2026-09-16 |
 | [yahoo/open_nsfw](https://github.com/yahoo/open_nsfw) | 使用深度神经网络Caffe模型进行NSFW内容分类 | 6,014 | 🤖 AI | 📦 Archived | 2018-11-21 |
 | [TurboWay/bigdata_analyse](https://github.com/TurboWay/bigdata_analyse) | 大数据分析项目，涉及HQL、Python和SQL | 5,401 | 🤖 AI | ⚠️ Stale | 2023-04-27 |
 | [kakuilan/china_area_mysql](https://github.com/kakuilan/china_area_mysql) | 中国五级行政区域MySQL数据库 | 5,353 | 🤖 AI | 🕰️ Stable | 2024-07-29 |
-| [lpg-it/BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) | 百度网盘超级会员账号及不限速下载工具分享 | 4,217 | 🤖 AI | ⚠️ Stale | 2021-06-21 |
+| [lpg-it/BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) | 百度网盘超级会员账号及不限速下载工具分享 | 4,218 | 🤖 AI | ⚠️ Stale | 2021-06-21 |
 | [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) | 行人重识别方法研究与工具箱，支持多种SOTA算法 | 3,992 | 🤖 AI | 🕰️ Stable | 2024-07-30 |
-| [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) | 网课刷课助手，支持超星学习通、智慧树等平台的自动化脚本 | 3,558 | 🤖 AI | 🔥 Active | 2026-09-24 |
+| [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) | 网课刷课助手，支持超星学习通、智慧树等平台的自动化脚本 | 3,564 | 🤖 AI | 🔥 Active | 2026-10-01 |
 | [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) | 基于CV模型和多模态大语言模型的视频分析框架 | 2,963 | 🤖 AI | ✅ Maintained | 2026-02-25 |
 | [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) | 基于AutoJs6的蚂蚁森林能量自动收取脚本 | 2,850 | 🤖 AI | ⚠️ Stale | 2023-01-21 |
 | [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) | 超星学习通等网课平台的浏览器自动化辅助脚本，支持视频倍速和自动答题 | 2,700 | 🤖 AI | 📦 Archived | 2022-02-07 |
