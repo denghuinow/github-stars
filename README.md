@@ -2,22 +2,22 @@
 
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
-**总计 472 个项目** · 🤖 AI 451 · 📌 Manual 6 · ⚙️ Rule 15
+**总计 472 个项目** · 🤖 AI 450 · 📌 Manual 6 · ⚙️ Rule 16
 中文描述 471/472 · 🔥 Active 227 · ⚠️ Stale 48 · 📦 Archived 18
 
-最后同步：`2026-10-13 09:30 UTC`
+最后同步：`2026-10-14 07:43 UTC`
 
 ## 分类
 
 | Category | 中文说明 | Count | Index |
 |---|---|---:|---|
-| AI / Agents | 智能体、编码助手、MCP 与工具调用生态 | 86 | [查看](categories/ai-agents.md) |
+| AI / Agents | 智能体、编码助手、MCP 与工具调用生态 | 87 | [查看](categories/ai-agents.md) |
 | AI / LLM | 大语言模型、训练微调、NLP 与语音相关项目 | 43 | [查看](categories/ai-llm.md) |
 | AI / LLM Serving | 大模型推理、部署、加速与服务框架 | 25 | [查看](categories/ai-llm-serving.md) |
 | AI / RAG & Knowledge | RAG、知识库、向量检索与 GraphRAG | 25 | [查看](categories/ai-rag-knowledge.md) |
 | AI / NL2SQL | 自然语言转 SQL 与智能数据查询 | 7 | [查看](categories/ai-nl2sql.md) |
 | Quant / Finance | 量化交易、行情、投资组合与金融分析 | 7 | [查看](categories/quant-finance.md) |
-| Data / Visualization | 数据分析、图表、BI 与可视化工具 | 12 | [查看](categories/data-visualization.md) |
+| Data / Visualization | 数据分析、图表、BI 与可视化工具 | 11 | [查看](categories/data-visualization.md) |
 | Dev Tools | IDE、CLI、调试、代码分析与开发效率工具 | 82 | [查看](categories/dev-tools.md) |
 | DevOps / Cloud | 容器、云原生、基础设施与运维自动化 | 21 | [查看](categories/devops-cloud.md) |
 | Embedded / Hardware | MCU、嵌入式、固件、电子与硬件开发 | 10 | [查看](categories/embedded-hardware.md) |
