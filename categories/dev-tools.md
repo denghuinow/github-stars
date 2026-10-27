@@ -4,70 +4,70 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 大规模搜索抓取和交互网页的上下文API，支持HTML转Markdown | 195,413 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 将文件和Office文档转换为Markdown格式的Python工具 | 192,244 | 🤖 AI | 🔥 Active | 2026-10-23 |
-| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Android设备屏幕显示和控制工具，支持录制和镜像功能 | 153,154 | 🤖 AI | 🔥 Active | 2026-10-24 |
-| [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot 框架，用于快速构建生产级 Spring 应用与服务 | 81,776 | 🤖 AI | 🔥 Active | 2026-10-23 |
-| [docling-project/docling](https://github.com/docling-project/docling) | 将文档转换为生成式AI就绪格式的工具，支持PDF Word PPT等格式 | 69,593 | 🤖 AI | 🔥 Active | 2026-10-25 |
-| [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 基于JavaScript的PDF文档渲染与阅读库 | 54,046 | 🤖 AI | 🔥 Active | 2026-10-25 |
-| [google/guava](https://github.com/google/guava) | Google提供的Java核心工具库，包含集合、缓存、并发等常用工具类 | 51,916 | 🤖 AI | 🔥 Active | 2026-10-24 |
-| [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 企业级AI低代码平台，支持一键生成前后端代码，内置AI聊天、知识库、流程编排等功能 | 48,285 | 🤖 AI | 🔥 Active | 2026-10-24 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 大规模搜索抓取和交互网页的上下文API，支持HTML转Markdown | 195,795 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 将文件和Office文档转换为Markdown格式的Python工具 | 192,445 | 🤖 AI | 🔥 Active | 2026-10-23 |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Android设备屏幕显示和控制工具，支持录制和镜像功能 | 153,261 | 🤖 AI | 🔥 Active | 2026-10-26 |
+| [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot 框架，用于快速构建生产级 Spring 应用与服务 | 81,774 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [docling-project/docling](https://github.com/docling-project/docling) | 将文档转换为生成式AI就绪格式的工具，支持PDF Word PPT等格式 | 69,652 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 基于JavaScript的PDF文档渲染与阅读库 | 54,048 | 🤖 AI | 🔥 Active | 2026-10-26 |
+| [google/guava](https://github.com/google/guava) | Google提供的Java核心工具库，包含集合、缓存、并发等常用工具类 | 51,915 | 🤖 AI | 🔥 Active | 2026-10-26 |
+| [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 企业级AI低代码平台，支持一键生成前后端代码，内置AI聊天、知识库、流程编排等功能 | 48,292 | 🤖 AI | 🔥 Active | 2026-10-24 |
 | [alibaba/arthas](https://github.com/alibaba/arthas) | 阿里巴巴开源的Java诊断工具，支持在线监控、热更新和JVM问题排查 | 37,588 | 🤖 AI | 🔥 Active | 2026-10-23 |
-| [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | 基于Qt的Android设备实时投屏与远程控制软件 | 32,566 | 🤖 AI | 🔥 Active | 2026-10-15 |
-| [alibaba/p3c](https://github.com/alibaba/p3c) | 阿里巴巴 Java 开发手册规范及 PMD 实现与 IDE 插件 | 30,850 | 🤖 AI | 🕰️ Stable | 2024-08-06 |
-| [redisson/redisson](https://github.com/redisson/redisson) | Redis和Valkey的Java客户端，提供分布式锁缓存队列等50多种对象和服务 | 24,419 | 🤖 AI | 🔥 Active | 2026-10-19 |
-| [marimo-team/marimo](https://github.com/marimo-team/marimo) | Python响应式笔记本，支持可复现实验SQL查询脚本执行和Git版本控制 | 23,321 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 高性能异步抖音快手TikTok Bilibili数据爬取工具，支持API调用和在线批量解析下载 | Python | 20,906 | 🤖 AI | 🔥 Active |
+| [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | 基于Qt的Android设备实时投屏与远程控制软件 | 32,586 | 🤖 AI | 🔥 Active | 2026-10-15 |
+| [alibaba/p3c](https://github.com/alibaba/p3c) | 阿里巴巴 Java 开发手册规范及 PMD 实现与 IDE 插件 | 30,852 | 🤖 AI | 🕰️ Stable | 2024-08-06 |
+| [redisson/redisson](https://github.com/redisson/redisson) | Redis和Valkey的Java客户端，提供分布式锁缓存队列等50多种对象和服务 | 24,420 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [marimo-team/marimo](https://github.com/marimo-team/marimo) | Python响应式笔记本，支持可复现实验SQL查询脚本执行和Git版本控制 | 23,334 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 高性能异步抖音快手TikTok Bilibili数据爬取工具，支持API调用和在线批量解析下载 | Python | 20,928 | 🤖 AI | 🔥 Active |
 | [didi/DoKit](https://github.com/didi/DoKit) | 面向泛前端产品研发全生命周期的效率平台，支持性能监控与调试 | 20,414 | 🤖 AI | 🔥 Active | 2026-10-20 |
-| [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) | 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 | 18,389 | ⚙️ Rule | 🔥 Active | 2026-10-25 |
-| [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 开源即时通讯服务器，支持聊天消息推送和群组功能 | 16,727 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [shuzheng/zheng](https://github.com/shuzheng/zheng) | 基于Spring的分布式微服务开发架构，提供权限管理、支付等公共模块 | 16,634 | 🤖 AI | ⚠️ Stale | 2022-12-16 |
-| [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) | 同时与多个AI模型对话的桌面应用，便于对比不同模型的回答 | 16,511 | 🤖 AI | 🔥 Active | 2026-10-25 |
+| [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) | 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 | 18,390 | ⚙️ Rule | 🔥 Active | 2026-10-25 |
+| [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 开源即时通讯服务器，支持聊天消息推送和群组功能 | 16,729 | 🤖 AI | 🔥 Active | 2026-10-26 |
+| [shuzheng/zheng](https://github.com/shuzheng/zheng) | 基于Spring的分布式微服务开发架构，提供权限管理、支付等公共模块 | 16,633 | 🤖 AI | ⚠️ Stale | 2022-12-16 |
+| [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) | 同时与多个AI模型对话的桌面应用，便于对比不同模型的回答 | 16,512 | 🤖 AI | 📦 Archived | 2026-10-25 |
 | [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) | 无需root即可使用Xposed框架的Android应用，支持AOP和Hook开发 | 16,083 | 🤖 AI | 🕰️ Stable | 2024-03-08 |
-| [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | 用于创建LLM微调RAG和评估数据集的强大工具 | 15,038 | 🤖 AI | ✅ Maintained | 2026-05-01 |
-| [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | Claude Code的Web和移动端GUI界面，支持远程管理Claude Code会话和项目 | 14,285 | 🤖 AI | 🔥 Active | 2026-10-24 |
-| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 开源PR代码审查工具，自动审查Pull Request并提供改进建议 | 13,610 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | 现代Xposed框架，支持Arthook和Zygisk等特性 | 12,921 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [clearw5/Auto.js](https://github.com/clearw5/Auto.js) | 安卓平台上的JavaScript编程IDE，用于自动化脚本和任务流开发 | 12,856 | 🤖 AI | 📦 Archived | 2023-02-11 |
-| [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) | 聚合图像数据用于训练NSFW图像分类器的脚本集合 | 12,618 | 🤖 AI | 🕰️ Stable | 2024-01-21 |
+| [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) | 用于创建LLM微调RAG和评估数据集的强大工具 | 15,042 | 🤖 AI | ✅ Maintained | 2026-05-01 |
+| [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | Claude Code的Web和移动端GUI界面，支持远程管理Claude Code会话和项目 | 14,301 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 开源PR代码审查工具，自动审查Pull Request并提供改进建议 | 13,627 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | 现代Xposed框架，支持Arthook和Zygisk等特性 | 12,933 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [clearw5/Auto.js](https://github.com/clearw5/Auto.js) | 安卓平台上的JavaScript编程IDE，用于自动化脚本和任务流开发 | 12,857 | 🤖 AI | 📦 Archived | 2023-02-11 |
+| [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) | 聚合图像数据用于训练NSFW图像分类器的脚本集合 | 12,617 | 🤖 AI | 🕰️ Stable | 2024-01-21 |
 | [microsoft/promptflow](https://github.com/microsoft/promptflow) | 从原型到生产部署的LLM应用开发工具 | 11,256 | 🤖 AI | 🔥 Active | 2026-10-25 |
-| [Activiti/Activiti](https://github.com/Activiti/Activiti) | 轻量级工作流和业务流程管理平台，基于BPMN 2标准 | 10,549 | 🤖 AI | 🔥 Active | 2026-10-23 |
+| [Activiti/Activiti](https://github.com/Activiti/Activiti) | 轻量级工作流和业务流程管理平台，基于BPMN 2标准 | 10,549 | 🤖 AI | 🔥 Active | 2026-10-27 |
 | [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) | 基于Spring Boot和MyBatis的种子项目，用于快速构建RESTful API | 9,679 | 🤖 AI | 🕰️ Stable | 2023-12-17 |
-| [flowable/flowable-engine](https://github.com/flowable/flowable-engine) | 高效的工作流与业务流程管理平台，支持BPMN标准 | 9,620 | 🤖 AI | 🔥 Active | 2026-10-18 |
-| [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) | 面向游戏和应用的UI自动化测试框架 | 9,618 | 🤖 AI | ✅ Maintained | 2026-03-23 |
-| [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) | Pentaho数据集成ETL工具，用于数据抽取转换和加载 | 8,411 | 🤖 AI | 🔥 Active | 2026-10-26 |
+| [flowable/flowable-engine](https://github.com/flowable/flowable-engine) | 高效的工作流与业务流程管理平台，支持BPMN标准 | 9,623 | 🤖 AI | 🔥 Active | 2026-10-18 |
+| [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) | 面向游戏和应用的UI自动化测试框架 | 9,622 | 🤖 AI | ✅ Maintained | 2026-03-23 |
+| [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) | Pentaho数据集成ETL工具，用于数据抽取转换和加载 | 8,411 | 🤖 AI | 🔥 Active | 2026-10-27 |
 | [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) | 基于Spring Boot的全响应式企业级后台管理系统基础框架 | 8,393 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) | 摄取解析和优化任意数据格式的工具，支持文档多媒体到GenAI框架 | 7,933 | 🤖 AI | ✅ Maintained | 2025-12-12 |
+| [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) | 摄取解析和优化任意数据格式的工具，支持文档多媒体到GenAI框架 | 7,932 | 🤖 AI | ✅ Maintained | 2025-12-12 |
 | [abel533/Mapper](https://github.com/abel533/Mapper) | 通用 MyBatis 插件，简化单表 CRUD 操作，提升 Java 开发效率 | 7,352 | 🤖 AI | ✅ Maintained | 2026-07-15 |
-| [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) | 基于PaddlePaddle的一站式开发工具，支持分类检测OCR语音识别等AI任务 | 6,282 | 🤖 AI | 🔥 Active | 2026-10-20 |
+| [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) | 基于PaddlePaddle的一站式开发工具，支持分类检测OCR语音识别等AI任务 | 6,283 | 🤖 AI | 🔥 Active | 2026-10-20 |
 | [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) | 支持动态变更监控报警的异步线程池框架，无需修改代码即可引入 | 6,001 | 🤖 AI | ✅ Maintained | 2026-03-12 |
-| [antiwork/shortest](https://github.com/antiwork/shortest) | 通过自然语言AI进行端到端测试的自动化测试框架 | 5,697 | 🤖 AI | 🔥 Active | 2026-08-06 |
+| [antiwork/shortest](https://github.com/antiwork/shortest) | 通过自然语言AI进行端到端测试的自动化测试框架 | 5,699 | 🤖 AI | 🔥 Active | 2026-08-06 |
 | [apache/dubbo-spring-boot-project](https://github.com/apache/dubbo-spring-boot-project) | Apache Dubbo的Spring Boot集成项目，用于微服务RPC通信与治理 | 5,372 | 🤖 AI | ✅ Maintained | 2026-05-15 |
 | [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) | 代理MidJourney的Discord频道，实现API形式调用AI绘图 | 5,371 | 🤖 AI | 🕰️ Stable | 2025-08-03 |
 | [baomidou/dynamic-datasource](https://github.com/baomidou/dynamic-datasource) | Spring Boot多数据源动态切换框架，支持主从分离和读写分离 | 5,192 | 🤖 AI | 🔥 Active | 2026-10-20 |
 | [rememberber/WePush](https://github.com/rememberber/WePush) | 支持微信短信邮件等多种渠道的批量消息推送工具，提供图形界面操作 | 4,689 | 🤖 AI | 🔥 Active | 2026-10-04 |
-| [alibaba/fastjson2](https://github.com/alibaba/fastjson2) | 高性能Java JSON序列化与反序列化库，支持JSONPath查询 | 4,425 | 🤖 AI | 🔥 Active | 2026-10-21 |
-| [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) | 开源AI训练跟踪和可视化工具，支持云和自托管，集成多种深度学习框架 | 4,321 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [dromara/hmily](https://github.com/dromara/hmily) | 分布式事务解决方案框架，支持TCC、XA等事务模式，适用于微服务架构 | 4,159 | 🤖 AI | 🕰️ Stable | 2024-07-14 |
+| [alibaba/fastjson2](https://github.com/alibaba/fastjson2) | 高性能Java JSON序列化与反序列化库，支持JSONPath查询 | 4,424 | 🤖 AI | 🔥 Active | 2026-10-21 |
+| [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) | 开源AI训练跟踪和可视化工具，支持云和自托管，集成多种深度学习框架 | 4,323 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [dromara/hmily](https://github.com/dromara/hmily) | 分布式事务解决方案框架，支持TCC、XA等事务模式，适用于微服务架构 | 4,160 | 🤖 AI | 🕰️ Stable | 2024-07-14 |
 | [pqpo/SmartCropper](https://github.com/pqpo/SmartCropper) | 智能图片裁剪库，自动识别边框并通过透视变换矫正裁剪区域 | 4,138 | 🤖 AI | 🔥 Active | 2026-08-07 |
-| [lencx/nofwl](https://github.com/lencx/nofwl) | 基于Tauri框架的跨平台桌面应用程序 | 4,130 | 🤖 AI | 🕰️ Stable | 2024-01-23 |
+| [lencx/nofwl](https://github.com/lencx/nofwl) | 基于Tauri框架的跨平台桌面应用程序 | 4,129 | 🤖 AI | 🕰️ Stable | 2024-01-23 |
 | [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) | Android平台的Web服务器与Web框架 | 3,861 | 🤖 AI | ⚠️ Stale | 2023-06-07 |
-| [GangZhuo/BaiduPCS](https://github.com/GangZhuo/BaiduPCS) | 百度网盘命令行工具，用于在终端中管理百度网盘文件 | 3,543 | 🤖 AI | 📦 Archived | 2020-12-15 |
-| [leigest519/ScreenCoder](https://github.com/leigest519/ScreenCoder) | 将任意UI截图转换为干净可编辑的HTML和CSS代码的工具 | 3,007 | 🤖 AI | 🔥 Active | 2026-09-15 |
-| [supabase-community/database-build](https://github.com/supabase-community/database-build) | 浏览器内Postgres沙箱，支持AI辅助的数据库操作 | 2,949 | 🤖 AI | ✅ Maintained | 2026-06-03 |
+| [GangZhuo/BaiduPCS](https://github.com/GangZhuo/BaiduPCS) | 百度网盘命令行工具，用于在终端中管理百度网盘文件 | 3,542 | 🤖 AI | 📦 Archived | 2020-12-15 |
+| [leigest519/ScreenCoder](https://github.com/leigest519/ScreenCoder) | 将任意UI截图转换为干净可编辑的HTML和CSS代码的工具 | 3,008 | 🤖 AI | 🔥 Active | 2026-09-15 |
+| [supabase-community/database-build](https://github.com/supabase-community/database-build) | 浏览器内Postgres沙箱，支持AI辅助的数据库操作 | 2,950 | 🤖 AI | ✅ Maintained | 2026-06-03 |
 | [shyiko/mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) | MySQL二进制日志连接器，用于解析和消费binlog | 2,266 | 🤖 AI | ⚠️ Stale | 2023-04-15 |
-| [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) | Java密钥库管理图形化工具，替代keytool和jarsigner命令行操作 | 2,073 | 🤖 AI | 🔥 Active | 2026-10-25 |
+| [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) | Java密钥库管理图形化工具，替代keytool和jarsigner命令行操作 | 2,074 | 🤖 AI | 🔥 Active | 2026-10-25 |
 | [dromara/forest](https://github.com/dromara/forest) | Java声明式HTTP客户端框架，简化Java中的HTTP请求发送 | 1,948 | 🤖 AI | ✅ Maintained | 2026-01-26 |
-| [ofdrw/ofdrw](https://github.com/ofdrw/ofdrw) | 开源OFD文档处理库，支持文档生成、数字签名、合并、转换与导出等功能 | 1,889 | 🤖 AI | 🔥 Active | 2026-10-24 |
-| [docling-project/docling-serve](https://github.com/docling-project/docling-serve) | 将Docling文档解析工具作为API服务运行 | 1,879 | 🤖 AI | 🔥 Active | 2026-10-23 |
+| [ofdrw/ofdrw](https://github.com/ofdrw/ofdrw) | 开源OFD文档处理库，支持文档生成、数字签名、合并、转换与导出等功能 | 1,890 | 🤖 AI | 🔥 Active | 2026-10-24 |
+| [docling-project/docling-serve](https://github.com/docling-project/docling-serve) | 将Docling文档解析工具作为API服务运行 | 1,880 | 🤖 AI | 🔥 Active | 2026-10-27 |
 | [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) | 面向扩展设计的企业级低代码技术体系与演示项目 | 1,854 | 🤖 AI | 🕰️ Stable | 2024-05-08 |
 | [easychen/wecomchan](https://github.com/easychen/wecomchan) | 微信推送服务Server酱的开源替代，通过企业微信向微信推送消息 | 1,756 | 🤖 AI | 🕰️ Stable | 2024-07-30 |
-| [opendatalab/labelU](https://github.com/opendatalab/labelU) | 开源多模态数据标注平台，支持AI自动标注 | 1,697 | 🤖 AI | 🔥 Active | 2026-07-28 |
+| [opendatalab/labelU](https://github.com/opendatalab/labelU) | 开源多模态数据标注平台，支持AI自动标注 | 1,699 | 🤖 AI | 🔥 Active | 2026-07-28 |
 | [Wizzercn/NutzWk](https://github.com/Wizzercn/NutzWk) | 基于 Nutz 的企业级 Java 开发框架，支持单应用与微服务架构 | 1,609 | 🤖 AI | 🕰️ Stable | 2023-10-31 |
 | [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) | ESP-IDF项目的Visual Studio Code扩展插件 | 1,480 | 🤖 AI | 🔥 Active | 2026-10-26 |
 | [Arronlong/httpclientutil](https://github.com/Arronlong/httpclientutil) | 基于 HttpClient 封装的 Java HTTP 请求工具类库 | 1,400 | 🤖 AI | 🕰️ Stable | 2023-12-16 |
 | [opendatalab/LabelLLM](https://github.com/opendatalab/LabelLLM) | 开源数据标注平台，支持LLM相关数据标注任务 | 1,288 | 🤖 AI | ✅ Maintained | 2026-07-02 |
-| [e1399579/autojs](https://github.com/e1399579/autojs) | Auto.js自动化脚本，实现支付宝和京东签到功能 | 1,113 | 🤖 AI | 🕰️ Stable | 2024-08-21 |
+| [e1399579/autojs](https://github.com/e1399579/autojs) | Auto.js自动化脚本，实现支付宝和京东签到功能 | 1,114 | 🤖 AI | 🕰️ Stable | 2024-08-21 |
 | [adithya-s-k/marker-api](https://github.com/adithya-s-k/marker-api) | 快速准确地将PDF转换为Markdown的可部署API服务 | 984 | 🤖 AI | 🕰️ Stable | 2024-10-15 |
 | [intellism/vscode-comment-translate](https://github.com/intellism/vscode-comment-translate) | 翻译代码注释和字符串的VS Code扩展插件 | 884 | 🤖 AI | ✅ Maintained | 2026-03-04 |
 | [liyown/marknative](https://github.com/liyown/marknative) | 无需浏览器和DOM的Markdown渲染引擎，可生成分页PNG和SVG输出 | 657 | 🤖 AI | ✅ Maintained | 2026-04-04 |
