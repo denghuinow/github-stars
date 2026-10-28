@@ -3,9 +3,9 @@
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
 **总计 474 个项目** · 🤖 AI 449 · 📌 Manual 6 · ⚙️ Rule 19
-中文描述 473/474 · 🔥 Active 225 · ⚠️ Stale 49 · 📦 Archived 19
+中文描述 473/474 · 🔥 Active 223 · ⚠️ Stale 49 · 📦 Archived 19
 
-最后同步：`2026-10-27 07:58 UTC`
+最后同步：`2026-10-28 08:40 UTC`
 
 ## 分类
 
