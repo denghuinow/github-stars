@@ -4,33 +4,33 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [huggingface/transformers](https://github.com/huggingface/transformers) | 支持文本视觉音频等多模态模型的深度学习框架，涵盖训练与推理 | 168,265 | 🤖 AI | 🔥 Active | 2026-10-28 |
-| [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | 深度求索推出的推理大模型，支持复杂推理任务 | 91,975 | 🤖 AI | 🕰️ Stable | 2025-06-27 |
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 轻量快速的AI助手，支持多平台多模型接入的聊天界面 | 88,905 | 🤖 AI | 🔥 Active | 2026-10-20 |
-| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 统一高效微调100多种LLM和VLM的工具 | 75,753 | 🤖 AI | 🔥 Active | 2026-10-21 |
-| [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 面向学术场景的LLM交互工具，支持论文阅读润色写作与多模型并行 | 71,566 | 🤖 AI | ✅ Maintained | 2026-01-25 |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 2小时从零训练64M参数小模型LLM的教程项目 | 64,530 | 🤖 AI | 🔥 Active | 2026-10-27 |
-| [xai-org/grok-1](https://github.com/xai-org/grok-1) | xAI公司开源的Grok大语言模型 | 52,220 | 🤖 AI | 🕰️ Stable | 2024-08-30 |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 支持文本视觉音频等多模态模型的深度学习框架，涵盖训练与推理 | 168,326 | 🤖 AI | 🔥 Active | 2026-10-29 |
+| [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | 深度求索推出的推理大模型，支持复杂推理任务 | 91,982 | 🤖 AI | 🕰️ Stable | 2025-06-27 |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 轻量快速的AI助手，支持多平台多模型接入的聊天界面 | 88,907 | 🤖 AI | 🔥 Active | 2026-10-20 |
+| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 统一高效微调100多种LLM和VLM的工具 | 75,768 | 🤖 AI | 🔥 Active | 2026-10-29 |
+| [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 面向学术场景的LLM交互工具，支持论文阅读润色写作与多模型并行 | 71,574 | 🤖 AI | ✅ Maintained | 2026-01-25 |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 2小时从零训练64M参数小模型LLM的教程项目 | 64,583 | 🤖 AI | 🔥 Active | 2026-10-27 |
+| [xai-org/grok-1](https://github.com/xai-org/grok-1) | xAI公司开源的Grok大语言模型 | 52,223 | 🤖 AI | 🕰️ Stable | 2024-08-30 |
 | [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) | 开源双语对话语言模型，支持中英文自然语言交互与生成 | Python | 40,900 | 🤖 AI | 🕰️ Stable |
-| [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | 大语言模型训练服务与评估的开放平台 | 39,549 | 🤖 AI | ✅ Maintained | 2026-05-01 |
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | AI提示词优化工具，帮助编写更好的提示词获得更好的AI结果 | 39,504 | 🤖 AI | 🔥 Active | 2026-10-28 |
-| [hankcs/HanLP](https://github.com/hankcs/HanLP) | 中文自然语言处理工具包，支持分词、命名实体识别、句法分析等 | 36,533 | 🤖 AI | 🔥 Active | 2026-10-25 |
-| [deepinsight/insightface](https://github.com/deepinsight/insightface) | 先进的2D和3D人脸分析开源项目 | 30,066 | 🤖 AI | 🔥 Active | 2026-10-19 |
-| [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) | 阿里云通义千问团队开发的Qwen3大语言模型系列 | 27,688 | 🤖 AI | ✅ Maintained | 2026-01-09 |
-| [index-tts/index-tts](https://github.com/index-tts/index-tts) | 工业级可控高效零样本文本转语音系统，支持跨语言和声音克隆 | 24,766 | 🤖 AI | 🔥 Active | 2026-09-29 |
-| [QwenLM/Qwen](https://github.com/QwenLM/Qwen) | 阿里云通义千问大语言模型官方仓库，包含预训练与对话模型 | 21,966 | 🤖 AI | ✅ Maintained | 2026-03-05 |
-| [guidance-ai/guidance](https://github.com/guidance-ai/guidance) | 用于控制大语言模型输出的指导语言框架 | 21,813 | 🤖 AI | ✅ Maintained | 2026-05-21 |
-| [modelscope/FunASR](https://github.com/modelscope/FunASR) | 开源语音识别工具包，支持训练推理流式ASR VAD标点说话人分离等 | 20,853 | 🤖 AI | 🔥 Active | 2026-10-28 |
-| [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) | 开放先进的视频生成大模型，支持高质量视频内容生成 | 18,228 | 🤖 AI | 🔥 Active | 2026-09-21 |
-| [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | 支持600多种LLM和300多种多模态大模型的微调框架，支持PEFT和全参数训练 | 15,972 | 🤖 AI | 🔥 Active | 2026-10-28 |
-| [zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) | 开源双语对话大语言模型，支持中英文自然语言交互与问答 | Python | 15,486 | 🤖 AI | 🕰️ Stable |
-| [567-labs/instructor](https://github.com/567-labs/instructor) | 为LLM提供结构化输出的Python库，支持Pydantic验证 | 14,068 | 🤖 AI | 🔥 Active | 2026-10-26 |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | AI提示词优化工具，帮助编写更好的提示词获得更好的AI结果 | 39,682 | 🤖 AI | 🔥 Active | 2026-10-28 |
+| [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | 大语言模型训练服务与评估的开放平台 | 39,548 | 🤖 AI | ✅ Maintained | 2026-05-01 |
+| [hankcs/HanLP](https://github.com/hankcs/HanLP) | 中文自然语言处理工具包，支持分词、命名实体识别、句法分析等 | 36,531 | 🤖 AI | 🔥 Active | 2026-10-25 |
+| [deepinsight/insightface](https://github.com/deepinsight/insightface) | 先进的2D和3D人脸分析开源项目 | 30,075 | 🤖 AI | 🔥 Active | 2026-10-19 |
+| [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) | 阿里云通义千问团队开发的Qwen3大语言模型系列 | 27,694 | 🤖 AI | ✅ Maintained | 2026-01-09 |
+| [index-tts/index-tts](https://github.com/index-tts/index-tts) | 工业级可控高效零样本文本转语音系统，支持跨语言和声音克隆 | 24,797 | 🤖 AI | 🔥 Active | 2026-09-29 |
+| [QwenLM/Qwen](https://github.com/QwenLM/Qwen) | 阿里云通义千问大语言模型官方仓库，包含预训练与对话模型 | 21,968 | 🤖 AI | ✅ Maintained | 2026-03-05 |
+| [guidance-ai/guidance](https://github.com/guidance-ai/guidance) | 用于控制大语言模型输出的指导语言框架 | 21,812 | 🤖 AI | ✅ Maintained | 2026-05-21 |
+| [modelscope/FunASR](https://github.com/modelscope/FunASR) | 开源语音识别工具包，支持训练推理流式ASR VAD标点说话人分离等 | 20,868 | 🤖 AI | 🔥 Active | 2026-10-28 |
+| [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) | 开放先进的视频生成大模型，支持高质量视频内容生成 | 18,250 | 🤖 AI | 🔥 Active | 2026-09-21 |
+| [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | 支持600多种LLM和300多种多模态大模型的微调框架，支持PEFT和全参数训练 | 15,983 | 🤖 AI | 🔥 Active | 2026-10-29 |
+| [zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) | 开源双语对话大语言模型，支持中英文自然语言交互与问答 | Python | 15,485 | 🤖 AI | 🕰️ Stable |
+| [567-labs/instructor](https://github.com/567-labs/instructor) | 为LLM提供结构化输出的Python库，支持Pydantic验证 | 14,074 | 🤖 AI | 🔥 Active | 2026-10-26 |
 | [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) | 智谱AI开源的双语对话大语言模型系列 | Python | 13,635 | 🤖 AI | 🕰️ Stable |
 | [rhasspy/piper](https://github.com/rhasspy/piper) | 快速本地神经网络文本转语音系统 | 11,314 | 🤖 AI | 📦 Archived | 2025-08-26 |
 | [vipstone/faceai](https://github.com/vipstone/faceai) | 入门级人脸视频文字检测与识别项目 | 11,095 | 🤖 AI | ⚠️ Stale | 2020-04-16 |
-| [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) | 开源多语言代码生成模型，支持多种编程语言的代码补全与生成 | 8,794 | 🤖 AI | 🕰️ Stable | 2024-08-13 |
-| [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) | StarCoder代码大模型的微调与推理工具 | 7,502 | 🤖 AI | 🕰️ Stable | 2024-02-27 |
-| [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | PC端离线语音输入工具，支持高准确率低延迟识别、热词和LLM润色 | 7,036 | 🤖 AI | 🔥 Active | 2026-09-14 |
+| [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) | 开源多语言代码生成模型，支持多种编程语言的代码补全与生成 | 8,795 | 🤖 AI | 🕰️ Stable | 2024-08-13 |
+| [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) | StarCoder代码大模型的微调与推理工具 | 7,501 | 🤖 AI | 🕰️ Stable | 2024-02-27 |
+| [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | PC端离线语音输入工具，支持高准确率低延迟识别、热词和LLM润色 | 7,039 | 🤖 AI | 🔥 Active | 2026-09-14 |
 | [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR) | 轻量级基于多模态大模型的文档解析模型 | 6,650 | 🤖 AI | ✅ Maintained | 2026-07-20 |
 | [shibing624/pycorrector](https://github.com/shibing624/pycorrector) | 文本纠错工具包，支持Kenlm T5 MacBERT ChatGLM3 Qwen2.5等模型 | 6,536 | 🤖 AI | ✅ Maintained | 2026-07-25 |
 | [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) | 思维树方法，让大语言模型进行深思熟虑的问题求解 | 6,084 | 🤖 AI | 🕰️ Stable | 2025-01-16 |
