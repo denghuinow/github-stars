@@ -4,12 +4,12 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | 从文本生成流程图时序图等图表的可视化工具，类似Markdown语法 | 90,917 | 🤖 AI | 🔥 Active | 2026-10-29 |
-| [dataease/dataease](https://github.com/dataease/dataease) | 人人可用的开源BI工具，支持数据可视化和商业智能分析 | 24,655 | 🤖 AI | 🔥 Active | 2026-10-29 |
-| [microsoft/data-formulator](https://github.com/microsoft/data-formulator) | AI驱动的数据分析系统，支持数据连接探索和可视化 | 17,629 | 🤖 AI | 🔥 Active | 2026-10-29 |
-| [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) | Python Echarts绘图库，支持丰富的交互式图表可视化 | 15,779 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) | 面向基础模型的数据处理工具，支持数据分析和可视化流水线 | 7,195 | 🤖 AI | 🔥 Active | 2026-10-29 |
-| [mljar/mercury](https://github.com/mljar/mercury) | 将Jupyter笔记本转换为可分享Web应用的工具，无需前端重写 | 4,359 | 🤖 AI | 🔥 Active | 2026-10-26 |
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | 从文本生成流程图时序图等图表的可视化工具，类似Markdown语法 | 90,929 | 🤖 AI | 🔥 Active | 2026-10-30 |
+| [dataease/dataease](https://github.com/dataease/dataease) | 人人可用的开源BI工具，支持数据可视化和商业智能分析 | 24,659 | 🤖 AI | 🔥 Active | 2026-10-30 |
+| [microsoft/data-formulator](https://github.com/microsoft/data-formulator) | AI驱动的数据分析系统，支持数据连接探索和可视化 | 17,631 | 🤖 AI | 🔥 Active | 2026-10-29 |
+| [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) | Python Echarts绘图库，支持丰富的交互式图表可视化 | 15,782 | 🤖 AI | 🔥 Active | 2026-10-26 |
+| [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) | 面向基础模型的数据处理工具，支持数据分析和可视化流水线 | 7,201 | 🤖 AI | 🔥 Active | 2026-10-30 |
+| [mljar/mercury](https://github.com/mljar/mercury) | 将Jupyter笔记本转换为可分享Web应用的工具，无需前端重写 | 4,358 | 🤖 AI | 🔥 Active | 2026-10-26 |
 | [mljar/plotai](https://github.com/mljar/plotai) | 使用ChatGPT在Python脚本或笔记本中直接创建Matplotlib图表的助手 | 361 | 📌 Manual | 🕰️ Stable | 2025-02-17 |
 | [nyanp/chat2plot](https://github.com/nyanp/chat2plot) | 通过对话与LLM交互生成数据可视化图表的工具 | 279 | 📌 Manual | 🕰️ Stable | 2023-11-19 |
 | [tingxueronghua/ChartLlama-code](https://github.com/tingxueronghua/ChartLlama-code) | ChartLlama图表理解与生成相关代码实现 | 256 | 🤖 AI | 🕰️ Stable | 2023-12-07 |
