@@ -2,10 +2,10 @@
 
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
-**总计 477 个项目** · 🤖 AI 449 · 📌 Manual 6 · ⚙️ Rule 22
-中文描述 476/477 · 🔥 Active 224 · ⚠️ Stale 50 · 📦 Archived 19
+**总计 478 个项目** · 🤖 AI 449 · 📌 Manual 6 · ⚙️ Rule 23
+中文描述 477/478 · 🔥 Active 225 · ⚠️ Stale 51 · 📦 Archived 19
 
-最后同步：`2026-10-30 08:44 UTC`
+最后同步：`2026-10-31 08:29 UTC`
 
 ## 分类
 
@@ -21,7 +21,7 @@
 | Dev Tools | IDE、CLI、调试、代码分析与开发效率工具 | 82 | [查看](categories/dev-tools.md) |
 | DevOps / Cloud | 容器、云原生、基础设施与运维自动化 | 21 | [查看](categories/devops-cloud.md) |
 | Embedded / Hardware | MCU、嵌入式、固件、电子与硬件开发 | 10 | [查看](categories/embedded-hardware.md) |
-| Networking / Security | 网络、代理、VPN、安全与渗透测试 | 41 | [查看](categories/networking-security.md) |
+| Networking / Security | 网络、代理、VPN、安全与渗透测试 | 42 | [查看](categories/networking-security.md) |
 | Learning / Resources | 教程、书籍、Awesome 列表、数据集与学习资料 | 81 | [查看](categories/learning-resources.md) |
 | Other | 暂未归入其他主题的项目 | 34 | [查看](categories/other.md) |
 
