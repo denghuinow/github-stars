@@ -4,33 +4,33 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [fatedier/frp](https://github.com/fatedier/frp) | 快速内网穿透反向代理工具，支持NAT和防火墙后的服务暴露 | 110,467 | 🤖 AI | 🔥 Active | 2026-11-05 |
-| [juanfont/headscale](https://github.com/juanfont/headscale) | 开源自托管的Tailscale控制服务器实现，支持WireGuard | 45,433 | 🤖 AI | 🔥 Active | 2026-11-07 |
-| [ehang-io/nps](https://github.com/ehang-io/nps) | 轻量级高性能内网穿透代理服务器，支持多种协议转发和Web管理端 | 34,254 | 🤖 AI | 🕰️ Stable | 2024-05-30 |
-| [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | 开源堡垒机平台，提供SSH、RDP、Kubernetes等终端的安全访问管理 | 31,917 | 🤖 AI | 🔥 Active | 2026-11-06 |
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 基于WireGuard的安全覆盖网络，支持SSO MFA和细粒度访问控制 | 30,752 | 🤖 AI | 🔥 Active | 2026-11-06 |
-| [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 测试Cloudflare CDN延迟和速度，获取最优IP地址的工具 | 29,851 | 🤖 AI | 🔥 Active | 2026-09-15 |
-| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 支持多种代理协议的一键安装脚本工具 | 22,297 | 🤖 AI | 🔥 Active | 2026-11-06 |
+| [fatedier/frp](https://github.com/fatedier/frp) | 快速内网穿透反向代理工具，支持NAT和防火墙后的服务暴露 | 110,471 | 🤖 AI | 🔥 Active | 2026-11-05 |
+| [juanfont/headscale](https://github.com/juanfont/headscale) | 开源自托管的Tailscale控制服务器实现，支持WireGuard | 45,457 | 🤖 AI | 🔥 Active | 2026-11-08 |
+| [ehang-io/nps](https://github.com/ehang-io/nps) | 轻量级高性能内网穿透代理服务器，支持多种协议转发和Web管理端 | 34,252 | 🤖 AI | 🕰️ Stable | 2024-05-30 |
+| [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) | 开源堡垒机平台，提供SSH、RDP、Kubernetes等终端的安全访问管理 | 31,920 | 🤖 AI | 🔥 Active | 2026-11-06 |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 基于WireGuard的安全覆盖网络，支持SSO MFA和细粒度访问控制 | 30,780 | 🤖 AI | 🔥 Active | 2026-11-07 |
+| [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 测试Cloudflare CDN延迟和速度，获取最优IP地址的工具 | 29,867 | 🤖 AI | 🔥 Active | 2026-09-15 |
+| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 支持多种代理协议的一键安装脚本工具 | 22,306 | 🤖 AI | 🔥 Active | 2026-11-07 |
 | [dromara/Sa-Token](https://github.com/dromara/Sa-Token) | 一站式Java权限认证框架支持登录鉴权与单点登录 | 19,111 | 🤖 AI | 🔥 Active | 2026-10-16 |
-| [vaxilu/x-ui](https://github.com/vaxilu/x-ui) | 支持多协议多用户的Xray代理管理面板 | 19,087 | 🤖 AI | 🕰️ Stable | 2024-08-19 |
-| [KaringX/karing](https://github.com/KaringX/karing) | 简单强大的代理工具，支持clash和sing-box路由规则 | 15,982 | 🤖 AI | 🔥 Active | 2026-11-05 |
-| [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 简单去中心化的Mesh VPN，支持WireGuard协议和NAT穿透 | 14,599 | 🤖 AI | 🔥 Active | 2026-11-07 |
-| [gravitl/netmaker](https://github.com/gravitl/netmaker) | 基于WireGuard的自动化虚拟网络工具，支持零信任和安全远程访问 | 11,857 | 🤖 AI | 🔥 Active | 2026-11-06 |
+| [vaxilu/x-ui](https://github.com/vaxilu/x-ui) | 支持多协议多用户的Xray代理管理面板 | 19,084 | 🤖 AI | 🕰️ Stable | 2024-08-19 |
+| [KaringX/karing](https://github.com/KaringX/karing) | 简单强大的代理工具，支持clash和sing-box路由规则 | 16,010 | 🤖 AI | 🔥 Active | 2026-11-05 |
+| [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 简单去中心化的Mesh VPN，支持WireGuard协议和NAT穿透 | 14,607 | 🤖 AI | 🔥 Active | 2026-11-08 |
+| [gravitl/netmaker](https://github.com/gravitl/netmaker) | 基于WireGuard的自动化虚拟网络工具，支持零信任和安全远程访问 | 11,859 | 🤖 AI | 🔥 Active | 2026-11-06 |
 | [hq450/fancyss_history_package](https://github.com/hq450/fancyss_history_package) | 科学上网代理插件的离线安装包存储仓库 | 11,031 | 🤖 AI | ✅ Maintained | 2026-05-20 |
-| [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) | 纯Java实现的WebSocket客户端和服务端库 | 10,795 | 🤖 AI | ✅ Maintained | 2026-01-13 |
-| [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) | 基于Nginx的Xray VLESS+XTLS代理一键安装脚本 | 9,253 | 🤖 AI | 🔥 Active | 2026-08-15 |
-| [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) | 为Android设备提供反向网络共享的工具 | 8,041 | 🤖 AI | 🕰️ Stable | 2024-08-11 |
-| [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray) | v2ray和xray多用户管理部署程序，支持多种协议 | 6,937 | 🤖 AI | 🕰️ Stable | 2024-02-24 |
-| [proxysu/ProxySU](https://github.com/proxysu/ProxySU) | 支持多种代理协议的一键安装工具，适用于Windows系统 | 5,716 | 🤖 AI | 🔥 Active | 2026-08-12 |
-| [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) | 用于暴力破解的密码字典集合 | 5,299 | 🤖 AI | ⚠️ Stale | 2022-03-21 |
-| [emqx/MQTTX](https://github.com/emqx/MQTTX) | 功能强大的MQTT 5.0客户端工具箱，支持桌面CLI和WebSocket | 5,097 | 🤖 AI | 🔥 Active | 2026-11-07 |
+| [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) | 纯Java实现的WebSocket客户端和服务端库 | 10,794 | 🤖 AI | ✅ Maintained | 2026-01-13 |
+| [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) | 基于Nginx的Xray VLESS+XTLS代理一键安装脚本 | 9,255 | 🤖 AI | 🔥 Active | 2026-08-15 |
+| [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) | 为Android设备提供反向网络共享的工具 | 8,042 | 🤖 AI | 🕰️ Stable | 2024-08-11 |
+| [Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray) | v2ray和xray多用户管理部署程序，支持多种协议 | 6,936 | 🤖 AI | 🕰️ Stable | 2024-02-24 |
+| [proxysu/ProxySU](https://github.com/proxysu/ProxySU) | 支持多种代理协议的一键安装工具，适用于Windows系统 | 5,717 | 🤖 AI | 🔥 Active | 2026-08-12 |
+| [rootphantomer/Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) | 用于暴力破解的密码字典集合 | 5,298 | 🤖 AI | ⚠️ Stale | 2022-03-21 |
+| [emqx/MQTTX](https://github.com/emqx/MQTTX) | 功能强大的MQTT 5.0客户端工具箱，支持桌面CLI和WebSocket | 5,095 | 🤖 AI | 🔥 Active | 2026-11-07 |
 | [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) | 使用Docker快速私有部署ZeroTier Planet服务 | 4,085 | 🤖 AI | 🔥 Active | 2026-10-13 |
-| [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) | 用于WiFi密码暴力破解的WPA和WPA2密码字典 | 3,903 | 🤖 AI | ⚠️ Stale | 2022-01-25 |
-| [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | OpenWrt路由器上的网络代理和科学上网插件 | 3,766 | 🤖 AI | 🔥 Active | 2026-11-07 |
-| [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) | One-KVM Rust 是一个用 Rust 编写的轻量级 IP-KVM 解决方案，可通过网络远程管理服务器和工作站，实现 BIOS 级远程控制。One-KVM Rust  is a lightweight IP-KVM solution written in Rust. It lets you manage servers and workstations over the network, including at BIOS level. | 2,616 | ⚙️ Rule | 🔥 Active | 2026-11-01 |
-| [chrisk44/Hijacker](https://github.com/chrisk44/Hijacker) | Android平台无线安全工具GUI应用，集成Aircrack和Reaver等工具 | 2,577 | 🤖 AI | 📦 Archived | 2020-08-26 |
-| [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) | 支持Shadowsocks、V2Ray、Trojan等多种协议的透明代理配置脚本 | 2,394 | 🤖 AI | ✅ Maintained | 2026-01-15 |
-| [FunctionClub/V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) | 基于 V2ray 协议的网络代理工具开发项目 | 1,949 | 🤖 AI | 📦 Archived | 2022-12-26 |
+| [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) | 用于WiFi密码暴力破解的WPA和WPA2密码字典 | 3,906 | 🤖 AI | ⚠️ Stale | 2022-01-25 |
+| [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | OpenWrt路由器上的网络代理和科学上网插件 | 3,771 | 🤖 AI | 🔥 Active | 2026-11-08 |
+| [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) | One-KVM Rust 是一个用 Rust 编写的轻量级 IP-KVM 解决方案，可通过网络远程管理服务器和工作站，实现 BIOS 级远程控制。One-KVM Rust  is a lightweight IP-KVM solution written in Rust. It lets you manage servers and workstations over the network, including at BIOS level. | 2,619 | ⚙️ Rule | 🔥 Active | 2026-11-01 |
+| [chrisk44/Hijacker](https://github.com/chrisk44/Hijacker) | Android平台无线安全工具GUI应用，集成Aircrack和Reaver等工具 | 2,578 | 🤖 AI | 📦 Archived | 2020-08-26 |
+| [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) | 支持Shadowsocks、V2Ray、Trojan等多种协议的透明代理配置脚本 | 2,393 | 🤖 AI | ✅ Maintained | 2026-01-15 |
+| [FunctionClub/V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) | 基于 V2ray 协议的网络代理工具开发项目 | 1,948 | 🤖 AI | 📦 Archived | 2022-12-26 |
 | [nfc-tools/mfoc](https://github.com/nfc-tools/mfoc) | Mifare Classic离线破解工具，用于NFC卡片安全分析 | 1,434 | 🤖 AI | 🕰️ Stable | 2024-07-17 |
 | [tmoonlight/NSmartProxy](https://github.com/tmoonlight/NSmartProxy) | 基于.NET Core的开源内网穿透工具 | 1,390 | 🤖 AI | 🔥 Active | 2026-08-14 |
 | [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) | 使用GPT-4自动化浏览器操作的浏览器扩展 | 1,277 | 🤖 AI | 🕰️ Stable | 2025-01-15 |
@@ -42,7 +42,7 @@
 | [xiaoyunjie/openvpn-cms-flask](https://github.com/xiaoyunjie/openvpn-cms-flask) | 基于OpenVPN的Web管理系统，前后端分离设计 | 322 | 🤖 AI | 🕰️ Stable | 2025-06-20 |
 | [luxiaok/DNSmasqWeb](https://github.com/luxiaok/DNSmasqWeb) | 基于DNSmasq的DNS解析与DHCP地址分配管理系统 | 224 | 🤖 AI | ⚠️ Stale | 2017-09-30 |
 | [dnomd343/XProxy](https://github.com/dnomd343/XProxy) | 虚拟旁路由网关，支持内网设备IPv4和IPv6双栈透明代理 | 223 | 🤖 AI | 🕰️ Stable | 2025-07-27 |
-| [kmahyyg/ztncui-aio](https://github.com/kmahyyg/ztncui-aio) | 自托管ZeroTier虚拟网络解决方案，支持SD-WAN功能 | 193 | 🤖 AI | 📦 Archived | 2025-11-24 |
+| [kmahyyg/ztncui-aio](https://github.com/kmahyyg/ztncui-aio) | 自托管ZeroTier虚拟网络解决方案，支持SD-WAN功能 | 192 | 🤖 AI | 📦 Archived | 2025-11-24 |
 | [v5tech/cas-server-webapp](https://github.com/v5tech/cas-server-webapp) | CAS Server 4.0二次开发，支持验证码校验、数据库认证和REST接口 | 126 | 🤖 AI | ⚠️ Stale | 2017-01-09 |
 | [Trisia/alg-sm2-demo](https://github.com/Trisia/alg-sm2-demo) | SM2国密椭圆曲线密码算法的Java调用演示程序 | 90 | 🤖 AI | ⚠️ Stale | 2021-08-13 |
 | [michaelroland/mfoc-android](https://github.com/michaelroland/mfoc-android) | Android平台上的Mifare Classic离线破解工具 | 24 | 🤖 AI | ⚠️ Stale | 2016-05-15 |
