@@ -5,7 +5,7 @@
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
 | [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) | 面向ESP8266和ESP32的Lua交互式固件 | 7,954 | 🤖 AI | 🔥 Active | 2026-11-03 |
-| [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) | 带网络功能的伪全息透明显示桌面站硬件项目 | 6,762 | 🤖 AI | ⚠️ Stale | 2023-10-29 |
+| [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) | 带网络功能的伪全息透明显示桌面站硬件项目 | 6,766 | 🤖 AI | ⚠️ Stale | 2023-10-29 |
 | [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) | 用于读取、写入和分析MIFARE Classic RFID标签的Android NFC应用 | 6,536 | 🤖 AI | 🔥 Active | 2026-10-11 |
 | [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) | 基于Xposed框架的安卓虚拟摄像头模块，通过hook实现虚拟摄像头功能 | 2,087 | 🤖 AI | 🕰️ Stable | 2024-06-14 |
 | [unifreq/openwrt_packit](https://github.com/unifreq/openwrt_packit) | 面向OpenWrt路由器的固件打包源码工具 | 1,692 | 🤖 AI | 🔥 Active | 2026-09-01 |
