@@ -2,10 +2,10 @@
 
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
-**总计 482 个项目** · 🤖 AI 448 · 📌 Manual 6 · ⚙️ Rule 28
-中文描述 480/482 · 🔥 Active 227 · ⚠️ Stale 52 · 📦 Archived 19
+**总计 483 个项目** · 🤖 AI 448 · 📌 Manual 6 · ⚙️ Rule 29
+中文描述 480/483 · 🔥 Active 229 · ⚠️ Stale 51 · 📦 Archived 19
 
-最后同步：`2026-11-15 09:33 UTC`
+最后同步：`2026-11-16 09:51 UTC`
 
 ## 分类
 
@@ -23,7 +23,7 @@
 | Embedded / Hardware | MCU、嵌入式、固件、电子与硬件开发 | 10 | [查看](categories/embedded-hardware.md) |
 | Networking / Security | 网络、代理、VPN、安全与渗透测试 | 42 | [查看](categories/networking-security.md) |
 | Learning / Resources | 教程、书籍、Awesome 列表、数据集与学习资料 | 80 | [查看](categories/learning-resources.md) |
-| Other | 暂未归入其他主题的项目 | 36 | [查看](categories/other.md) |
+| Other | 暂未归入其他主题的项目 | 37 | [查看](categories/other.md) |
 
 ## AI 元数据
 
