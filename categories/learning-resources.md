@@ -4,77 +4,77 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 社区共享的ChatGPT提示词收藏与发现平台 | 177,777 | 🤖 AI | 🔥 Active | 2026-11-18 |
-| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 面试与后端开发指南，覆盖计算机基础、数据库、分布式与系统设计 | 159,612 | 🤖 AI | 🔥 Active | 2026-10-25 |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100多个AI智能体智能技能和RAG应用的开源项目集合 | 144,992 | 🤖 AI | 🔥 Active | 2026-11-18 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 收集各类AI工具的系统提示词内部工具和AI模型信息 | 144,740 | 🤖 AI | 🔥 Active | 2026-10-12 |
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 动画图解数据结构与算法教程，支持多种编程语言实现，提供简中繁中等多语言版本 | 132,418 | 🤖 AI | 🔥 Active | 2026-11-18 |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 微软21课生成式AI入门教程，涵盖ChatGPT DALL-E和Prompt工程 | 123,790 | 🤖 AI | 🔥 Active | 2026-11-18 |
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 从零开始在PyTorch中逐步实现ChatGPT类大语言模型的教程 | 108,597 | 🤖 AI | 🔥 Active | 2026-11-09 |
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 阮一峰科技爱好者周刊，每周五发布技术资讯 | 108,288 | 🤖 AI | 🔥 Active | 2026-11-14 |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | MCP服务器的awesome列表集合 | 97,835 | 🤖 AI | 🔥 Active | 2026-11-17 |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 从零开始构建智能体的原理与实践教程，涵盖Agent LLM和RAG | 87,300 | 🤖 AI | 🔥 Active | 2026-11-13 |
-| [fighting41love/funNLP](https://github.com/fighting41love/funNLP) | 中文自然语言处理工具数据集与资源大全 | 84,670 | 🤖 AI | 🕰️ Stable | 2024-05-10 |
-| [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 动手学深度学习中文版教材，可运行可讨论 | 82,570 | 🤖 AI | 🕰️ Stable | 2024-07-30 |
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 微软出品的18课AI智能体入门教程，涵盖智能体框架和构建实践 | 80,257 | 🤖 AI | 🔥 Active | 2026-11-17 |
-| [doocs/advanced-java](https://github.com/doocs/advanced-java) | Java后端工程师进阶知识整理，涵盖高并发、分布式、微服务等核心领域 | Java | 79,178 | 🤖 AI | 🔥 Active |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 微软12周24课AI入门教程，涵盖计算机视觉深度学习和NLP | 71,004 | 🤖 AI | 🔥 Active | 2026-11-15 |
-| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 用Java实现的各种算法和数据结构集合，适合学习参考 | 67,278 | 🤖 AI | 🔥 Active | 2026-11-17 |
-| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 中国独立开发者项目列表，分享大家都在做什么项目 | 62,160 | 🤖 AI | 🔥 Active | 2026-11-18 |
-| [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100天机器学习编码挑战教程，涵盖多种ML算法实现 | 52,074 | 🤖 AI | 🕰️ Stable | 2023-12-29 |
-| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 分享GitHub上高质量有趣实用的开源技术教程开发者工具和技术资讯 | 48,487 | 🤖 AI | ✅ Maintained | 2025-12-31 |
-| [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 吴恩达机器学习课程的个人学习笔记与资源整理 | 38,134 | 🤖 AI | 🔥 Active | 2026-10-05 |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 社区共享的ChatGPT提示词收藏与发现平台 | 177,865 | 🤖 AI | 🔥 Active | 2026-11-19 |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 面试与后端开发指南，覆盖计算机基础、数据库、分布式与系统设计 | 159,619 | 🤖 AI | 🔥 Active | 2026-10-25 |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100多个AI智能体智能技能和RAG应用的开源项目集合 | 145,051 | 🤖 AI | 🔥 Active | 2026-11-18 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 收集各类AI工具的系统提示词内部工具和AI模型信息 | 144,753 | 🤖 AI | 🔥 Active | 2026-10-12 |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 动画图解数据结构与算法教程，支持多种编程语言实现，提供简中繁中等多语言版本 | 132,455 | 🤖 AI | 🔥 Active | 2026-11-18 |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 微软21课生成式AI入门教程，涵盖ChatGPT DALL-E和Prompt工程 | 123,848 | 🤖 AI | 🔥 Active | 2026-11-19 |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 从零开始在PyTorch中逐步实现ChatGPT类大语言模型的教程 | 108,650 | 🤖 AI | 🔥 Active | 2026-11-09 |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 阮一峰科技爱好者周刊，每周五发布技术资讯 | 108,341 | 🤖 AI | 🔥 Active | 2026-11-14 |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | MCP服务器的awesome列表集合 | 98,200 | 🤖 AI | 🔥 Active | 2026-11-17 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 从零开始构建智能体的原理与实践教程，涵盖Agent LLM和RAG | 87,393 | 🤖 AI | 🔥 Active | 2026-11-13 |
+| [fighting41love/funNLP](https://github.com/fighting41love/funNLP) | 中文自然语言处理工具数据集与资源大全 | 84,680 | 🤖 AI | 🕰️ Stable | 2024-05-10 |
+| [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 动手学深度学习中文版教材，可运行可讨论 | 82,587 | 🤖 AI | 🕰️ Stable | 2024-07-30 |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 微软出品的18课AI智能体入门教程，涵盖智能体框架和构建实践 | 80,443 | 🤖 AI | 🔥 Active | 2026-11-17 |
+| [doocs/advanced-java](https://github.com/doocs/advanced-java) | Java后端工程师进阶知识整理，涵盖高并发、分布式、微服务等核心领域 | Java | 79,183 | 🤖 AI | 🔥 Active |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 微软12周24课AI入门教程，涵盖计算机视觉深度学习和NLP | 71,023 | 🤖 AI | 🔥 Active | 2026-11-15 |
+| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 用Java实现的各种算法和数据结构集合，适合学习参考 | 67,283 | 🤖 AI | 🔥 Active | 2026-11-19 |
+| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 中国独立开发者项目列表，分享大家都在做什么项目 | 62,181 | 🤖 AI | 🔥 Active | 2026-11-19 |
+| [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 100天机器学习编码挑战教程，涵盖多种ML算法实现 | 52,076 | 🤖 AI | 🕰️ Stable | 2023-12-29 |
+| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 分享GitHub上高质量有趣实用的开源技术教程开发者工具和技术资讯 | 48,503 | 🤖 AI | ✅ Maintained | 2025-12-31 |
+| [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 吴恩达机器学习课程的个人学习笔记与资源整理 | 38,137 | 🤖 AI | 🔥 Active | 2026-10-05 |
 | [eugenp/tutorials](https://github.com/eugenp/tutorials) | Spring Boot 3 入门教程，涵盖 Spring 生态的实用指南与示例代码 | 37,308 | 🤖 AI | 🔥 Active | 2026-11-15 |
-| [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | 面向初学者的算法训练资源，包含大厂面经、力扣图解和开源电子书 | Java | 36,114 | 🤖 AI | ⚠️ Stale |
-| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 从零开始构建大模型的教程项目，涵盖LLM原理与实践 | 34,981 | 🤖 AI | ✅ Maintained | 2026-08-08 |
-| [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) | 开源大模型食用指南，涵盖Linux环境下快速微调部署国内外开源大模型教程 | 32,816 | 🤖 AI | 🔥 Active | 2026-11-17 |
-| [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | Spring Boot 教程与示例代码，涵盖多种技术栈集成实践 | 30,425 | 🤖 AI | 🕰️ Stable | 2023-11-18 |
-| [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) | 面向中国程序员的各类技术岗位简历模板集合 | 28,385 | 🤖 AI | 🕰️ Stable | 2024-08-14 |
+| [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | 面向初学者的算法训练资源，包含大厂面经、力扣图解和开源电子书 | Java | 36,115 | 🤖 AI | ⚠️ Stale |
+| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 从零开始构建大模型的教程项目，涵盖LLM原理与实践 | 35,000 | 🤖 AI | ✅ Maintained | 2026-08-08 |
+| [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) | 开源大模型食用指南，涵盖Linux环境下快速微调部署国内外开源大模型教程 | 32,823 | 🤖 AI | 🔥 Active | 2026-11-17 |
+| [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | Spring Boot 教程与示例代码，涵盖多种技术栈集成实践 | 30,425 | 🤖 AI | ⚠️ Stale | 2023-11-18 |
+| [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) | 面向中国程序员的各类技术岗位简历模板集合 | 28,387 | 🤖 AI | 🕰️ Stable | 2024-08-14 |
 | [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) | 秒杀系统设计与实现教程，互联网工程师进阶学习资料 | 26,558 | 🤖 AI | 🕰️ Stable | 2025-04-18 |
-| [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | 分享大模型技术原理和实战经验的项目，涵盖工程化和应用落地 | 25,294 | 🤖 AI | 🔥 Active | 2026-10-14 |
-| [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | Java工程师进阶学习指南与知识体系 | 25,274 | 🤖 AI | 🕰️ Stable | 2024-01-03 |
-| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 自托管指南，涵盖本地部署管理云LLM WireGuard自动化等主题 | 23,595 | 🤖 AI | 🕰️ Stable | 2025-06-27 |
-| [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) | 整理开源中文大语言模型及相关数据集、微调方案与教程 | 22,785 | 🤖 AI | ✅ Maintained | 2026-05-10 |
+| [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | 分享大模型技术原理和实战经验的项目，涵盖工程化和应用落地 | 25,296 | 🤖 AI | 🔥 Active | 2026-10-14 |
+| [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | Java工程师进阶学习指南与知识体系 | 25,275 | 🤖 AI | 🕰️ Stable | 2024-01-03 |
+| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 自托管指南，涵盖本地部署管理云LLM WireGuard自动化等主题 | 23,604 | 🤖 AI | 🕰️ Stable | 2025-06-27 |
+| [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) | 整理开源中文大语言模型及相关数据集、微调方案与教程 | 22,786 | 🤖 AI | ✅ Maintained | 2026-05-10 |
 | [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) | IntelliJ IDEA 及 JetBrains 系列 IDE 的简体中文专题教程 | 22,017 | 🤖 AI | 🕰️ Stable | 2025-09-12 |
-| [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) | 吴恩达深度学习课程的笔记与学习资源整理 | 21,256 | 🤖 AI | 🔥 Active | 2026-10-05 |
-| [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) | 中国省市区镇村五级行政区划数据集合 | 21,019 | 🤖 AI | ✅ Maintained | 2025-12-27 |
-| [linlinjava/litemall](https://github.com/linlinjava/litemall) | 基于Spring Boot和Vue的小商城完整项目示例，含小程序端 | 20,412 | 🤖 AI | 🔥 Active | 2026-08-20 |
-| [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) | AI系统全栈底层技术资源，涵盖AI芯片编译器和训练推理框架 | 18,174 | 🤖 AI | 🕰️ Stable | 2025-09-03 |
-| [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) | Spring Cloud 教程源码，涵盖 Eureka、Feign、Gateway 等核心组件 | 17,891 | 🤖 AI | ⚠️ Stale | 2021-04-12 |
-| [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) | Spring Boot实践学习案例与核心技术示例 | 16,552 | 🤖 AI | 🕰️ Stable | 2023-12-03 |
-| [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) | Spring Boot基础教程与实战示例 | 15,682 | 🤖 AI | 🕰️ Stable | 2023-12-17 |
+| [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) | 吴恩达深度学习课程的笔记与学习资源整理 | 21,264 | 🤖 AI | 🔥 Active | 2026-10-05 |
+| [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) | 中国省市区镇村五级行政区划数据集合 | 21,021 | 🤖 AI | ✅ Maintained | 2025-12-27 |
+| [linlinjava/litemall](https://github.com/linlinjava/litemall) | 基于Spring Boot和Vue的小商城完整项目示例，含小程序端 | 20,412 | 🤖 AI | ✅ Maintained | 2026-08-20 |
+| [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) | AI系统全栈底层技术资源，涵盖AI芯片编译器和训练推理框架 | 18,185 | 🤖 AI | 🕰️ Stable | 2025-09-03 |
+| [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) | Spring Cloud 教程源码，涵盖 Eureka、Feign、Gateway 等核心组件 | 17,890 | 🤖 AI | ⚠️ Stale | 2021-04-12 |
+| [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) | Spring Boot实践学习案例与核心技术示例 | 16,553 | 🤖 AI | 🕰️ Stable | 2023-12-03 |
+| [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) | Spring Boot基础教程与实战示例 | 15,681 | 🤖 AI | 🕰️ Stable | 2023-12-17 |
 | [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) | 大语言模型算法和应用工程师相关知识及面试题整理 | 15,407 | 🤖 AI | ✅ Maintained | 2026-06-14 |
-| [ty4z2008/Qix](https://github.com/ty4z2008/Qix) | 机器学习、深度学习、分布式系统、PostgreSQL等技术领域的资源合集 | 15,247 | 🤖 AI | 🔥 Active | 2026-09-06 |
-| [jaywcjlove/reference](https://github.com/jaywcjlove/reference) | 面向开发者的技术速查清单集合，涵盖多种技术与工具 | 15,238 | 🤖 AI | 🔥 Active | 2026-11-06 |
-| [LlamaChinese/Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) | Llama中文社区，汇总学习资料并构建中文Llama大模型开源生态 | 14,756 | 🤖 AI | 🕰️ Stable | 2025-04-06 |
-| [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) | Java程序员技术指南，包含面试题、系统架构和中间件知识 | 14,747 | 🤖 AI | 🕰️ Stable | 2025-07-21 |
-| [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) | ADB用法大全，涵盖Android调试桥的各种使用场景和命令 | 12,555 | 🤖 AI | 🔥 Active | 2026-09-29 |
-| [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) | ChatGPT中文使用指南与精选资源清单，涵盖提示词与应用开发 | 11,856 | 🤖 AI | 🔥 Active | 2026-11-18 |
-| [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) | 用动画讲解算法的程序员面试学习资源 | 10,756 | 🤖 AI | 🕰️ Stable | 2025-05-03 |
-| [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) | 大规模中文自然语言处理语料库，涵盖分类、问答、预训练等多种任务 | 9,938 | 🤖 AI | ✅ Maintained | 2026-02-06 |
-| [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) | 国内可用Docker镜像源汇总和DockerHub镜像加速器列表 | 9,861 | 🤖 AI | ✅ Maintained | 2026-06-13 |
-| [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | 面向中文用户的美股投资指南 | 8,284 | 🤖 AI | ✅ Maintained | 2026-07-22 |
-| [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) | 重学Java设计模式实战书籍，包含22个真实业务场景的设计模式案例 | 6,779 | 🤖 AI | 🕰️ Stable | 2024-05-10 |
-| [SophonPlus/ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) | 搜集整理并发布中文自然语言处理语料与数据集，促进中文NLP发展 | 6,620 | 🤖 AI | ⚠️ Stale | 2019-01-29 |
+| [ty4z2008/Qix](https://github.com/ty4z2008/Qix) | 机器学习、深度学习、分布式系统、PostgreSQL等技术领域的资源合集 | 15,249 | 🤖 AI | 🔥 Active | 2026-09-06 |
+| [jaywcjlove/reference](https://github.com/jaywcjlove/reference) | 面向开发者的技术速查清单集合，涵盖多种技术与工具 | 15,237 | 🤖 AI | 🔥 Active | 2026-11-06 |
+| [LlamaChinese/Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) | Llama中文社区，汇总学习资料并构建中文Llama大模型开源生态 | 14,757 | 🤖 AI | 🕰️ Stable | 2025-04-06 |
+| [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) | Java程序员技术指南，包含面试题、系统架构和中间件知识 | 14,748 | 🤖 AI | 🕰️ Stable | 2025-07-21 |
+| [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) | ADB用法大全，涵盖Android调试桥的各种使用场景和命令 | 12,556 | 🤖 AI | 🔥 Active | 2026-09-29 |
+| [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) | ChatGPT中文使用指南与精选资源清单，涵盖提示词与应用开发 | 11,858 | 🤖 AI | 🔥 Active | 2026-11-19 |
+| [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) | 用动画讲解算法的程序员面试学习资源 | 10,757 | 🤖 AI | 🕰️ Stable | 2025-05-03 |
+| [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) | 大规模中文自然语言处理语料库，涵盖分类、问答、预训练等多种任务 | 9,936 | 🤖 AI | ✅ Maintained | 2026-02-06 |
+| [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) | 国内可用Docker镜像源汇总和DockerHub镜像加速器列表 | 9,863 | 🤖 AI | ✅ Maintained | 2026-06-13 |
+| [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) | 面向中文用户的美股投资指南 | 8,287 | 🤖 AI | ✅ Maintained | 2026-07-22 |
+| [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) | 重学Java设计模式实战书籍，包含22个真实业务场景的设计模式案例 | 6,780 | 🤖 AI | 🕰️ Stable | 2024-05-10 |
+| [SophonPlus/ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) | 搜集整理并发布中文自然语言处理语料与数据集，促进中文NLP发展 | 6,621 | 🤖 AI | ⚠️ Stale | 2019-01-29 |
 | [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 中文AI大模型能力评测排行榜，涵盖374个大模型和超200万缺陷库 | 6,523 | 🤖 AI | 🔥 Active | 2026-11-18 |
-| [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) | 音视频流媒体技术资料整理，包含文章论文与实践项目 | 6,260 | 🤖 AI | 🕰️ Stable | 2024-05-20 |
+| [0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming) | 音视频流媒体技术资料整理，包含文章论文与实践项目 | 6,259 | 🤖 AI | 🕰️ Stable | 2024-05-20 |
 | [liyifeng1994/ssm](https://github.com/liyifeng1994/ssm) | 手把手教你整合SSM框架（SpringMVC + Spring + MyBatis）的教程项目 | 5,888 | 🤖 AI | ⚠️ Stale | 2022-12-16 |
-| [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) | 史上最大规模1.4亿中文知识图谱开源数据集 | 5,220 | 🤖 AI | 🔥 Active | 2026-11-10 |
-| [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) | 大模型白盒子构建指南，全手搓的Tiny-Universe教程 | 5,147 | 🤖 AI | ✅ Maintained | 2026-02-12 |
+| [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) | 史上最大规模1.4亿中文知识图谱开源数据集 | 5,222 | 🤖 AI | 🔥 Active | 2026-11-10 |
+| [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) | 大模型白盒子构建指南，全手搓的Tiny-Universe教程 | 5,148 | 🤖 AI | ✅ Maintained | 2026-02-12 |
 | [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) | 人脸识别相关论文与开源资源精选列表 | 4,766 | 🤖 AI | ⚠️ Stale | 2023-02-09 |
 | [TingsongYu/PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd) | PyTorch实用教程第二版，涵盖CV NLP LLM项目应用和工程化部署 | 4,640 | 🤖 AI | 🔥 Active | 2026-11-15 |
-| [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) | 整理大语言模型、AI绘画等领域的教程与学习资源 | 4,571 | 🤖 AI | 🕰️ Stable | 2024-03-31 |
-| [microsoft/AI-System](https://github.com/microsoft/AI-System) | 微软AI教育资源系统，提供AI学习材料 | 4,360 | 🤖 AI | 🕰️ Stable | 2024-10-25 |
-| [esbatmop/MNBVC](https://github.com/esbatmop/MNBVC) | 超大规模中文语料集，包含新闻小说书籍论文等多种形式的纯文本中文数据 | 4,308 | 🤖 AI | 🔥 Active | 2026-10-25 |
+| [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) | 整理大语言模型、AI绘画等领域的教程与学习资源 | 4,572 | 🤖 AI | 🕰️ Stable | 2024-03-31 |
+| [microsoft/AI-System](https://github.com/microsoft/AI-System) | 微软AI教育资源系统，提供AI学习材料 | 4,361 | 🤖 AI | 🕰️ Stable | 2024-10-25 |
+| [esbatmop/MNBVC](https://github.com/esbatmop/MNBVC) | 超大规模中文语料集，包含新闻小说书籍论文等多种形式的纯文本中文数据 | 4,309 | 🤖 AI | 🔥 Active | 2026-10-25 |
 | [PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) | 深度学习课程案例与知识百科资源集合 | 3,670 | 🤖 AI | 🕰️ Stable | 2024-07-25 |
 | [Avik-Jain/100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version) | 机器学习信息图的中文翻译版本 | 3,524 | 🤖 AI | ⚠️ Stale | 2018-09-10 |
 | [DSXiangLi/DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) | 汇总Prompt与LLM相关论文、开源数据及AIGC应用资源 | 3,454 | 🤖 AI | 🔥 Active | 2026-11-16 |
 | [crossoverJie/SSM](https://github.com/crossoverJie/SSM) | 从零构建 SSM 框架到分布式微服务的教程与源码 | 3,405 | 🤖 AI | 📦 Archived | 2018-07-02 |
-| [wquguru/harness-books](https://github.com/wquguru/harness-books) | 两本关于harness工程设计的书籍，涵盖Claude Code和Codex的设计哲学与多智能体验证 | 3,252 | 🤖 AI | ✅ Maintained | 2026-04-19 |
-| [XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) | 图相关大语言模型的awesome资源集合 | 2,452 | 🤖 AI | 🕰️ Stable | 2025-11-05 |
+| [wquguru/harness-books](https://github.com/wquguru/harness-books) | 两本关于harness工程设计的书籍，涵盖Claude Code和Codex的设计哲学与多智能体验证 | 3,253 | 🤖 AI | ✅ Maintained | 2026-04-19 |
+| [XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) | 图相关大语言模型的awesome资源集合 | 2,451 | 🤖 AI | 🕰️ Stable | 2025-11-05 |
 | [hankinghu/literature-books](https://github.com/hankinghu/literature-books) | 文学书籍TXT文本合集 | 2,060 | 🤖 AI | ⚠️ Stale | 2019-11-11 |
 | [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) | 基于LLM和RAG模式的应用资源集合 | 1,663 | 🤖 AI | 🔥 Active | 2026-10-12 |
-| [modelscope/modelscope-classroom](https://github.com/modelscope/modelscope-classroom) | ModelScope课堂教程资源 | 1,502 | 🤖 AI | ✅ Maintained | 2026-04-27 |
+| [modelscope/modelscope-classroom](https://github.com/modelscope/modelscope-classroom) | ModelScope课堂教程资源 | 1,503 | 🤖 AI | ✅ Maintained | 2026-04-27 |
 | [yizt/cv-papers](https://github.com/yizt/cv-papers) | 计算机视觉论文整理合集，涵盖图像分类、目标检测、人脸识别等领域 | 1,092 | 🤖 AI | ⚠️ Stale | 2021-07-28 |
 | [kebijuelun/Awesome-LLM-Learning](https://github.com/kebijuelun/Awesome-LLM-Learning) | 大语言模型学习资源集合，涵盖LLM相关知识 | 984 | 🤖 AI | ✅ Maintained | 2026-01-05 |
 | [JamesZBL/java_design_patterns](https://github.com/JamesZBL/java_design_patterns) | Java设计模式示例代码，涵盖创建型、结构型和行为型模式 | 683 | 🤖 AI | ⚠️ Stale | 2018-04-20 |
