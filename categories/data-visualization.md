@@ -4,11 +4,11 @@
 
 | Repository | 中文描述 | Stars | Classifier | Status | Last push |
 |---|---|---:|---|---|---|
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | 从文本生成流程图时序图等图表的可视化工具，类似Markdown语法 | 91,223 | 🤖 AI | 🔥 Active | 2026-11-23 |
-| [dataease/dataease](https://github.com/dataease/dataease) | 人人可用的开源BI工具，支持数据可视化和商业智能分析 | 24,736 | 🤖 AI | 🔥 Active | 2026-11-24 |
-| [microsoft/data-formulator](https://github.com/microsoft/data-formulator) | AI驱动的数据分析系统，支持数据连接探索和可视化 | 17,696 | 🤖 AI | 🔥 Active | 2026-11-24 |
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | 从文本生成流程图时序图等图表的可视化工具，类似Markdown语法 | 91,246 | 🤖 AI | 🔥 Active | 2026-11-25 |
+| [dataease/dataease](https://github.com/dataease/dataease) | 人人可用的开源BI工具，支持数据可视化和商业智能分析 | 24,740 | 🤖 AI | 🔥 Active | 2026-11-25 |
+| [microsoft/data-formulator](https://github.com/microsoft/data-formulator) | AI驱动的数据分析系统，支持数据连接探索和可视化 | 17,698 | 🤖 AI | 🔥 Active | 2026-11-25 |
 | [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) | Python Echarts绘图库，支持丰富的交互式图表可视化 | 15,780 | 🤖 AI | 🔥 Active | 2026-10-26 |
-| [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) | 面向基础模型的数据处理工具，支持数据分析和可视化流水线 | 7,272 | 🤖 AI | 🔥 Active | 2026-11-24 |
+| [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) | 面向基础模型的数据处理工具，支持数据分析和可视化流水线 | 7,274 | 🤖 AI | 🔥 Active | 2026-11-25 |
 | [mljar/mercury](https://github.com/mljar/mercury) | 将Jupyter笔记本转换为可分享Web应用的工具，无需前端重写 | 4,358 | 🤖 AI | 🔥 Active | 2026-10-26 |
 | [mljar/plotai](https://github.com/mljar/plotai) | 使用ChatGPT在Python脚本或笔记本中直接创建Matplotlib图表的助手 | 361 | 📌 Manual | 🕰️ Stable | 2025-02-17 |
 | [nyanp/chat2plot](https://github.com/nyanp/chat2plot) | 通过对话与LLM交互生成数据可视化图表的工具 | 279 | 📌 Manual | ⚠️ Stale | 2023-11-19 |
