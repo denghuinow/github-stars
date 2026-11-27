@@ -2,17 +2,17 @@
 
 自动整理 [@denghuinow](https://github.com/denghuinow) 的 GitHub Star 收藏。
 
-**总计 488 个项目** · 🤖 AI 448 · 📌 Manual 6 · ⚙️ Rule 34
-中文描述 485/488 · 🔥 Active 233 · ⚠️ Stale 53 · 📦 Archived 20
+**总计 490 个项目** · 🤖 AI 448 · 📌 Manual 6 · ⚙️ Rule 36
+中文描述 487/490 · 🔥 Active 234 · ⚠️ Stale 53 · 📦 Archived 20
 
-最后同步：`2026-11-26 10:59 UTC`
+最后同步：`2026-11-27 10:58 UTC`
 
 ## 分类
 
 | Category | 中文说明 | Count | Index |
 |---|---|---:|---|
 | AI / Agents | 智能体、编码助手、MCP 与工具调用生态 | 91 | [查看](categories/ai-agents.md) |
-| AI / LLM | 大语言模型、训练微调、NLP 与语音相关项目 | 44 | [查看](categories/ai-llm.md) |
+| AI / LLM | 大语言模型、训练微调、NLP 与语音相关项目 | 45 | [查看](categories/ai-llm.md) |
 | AI / LLM Serving | 大模型推理、部署、加速与服务框架 | 26 | [查看](categories/ai-llm-serving.md) |
 | AI / RAG & Knowledge | RAG、知识库、向量检索与 GraphRAG | 27 | [查看](categories/ai-rag-knowledge.md) |
 | AI / NL2SQL | 自然语言转 SQL 与智能数据查询 | 7 | [查看](categories/ai-nl2sql.md) |
@@ -22,7 +22,7 @@
 | DevOps / Cloud | 容器、云原生、基础设施与运维自动化 | 21 | [查看](categories/devops-cloud.md) |
 | Embedded / Hardware | MCU、嵌入式、固件、电子与硬件开发 | 10 | [查看](categories/embedded-hardware.md) |
 | Networking / Security | 网络、代理、VPN、安全与渗透测试 | 42 | [查看](categories/networking-security.md) |
-| Learning / Resources | 教程、书籍、Awesome 列表、数据集与学习资料 | 80 | [查看](categories/learning-resources.md) |
+| Learning / Resources | 教程、书籍、Awesome 列表、数据集与学习资料 | 81 | [查看](categories/learning-resources.md) |
 | Other | 暂未归入其他主题的项目 | 39 | [查看](categories/other.md) |
 
 ## AI 元数据
